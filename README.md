@@ -1,1 +1,3 @@
-# Paleoclima_con_R_2023-2024
+#  Práctica de Paleoclima con R2023-2024
+
+Archivos necesarios
