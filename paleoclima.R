@@ -1,11 +1,11 @@
 
-#### PRíCTICA DE PALEOCLIMA CON R
-# En esta práctica vamos a construir una herramienta nueva para "detectar" paleoglaciares ibí©ricos
+#### PRÁCTICA DE PALEOCLIMA CON R
+# En esta práctica vamos a construir una herramienta nueva para "detectar" paleoglaciares ibéricos
 # (lugares que fueron ocupados por glaciares en el pasado) durante el Plesitoceno superior y el Holoceno.
 # Para ello, debemos recordar la definición de glaciar, y cuales son los factores que condicionan la existencia de estos.
 # Discutir la distribución de glaciares en el mundo (https://eoimages.gsfc.nasa.gov/images/imagerecords/83000/83918/global_glaciers_rgi_lrg.jpg),
 # la influencia de la latitud, altitud, precipitación, temperatura, viento, etc.
-# Â¿Cuales son los principales factores que condicionan la aparición, o no, de un glaciar en un lugar concreto?
+# ¿Cuales son los principales factores que condicionan la aparición, o no, de un glaciar en un lugar concreto?
 
 ## PAQUETES QUE NECESTIAREMOS
 # install.packages(c("terra","sf","giscoR","tidyverse","tidyterra"))
@@ -27,9 +27,9 @@ library(tidyterra)
 glaciares<-read_csv("glacier_inventory_query.csv") 
 # Esto es loq ue hemos importado:
 glaciares
-# La íºltima columna (primary_class) indica quí© tipo de masa de hielo es.
+# La última columna (primary_class) indica qué tipo de masa de hielo es.
 # Consultar págs 9-10 de la documentación: https://nsidc.org/sites/default/files/g01130-v001-userguide_1_0.pdf
-# En esta base de datos, Â¿son todo realmente glaciares?
+# En esta base de datos, ¿son todo realmente glaciares?
 
 # Crear referencias de tipos de hielo basadas en los valores para primary_class
 tipos_hielo<-as.character(glaciares$primary_class) %>%
@@ -39,7 +39,7 @@ tipos_hielo<-as.character(glaciares$primary_class) %>%
                     '3' = 'Glaciar de escape',
                     '4' = 'Glaciar de escape',
                     '5' = 'Glaciar de valle',
-                    '6' = 'Glaciar de montaí±a',
+                    '6' = 'Glaciar de montaña',
                     '7' = 'Nicho de nivación',
                     '8' = 'Plataforma de hielo',
                     '9' = 'Glaciar rocoso'))  %>%
@@ -114,7 +114,7 @@ ggplot(data = glaciares,
   geom_point(aes(colour = tipos_hielo)) +
   scale_colour_manual(values=c("#f1c40f", "#FF5733", "#58d68d")) 
 
-# Para intentar entender dónde aparecen glaciers, vamos a buscar con quí© condiciones de humedad y temperatura encontramos glaciares actualemente.
+# Para intentar entender dónde aparecen glaciers, vamos a buscar con qué condiciones de humedad y temperatura encontramos glaciares actualemente.
 
 # Extraer precipitaciones del mapa para las coordinadas donde tenemos glaciares
 precip_media<-terra::extract(precipitation_pib,
@@ -124,7 +124,7 @@ precip_media<-terra::extract(precipitation_pib,
 temp_media<-terra::extract(temperature_pib,
                                  as.data.frame(select(glaciares, lon, lat)))$mean
              
-# Aí±adir estos datos a nuestra base de datos de glaciares
+# Añadir estos datos a nuestra base de datos de glaciares
 glaciares<-add_column(glaciares,temp_media,precip_media)
 
 # Comprobamos que está bien
@@ -139,14 +139,14 @@ ggplot(data = glaciares,
 
 ## CREAR NUESTRO MODELO DE "PREDICCIíN DE GALCIARES"
 
-# Â¿En que combinación de condiciones de precipitación (mí­nima) y temperatura (máxima) hay glaciares?
+# ¿En que combinación de condiciones de precipitación (mí­nima) y temperatura (máxima) hay glaciares?
 max_temp<-max(filter(glaciares,primary_class<7)$temp_media)
 min_precip<-min(filter(glaciares,primary_class<7)$precip_media)
 
-# Â¡Ya tenemos nuestro buscador de glaciares!
+# ¡Ya tenemos nuestro buscador de glaciares!
 prediccion_actual<-precipitation_pib$mean>min_precip & temperature_pib<max_temp
 este_ano<-as.numeric(format(Sys.time(), "%Y"))
-plot(prediccion_actual,main=este_ano) # en el tí­tulo ponemos el aí±o al que corresponde la predicción
+plot(prediccion_actual,main=este_ano) # en el tí­tulo ponemos el año al que corresponde la predicción
 
 # Comparamos con glaciares reales
 
@@ -156,9 +156,9 @@ ggplot(data = glaciares,
   geom_point(aes(shape = tipos_hielo),alpha=0.5, size=2)+
   scale_shape_manual(values=c(15,17,1))
 
-# Â¿Se predicen correctamente los lugares donde encontramos glaciares?
-# Â¿Se predicen correctamente los lugares donde NO encontramos glaciares?
-# Â¿Quí© utilidad tiene este modelo?
+# ¿Se predicen correctamente los lugares donde encontramos glaciares?
+# ¿Se predicen correctamente los lugares donde NO encontramos glaciares?
+# ¿Qué utilidad tiene este modelo?
 
 ## VIAJANDO EN EL TIEMPO
 
@@ -175,12 +175,12 @@ ggplot(data = glaciares,
 datos_nature<-readxl::read_excel("41586_2021_3984_MOESM3_ESM.xlsx")
 
 # En realidad solo nos interesan la primera y la septima columna,
-# que se correponden con los "Aí±os BP" y la variación media de la temperatura en la Tierra 
+# que se correponden con los "Años BP" y la variación media de la temperatura en la Tierra 
 rango_edad<-datos_nature[2:121,1]
 delta_temp<-datos_nature[2:121,7]
 
 # Como las edades se dan en un rango, calcularemos la media del rango,
-# y el aí±o en la referencia de "Era Comíºn", ya que BP significa "antes de 1950".
+# y el año en la referencia de "Era Común", ya que BP significa "antes de 1950".
 # Para ello, primero declaramos unos vectores vací­os...
 annos <- vector('numeric', nrow(rango_edad))
 variacion_temp<-vector('numeric', nrow(rango_edad))
@@ -192,8 +192,8 @@ for (n in 1:nrow(rango_edad)) {
   variacion_temp[n]<-as.numeric(delta_temp[n,])
 }
 
-# Ya tenemos las variables annos (aí±os) y la variación de temperatura correspondiente a esos aí±os (variacion_temp).
-# Ahora solo necesitamos variar la temperatura en nuesro modelo para generar "mapas" de predicción de glaciares para esto aí±os.
+# Ya tenemos las variables annos (años) y la variación de temperatura correspondiente a esos años (variacion_temp).
+# Ahora solo necesitamos variar la temperatura en nuesro modelo para generar "mapas" de predicción de glaciares para esto años.
 # Para ello, usaremos la función "jpeg" para guardar archivos de todas nuestras predicciones en nuestro directorio de trabajo
 jpeg(file = "Prediccion_%d.jpeg")
 # Luego creamos un monton de figuras en un bucle (que se guardarán como jpeg)
@@ -204,9 +204,9 @@ for (n in 1:nrow(rango_edad)) {
 # y finalmente le decimos a R que deje de guardar archivos
 dev.off()
 
-# Segíºn estas predicciones:
-# Â¿Demuestra este modelo que hubo paleoglaciares en Galicia?
-# Â¿En que otros lugares de Iberia pudo haber glaciares en los íºltimos 22.000 aí±os?
-# Â¿Cuanto hace que en Galicia se dieron las condiciones necesarias para albergar glaciares?
-# En los íºltimos 24.000 aí±os, Â¿Cuándo se dieron las condiciones más favorables para el glaciarismo ibí©rico?
-# Â¿Quí© se podrí­a mejorar en este modelo de predicción de glaciares?
+# Según estas predicciones:
+# ¿Demuestra este modelo que hubo paleoglaciares en Galicia?
+# ¿En que otros lugares de Iberia pudo haber glaciares en los últimos 22.000 años?
+# ¿Cuanto hace que en Galicia se dieron las condiciones necesarias para albergar glaciares?
+# En los últimos 24.000 años, ¿Cuándo se dieron las condiciones más favorables para el glaciarismo ibérico?
+# ¿Qué se podrí­a mejorar en este modelo de predicción de glaciares?
