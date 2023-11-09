@@ -1,11 +1,11 @@
 
-#### PRÃCTICA DE PALEOCLIMA CON R
-# En esta prÃ¡ctica vamos a construir una herramienta nueva para "detectar" paleoglaciares ibÃ©ricos
+#### PRíCTICA DE PALEOCLIMA CON R
+# En esta práctica vamos a construir una herramienta nueva para "detectar" paleoglaciares ibí©ricos
 # (lugares que fueron ocupados por glaciares en el pasado) durante el Plesitoceno superior y el Holoceno.
-# Para ello, debemos recordar la definiciÃ³n de glaciar, y cuales son los factores que condicionan la existencia de estos.
-# Discutir la distribuciÃ³n de glaciares en el mundo (https://eoimages.gsfc.nasa.gov/images/imagerecords/83000/83918/global_glaciers_rgi_lrg.jpg),
-# la influencia de la latitud, altitud, precipitaciÃ³n, temperatura, viento, etc.
-# Â¿Cuales son los principales factores que condicionan la apariciÃ³n, o no, de un glaciar en un lugar concreto?
+# Para ello, debemos recordar la definición de glaciar, y cuales son los factores que condicionan la existencia de estos.
+# Discutir la distribución de glaciares en el mundo (https://eoimages.gsfc.nasa.gov/images/imagerecords/83000/83918/global_glaciers_rgi_lrg.jpg),
+# la influencia de la latitud, altitud, precipitación, temperatura, viento, etc.
+# Â¿Cuales son los principales factores que condicionan la aparición, o no, de un glaciar en un lugar concreto?
 
 ## PAQUETES QUE NECESTIAREMOS
 # install.packages(c("terra","sf","giscoR","tidyverse","tidyterra"))
@@ -15,7 +15,7 @@ library(tidyverse)
 library(giscoR)
 library(tidyterra)
 
-## LOCALIZAR LOS GLACIARES IBÃRICOS
+## LOCALIZAR LOS GLACIARES IBíRICOS
 
 # Descargar base de datos de masas de hielo en Iberia
 # https://nsidc.org/data/glacier_inventory/query.html
@@ -27,8 +27,8 @@ library(tidyterra)
 glaciares<-read_csv("glacier_inventory_query.csv") 
 # Esto es loq ue hemos importado:
 glaciares
-# La Ãºltima columna (primary_class) indica quÃ© tipo de masa de hielo es.
-# Consultar pÃ¡gs 9-10 de la documentaciÃ³n: https://nsidc.org/sites/default/files/g01130-v001-userguide_1_0.pdf
+# La íºltima columna (primary_class) indica quí© tipo de masa de hielo es.
+# Consultar págs 9-10 de la documentación: https://nsidc.org/sites/default/files/g01130-v001-userguide_1_0.pdf
 # En esta base de datos, Â¿son todo realmente glaciares?
 
 # Crear referencias de tipos de hielo basadas en los valores para primary_class
@@ -39,8 +39,8 @@ tipos_hielo<-as.character(glaciares$primary_class) %>%
                     '3' = 'Glaciar de escape',
                     '4' = 'Glaciar de escape',
                     '5' = 'Glaciar de valle',
-                    '6' = 'Glaciar de montaÃ±a',
-                    '7' = 'Nicho de nivaciÃ³n',
+                    '6' = 'Glaciar de montaí±a',
+                    '7' = 'Nicho de nivación',
                     '8' = 'Plataforma de hielo',
                     '9' = 'Glaciar rocoso'))  %>%
   as.vector()
@@ -51,24 +51,24 @@ ggplot(data = glaciares,
   geom_point(aes(colour = tipos_hielo))+
   scale_colour_manual(values=c("#f1c40f", "#FF5733", "#58d68d"))    
 
-## DISTRIBUCIONES DE PRECIPITACIÃN Y TEMPERATURA
+## DISTRIBUCIONES DE PRECIPITACIíN Y TEMPERATURA
 
-# Archivos para la prÃ¡ctica de paleoclima: registros de precipitaciÃ³n y temperatura de esuropa desde "siempre"
+# Archivos para la práctica de paleoclima: registros de precipitación y temperatura de E-OBS Copernicus (https://surfobs.climate.copernicus.eu/dataaccess/access_eobs.php)
 # https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/rr_ens_mean_0.1deg_reg_v28.0e.nc
 # https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tg_ens_mean_0.1deg_reg_v28.0e.nc
-temperature <- rast("/home/angel/Downloads/tg_ens_mean_0.1deg_reg_v28.0e.nc")
-precipitation <- rast("/home/angel/Downloads/rr_ens_mean_0.1deg_reg_v28.0e.nc")
+temperature <- rast("~/Downloads/tg_ens_mean_0.1deg_reg_v28.0e.nc")
+precipitation <- rast("~/Downloads/rr_ens_mean_0.1deg_reg_v28.0e.nc")
 
 # Representar los datos descargados
-# plot(precipitacion)
-# plot(temperature)
+plot(precipitacion)
+plot(temperature)
 
-# Calcular las medias de precipitaciÃ³n y temperatura en toda europa para toda la base de datos
-# OJO: esto tarda MUCHO. Mejor cargar medias europeas ya calculadas (unas 10 lÃ­neas mÃ¡s abajo)
+# Calcular las medias de precipitación y temperatura en toda europa para toda la base de datos
+# OJO: esto tarda MUCHO. Mejor cargar medias europeas ya calculadas (unas 10 lí­neas más abajo)
 temp_mean<-app(temperature,mean)
 prec_mean<-app(precipitation,mean)
 
-# Exporta los mapas de precipitaciÃ³n y temperatura medias de Europa
+# Exporta los mapas de precipitación y temperatura medias de Europa
 writeRaster(temp_mean,"temp_mean_europe.tiff")
 writeRaster(prec_mean,"prec_mean_europe.tiff")
 writeRaster(temp_mean,"temp_mean_europe.nc")
@@ -76,15 +76,15 @@ writeRaster(prec_mean,"prec_mean_europe.nc")
 
 # Cargar medias europeas ya calculadas.
 # Se pueden descargar de https://github.com/angelrodes/Paleoclima_con_R_2023-2024
-temp_mean<-rast("temp_mean_europe.tiff")
-prec_mean<-rast("prec_mean_europe.tiff")
-# (Es conveniente leer los comentarios antes de ejecutar las ordenes sin mirar. AhorrarÃ¡s tiempo...)
+temp_mean<-rast("temp_mean_europe.tiff") # temperatura media de todos los datos de E-OBS Copernicus
+prec_mean<-rast("prec_mean_europe.tiff") # precipitación mensual media de todos los datos de E-OBS Copernicus
+# (Es conveniente leer los comentarios antes de ejecutar las ordenes sin mirar. Ahorrarás tiempo...)
 
-# Dibuja los mapas de precipitaciÃ³n y temperatura medias de Europa
+# Dibuja los mapas de precipitación y temperatura medias de Europa
 plot(temp_mean)
 plot(prec_mean)
 
-# límites de la PIB (Peninsula Iberica y Baleares) OJO: COMPRUBA QUE FUNCIONA SIN RNATRUALEARTH
+# límites de la PIB (Peninsula Iberica y Baleares) 
 limites_pib <- gisco_get_countries(country = c("Spain", "Portugal"), resolution = 03)
 
 # Podemos excluir las islas atlanticas, para ello aplicamos la funcion st_crop al objeto creado 
@@ -96,25 +96,25 @@ limites_pib <- st_crop(limites_pib, ext(-10, 5, 35, 45))  #xmin(lon min) xmax(lo
 temperature_pib <- crop(temp_mean, limites_pib)
 precipitation_pib <- crop(prec_mean, limites_pib)
 
-# Comprobamos que estÃ¡ bien
+# Comprobamos que está bien
 plot(temperature_pib)
 plot(precipitation_pib)
 
-# Comparar la distribuciÃ³n de las masas de hielo con la temperatura media
+# Comparar la distribución de las masas de hielo con la temperatura media
 ggplot(data = glaciares,                      
        aes(glaciares$lon,glaciares$lat)) +  
   stat_spatraster(data = temperature_pib)+
   geom_point(aes(colour = tipos_hielo)) +
   scale_colour_manual(values=c("#f1c40f", "#FF5733", "#58d68d")) 
   
-# Comparar la distribuciÃ³n de las masas de hielo con la precipitaciÃ³n media
+# Comparar la distribución de las masas de hielo con la precipitación media
 ggplot(data = glaciares,                      
        aes(glaciares$lon,glaciares$lat)) +  
   stat_spatraster(data = precipitation_pib)+
   geom_point(aes(colour = tipos_hielo)) +
   scale_colour_manual(values=c("#f1c40f", "#FF5733", "#58d68d")) 
 
-# Para intentar entender dÃ³nde aparecen glaciers, vamos a buscar con quÃ© condiciones de humedad y temperatura encontramos glaciares actualemente.
+# Para intentar entender dónde aparecen glaciers, vamos a buscar con quí© condiciones de humedad y temperatura encontramos glaciares actualemente.
 
 # Extraer precipitaciones del mapa para las coordinadas donde tenemos glaciares
 precip_media<-terra::extract(precipitation_pib,
@@ -124,29 +124,29 @@ precip_media<-terra::extract(precipitation_pib,
 temp_media<-terra::extract(temperature_pib,
                                  as.data.frame(select(glaciares, lon, lat)))$mean
              
-# AÃ±adir estos datos a nuestra base de datos de glaciares
+# Aí±adir estos datos a nuestra base de datos de glaciares
 glaciares<-add_column(glaciares,temp_media,precip_media)
 
-# Comprobamos que estÃ¡ bien
+# Comprobamos que está bien
 glaciares
 
-# Representa los valores de precipitaciÃ³n y temperatura correspondientes a la posiciÃ³n de los "glaciares"
+# Representa los valores de precipitación y temperatura correspondientes a la posición de los "glaciares"
 ggplot(data = glaciares,                      
        aes(glaciares$temp_media,glaciares$precip_media)) +  
   geom_point(aes(colour = tipos_hielo,size=tipos_hielo))+
   scale_size_manual(values=c(5, 4, 2))+
   scale_colour_manual(values=c("#f1c40f", "#FF5733", "#58d68d"))    
 
-## CREAR NUESTRO MODELO DE "PREDICCIÃN DE GALCIARES"
+## CREAR NUESTRO MODELO DE "PREDICCIíN DE GALCIARES"
 
-# Â¿En que combinaciÃ³n de condiciones de precipitaciÃ³n (mÃ­nima) y temperatura (mÃ¡xima) hay glaciares?
+# Â¿En que combinación de condiciones de precipitación (mí­nima) y temperatura (máxima) hay glaciares?
 max_temp<-max(filter(glaciares,primary_class<7)$temp_media)
 min_precip<-min(filter(glaciares,primary_class<7)$precip_media)
 
 # Â¡Ya tenemos nuestro buscador de glaciares!
 prediccion_actual<-precipitation_pib$mean>min_precip & temperature_pib<max_temp
 este_ano<-as.numeric(format(Sys.time(), "%Y"))
-plot(prediccion_actual,main=este_ano) # en el tÃ­tulo ponemos el aÃ±o al que corresponde la predicciÃ³n
+plot(prediccion_actual,main=este_ano) # en el tí­tulo ponemos el aí±o al que corresponde la predicción
 
 # Comparamos con glaciares reales
 
@@ -158,33 +158,33 @@ ggplot(data = glaciares,
 
 # Â¿Se predicen correctamente los lugares donde encontramos glaciares?
 # Â¿Se predicen correctamente los lugares donde NO encontramos glaciares?
-# Â¿QuÃ© utilidad tiene este modelo?
+# Â¿Quí© utilidad tiene este modelo?
 
 ## VIAJANDO EN EL TIEMPO
 
-# Ahora intentaremos usar nuestro modelo de predicciÃ³n de glaciares 
+# Ahora intentaremos usar nuestro modelo de predicción de glaciares 
 # para otros momentos de la historia de la Tierra en los que conococemos 
 # las variaciones de temperatura respecto a la temperatura actual.
 
 # Para ello, descargaremos los datos del registro de temperaturas
-# que aparece en la Fig. 2 de este artÃ­culo: https://www.nature.com/articles/s41586-021-03984-4#MOESM3
-# El enlace lo encontramos al final del artÃ­culo como "Source Data Fig. 2"
+# que aparece en la Fig. 2 de este artí­culo: https://www.nature.com/articles/s41586-021-03984-4#MOESM3
+# El enlace lo encontramos al final del artí­culo como "Source Data Fig. 2"
 # (En caso de no tener acceso a Nature, el archivo xlsx se puede descargar del mismo repositorio que los tiff de arriba.)
 
 # Importamos los datos de excel
 datos_nature<-readxl::read_excel("41586_2021_3984_MOESM3_ESM.xlsx")
 
 # En realidad solo nos interesan la primera y la septima columna,
-# que se correponden con los "AÃ±os BP" y la variaciÃ³n media de la temperatura en la Tierra 
+# que se correponden con los "Aí±os BP" y la variación media de la temperatura en la Tierra 
 rango_edad<-datos_nature[2:121,1]
 delta_temp<-datos_nature[2:121,7]
 
 # Como las edades se dan en un rango, calcularemos la media del rango,
-# y el aÃ±o en la referencia de "Era ComÃºn", ya que BP significa "antes de 1950".
-# Para ello, primero declaramos unos vectores vacÃ­os...
+# y el aí±o en la referencia de "Era Comíºn", ya que BP significa "antes de 1950".
+# Para ello, primero declaramos unos vectores vací­os...
 annos <- vector('numeric', nrow(rango_edad))
 variacion_temp<-vector('numeric', nrow(rango_edad))
-# ...y luego hacemos los cÃ¡lculos en un bucle:
+# ...y luego hacemos los cálculos en un bucle:
 for (n in 1:nrow(rango_edad)) {
   rango_inf<-as.numeric(gsub("([0-9]+)-([0-9]+)", "\\1",rango_edad[n,]))
   rango_sup<-as.numeric(gsub("([0-9]+)-([0-9]+)", "\\2",rango_edad[n,]))
@@ -192,11 +192,11 @@ for (n in 1:nrow(rango_edad)) {
   variacion_temp[n]<-as.numeric(delta_temp[n,])
 }
 
-# Ya tenemos las variables annos (aÃ±os) y la variaciÃ³n de temperatura correspondiente a esos aÃ±os (variacion_temp).
-# Ahora solo necesitamos variar la temperatura en nuesro modelo para generar "mapas" de predicciÃ³n de glaciares para esto aÃ±os.
-# Para ello, usaremos la funciÃ³n "jpeg" para guardar archivos de todas nuestras predicciones en nuestro directorio de trabajo
+# Ya tenemos las variables annos (aí±os) y la variación de temperatura correspondiente a esos aí±os (variacion_temp).
+# Ahora solo necesitamos variar la temperatura en nuesro modelo para generar "mapas" de predicción de glaciares para esto aí±os.
+# Para ello, usaremos la función "jpeg" para guardar archivos de todas nuestras predicciones en nuestro directorio de trabajo
 jpeg(file = "Prediccion_%d.jpeg")
-# Luego creamos un monton de figuras en un bucle (que se guardarÃ¡n como jpeg)
+# Luego creamos un monton de figuras en un bucle (que se guardarán como jpeg)
 for (n in 1:nrow(rango_edad)) {
   prediccion<-precipitation_pib$mean>min_precip & temperature_pib<max_temp-variacion_temp[n]
   plot(prediccion,main=annos[n])
@@ -204,9 +204,9 @@ for (n in 1:nrow(rango_edad)) {
 # y finalmente le decimos a R que deje de guardar archivos
 dev.off()
 
-# SegÃºn estas predicciones:
+# Segíºn estas predicciones:
 # Â¿Demuestra este modelo que hubo paleoglaciares en Galicia?
-# Â¿En que otros lugares de Iberia pudo haber glaciares en los Ãºltimos 22.000 aÃ±os?
+# Â¿En que otros lugares de Iberia pudo haber glaciares en los íºltimos 22.000 aí±os?
 # Â¿Cuanto hace que en Galicia se dieron las condiciones necesarias para albergar glaciares?
-# En los Ãºltimos 24.000 aÃ±os, Â¿CuÃ¡ndo se dieron las condiciones mÃ¡s favorables para el glaciarismo ibÃ©rico?
-# Â¿QuÃ© se podrÃ­a mejorar en este modelo de predicciÃ³n de glaciares?
+# En los íºltimos 24.000 aí±os, Â¿Cuándo se dieron las condiciones más favorables para el glaciarismo ibí©rico?
+# Â¿Quí© se podrí­a mejorar en este modelo de predicción de glaciares?
