@@ -84,10 +84,8 @@ prec_mean<-rast("prec_mean_europe.tiff")
 plot(temp_mean)
 plot(prec_mean)
 
-# lÃ­mites de la PIB (Peninsula Iberica y Baleares) OJO: COMPRUBA QUE FUNCIONA SIN RNATRUALEARTH
-limites_pib <- ne_countries(scale = 10, 
-                            country = c("Spain", "Portugal","France"), 
-                            returnclass = "sf")
+# límites de la PIB (Peninsula Iberica y Baleares) OJO: COMPRUBA QUE FUNCIONA SIN RNATRUALEARTH
+limites_pib <- gisco_get_countries(country = c("Spain", "Portugal"), resolution = 03)
 
 # Podemos excluir las islas atlanticas, para ello aplicamos la funcion st_crop al objeto creado 
 # Hemos de especificar la extension (funcion ext) 
