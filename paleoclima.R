@@ -1,5 +1,5 @@
 
-#### PRÁCTICA DE PALEOCLIMA CON R
+#### PRÁCTICA DE PALEOCLIMA CON R
 # En esta práctica vamos a construir una herramienta nueva para "detectar" paleoglaciares ibéricos
 # (lugares que fueron ocupados por glaciares en el pasado) durante el Plesitoceno superior y el Holoceno.
 # Para ello, debemos recordar la definición de glaciar, y cuales son los factores que condicionan la existencia de estos.
@@ -15,16 +15,17 @@ library(tidyverse)
 library(giscoR)
 library(tidyterra)
 
-## LOCALIZAR LOS GLACIARES IBíRICOS
+## LOCALIZAR LOS GLACIARES europeos
 
-# Descargar base de datos de masas de hielo en Iberia
+# Descargar base de datos de masas de hielo
 # https://nsidc.org/data/glacier_inventory/query.html
-# Latitud de 35N a 45N
-# Longitud de -10E (10W) a 5E
+# Latitud de 35N a 72N
+# Longitud de -11E (10W) a 39E
 # Formato: CSV
-# Movel el archivo "glacier_inventory_query.csv" al directorio de trabajo
+# Movel el archivo "glacier_inventory_query.csv" al directorio de trabajo 
+# y renombrarlo a "glaciares_europeos.csv"
 # Cargar los datos
-glaciares<-read_csv("glacier_inventory_query.csv") 
+glaciares<-read_csv("glaciares_europeos.csv") 
 # Esto es loq ue hemos importado:
 glaciares
 # La última columna (primary_class) indica qué tipo de masa de hielo es.
@@ -45,13 +46,25 @@ tipos_hielo<-as.character(glaciares$primary_class) %>%
                     '9' = 'Glaciar rocoso'))  %>%
   as.vector()
 
+# Filtramos los que no son glaciares de verdad
+filter(glaciares,primary_class<7) -> glaciares
+# (Podemos usar el asignador al rev'es!)
+tipos_hielo<-as.character(glaciares$primary_class) %>%
+  str_replace_all(c('0'  = 'Varios',
+                    '1' = 'Casquete glaciar continental',
+                    '2' = 'Banquisa',
+                    '3' = 'Glaciar de escape',
+                    '4' = 'Glaciar de escape',
+                    '5' = 'Glaciar de valle',
+                    '6' = 'Glaciar de montaña'))  %>%
+  as.vector()
+
 # Representar masas de hielo en un "mapa":
 ggplot(data = glaciares,                      
        aes(glaciares$lon,glaciares$lat)) +  
-  geom_point(aes(colour = tipos_hielo))+
-  scale_colour_manual(values=c("#f1c40f", "#FF5733", "#58d68d"))    
+  geom_point(aes(colour = tipos_hielo))    
 
-## DISTRIBUCIONES DE PRECIPITACIíN Y TEMPERATURA
+## DISTRIBUCIONES DE PRECIPITACI'ON Y TEMPERATURA
 
 # Archivos para la práctica de paleoclima: registros de precipitación y temperatura de E-OBS Copernicus (https://surfobs.climate.copernicus.eu/dataaccess/access_eobs.php)
 # https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/rr_ens_mean_0.1deg_reg_v28.0e.nc
@@ -84,48 +97,43 @@ prec_mean<-rast("prec_mean_europe.tiff") # precipitación mensual media de todos
 plot(temp_mean)
 plot(prec_mean)
 
-# límites de la PIB (Peninsula Iberica y Baleares) 
-limites_pib <- gisco_get_countries(country = c("Spain", "Portugal"), resolution = 03)
-
-# Podemos excluir las islas atlanticas, para ello aplicamos la funcion st_crop al objeto creado 
-# Hemos de especificar la extension (funcion ext) 
-limites_pib <- st_crop(limites_pib, ext(-10, 5, 35, 45))  #xmin(lon min) xmax(lon max) ymin (lat min) ymax (lat max)
-
-
-# Aplicamos el recorte (crop; paquete terra) a nuestros SpatRaster de los limites establecidos para la PIB.
-temperature_pib <- crop(temp_mean, limites_pib)
-precipitation_pib <- crop(prec_mean, limites_pib)
-
-# Comprobamos que está bien
-plot(temperature_pib)
-plot(precipitation_pib)
 
 # Comparar la distribución de las masas de hielo con la temperatura media
 ggplot(data = glaciares,                      
        aes(glaciares$lon,glaciares$lat)) +  
-  stat_spatraster(data = temperature_pib)+
-  geom_point(aes(colour = tipos_hielo)) +
-  scale_colour_manual(values=c("#f1c40f", "#FF5733", "#58d68d")) 
+  stat_spatraster(data = temp_mean)+
+  geom_point(aes(colour = tipos_hielo)) 
   
 # Comparar la distribución de las masas de hielo con la precipitación media
 ggplot(data = glaciares,                      
        aes(glaciares$lon,glaciares$lat)) +  
-  stat_spatraster(data = precipitation_pib)+
-  geom_point(aes(colour = tipos_hielo)) +
-  scale_colour_manual(values=c("#f1c40f", "#FF5733", "#58d68d")) 
+  stat_spatraster(data = prec_mean)+
+  geom_point(aes(colour = tipos_hielo)) 
 
 # Para intentar entender dónde aparecen glaciers, vamos a buscar con qué condiciones de humedad y temperatura encontramos glaciares actualemente.
 
 # Extraer precipitaciones del mapa para las coordinadas donde tenemos glaciares
-precip_media<-terra::extract(precipitation_pib,
+precip_media<-terra::extract(prec_mean,
         as.data.frame(select(glaciares, lon, lat)))$mean
 
 # Extraer temperaturas del mapa para las coordinadas donde tenemos glaciares
-temp_media<-terra::extract(temperature_pib,
+temp_media<-terra::extract(temp_mean,
                                  as.data.frame(select(glaciares, lon, lat)))$mean
              
 # Añadir estos datos a nuestra base de datos de glaciares
 glaciares<-add_column(glaciares,temp_media,precip_media)
+
+# Nos deshacemos de los glaciares en los que no se ha podido extraer temp_media por estar en el mar (banquisas del noroeste)
+filter(glaciares,!is.na(temp_media)) -> glaciares
+tipos_hielo<-as.character(glaciares$primary_class) %>%
+  str_replace_all(c('0'  = 'Varios',
+                    '1' = 'Casquete glaciar continental',
+                    '2' = 'Banquisa',
+                    '3' = 'Glaciar de escape',
+                    '4' = 'Glaciar de escape',
+                    '5' = 'Glaciar de valle',
+                    '6' = 'Glaciar de montaña'))  %>%
+  as.vector()
 
 # Comprobamos que está bien
 glaciares
@@ -133,18 +141,33 @@ glaciares
 # Representa los valores de precipitación y temperatura correspondientes a la posición de los "glaciares"
 ggplot(data = glaciares,                      
        aes(glaciares$temp_media,glaciares$precip_media)) +  
-  geom_point(aes(colour = tipos_hielo,size=tipos_hielo))+
-  scale_size_manual(values=c(5, 4, 2))+
-  scale_colour_manual(values=c("#f1c40f", "#FF5733", "#58d68d"))    
+  geom_point(aes(colour = tipos_hielo))
 
-## CREAR NUESTRO MODELO DE "PREDICCIíN DE GALCIARES"
+## CREAR NUESTRO MODELO DE "PREDICCI'ON DE GALCIARES"
 
-# ¿En que combinación de condiciones de precipitación (mí­nima) y temperatura (máxima) hay glaciares?
-max_temp<-max(filter(glaciares,primary_class<7)$temp_media)
-min_precip<-min(filter(glaciares,primary_class<7)$precip_media)
+# ¿En que combinación de condiciones de precipitación (m'inima) y temperatura (máxima) hay glaciares?
+max_temp<-max(glaciares$temp_media)
+min_precip<-min(glaciares$precip_media)
 
-# ¡Ya tenemos nuestro buscador de glaciares!
-prediccion_actual<-precipitation_pib$mean>min_precip & temperature_pib<max_temp
+# ¡Construimos nuestro buscador de glaciares!
+prediccion_actual<-prec_mean$mean>min_precip & temp_mean<max_temp
+este_ano<-as.numeric(format(Sys.time(), "%Y"))
+plot(prediccion_actual,main=este_ano) # en el tí­tulo ponemos el año al que corresponde la predicción
+
+# Es realista?
+# Quizas estemos sobreestimando la cantidad de glaciares 
+# debido a la aproximaci'on de condiciones en areas de unos 100 km2?
+# Vamos a redefinir los l'imites:
+ggplot(data = glaciares,                      
+       aes(glaciares$temp_media,glaciares$precip_media)) +  
+  geom_point(aes(colour = tipos_hielo))
+
+# Algo as'i?
+max_temp<-quantile(glaciares$temp_media,0.99)
+min_precip<-quantile(glaciares$precip_media,0.01)
+
+# ¡Re-construimos nuestro buscador de glaciares!
+prediccion_actual<-prec_mean$mean>min_precip & temp_mean<max_temp
 este_ano<-as.numeric(format(Sys.time(), "%Y"))
 plot(prediccion_actual,main=este_ano) # en el tí­tulo ponemos el año al que corresponde la predicción
 
@@ -153,8 +176,14 @@ plot(prediccion_actual,main=este_ano) # en el tí­tulo ponemos el año al que c
 ggplot(data = glaciares,                      
        aes(glaciares$lon,glaciares$lat)) +  
   stat_spatraster(data = prediccion_actual)+
-  geom_point(aes(shape = tipos_hielo),alpha=0.5, size=2)+
-  scale_shape_manual(values=c(15,17,1))
+  geom_point(alpha=0.1, size=0.1, shape=1)
+
+# Vamos a ver el Pirineo y los Alpes
+ggplot(data = glaciares,                      
+       aes(glaciares$lon,glaciares$lat)) +  
+  stat_spatraster(data = prediccion_actual)+
+  geom_point(alpha=0.1, size=0.1, shape=1)+
+  xlim(-1, 16)+ylim(42,48)
 
 # ¿Se predicen correctamente los lugares donde encontramos glaciares?
 # ¿Se predicen correctamente los lugares donde NO encontramos glaciares?
@@ -192,16 +221,27 @@ for (n in 1:nrow(rango_edad)) {
   variacion_temp[n]<-as.numeric(delta_temp[n,])
 }
 
+# Esta es la curva de [ tiempo - varaici'on de temperatura ] que vamos a usar
+plot(annos,variacion_temp)
+
 # Ya tenemos las variables annos (años) y la variación de temperatura correspondiente a esos años (variacion_temp).
 # Ahora solo necesitamos variar la temperatura en nuesro modelo para generar "mapas" de predicción de glaciares para esto años.
 # Para ello, usaremos la función "jpeg" para guardar archivos de todas nuestras predicciones en nuestro directorio de trabajo
 jpeg(file = "Prediccion_%d.jpeg")
 # Luego creamos un monton de figuras en un bucle (que se guardarán como jpeg)
 for (n in 1:nrow(rango_edad)) {
-  prediccion<-precipitation_pib$mean>min_precip & temperature_pib<max_temp-variacion_temp[n]
+  prediccion<-prec_mean$mean>min_precip & temp_mean<max_temp-variacion_temp[n]
   plot(prediccion,main=annos[n])
 }
 # y finalmente le decimos a R que deje de guardar archivos
+dev.off()
+
+# Repetimos, pero solo para Iberia
+jpeg(file = "Prediccion_Iberia_%d.jpeg")
+for (n in 1:nrow(rango_edad)) {
+  prediccion<-prec_mean$mean>min_precip & temp_mean<max_temp-variacion_temp[n]
+  plot(prediccion,main=annos[n], xlim=c(-10, 4),ylim=c(36,44))
+}
 dev.off()
 
 # Según estas predicciones:
@@ -209,4 +249,4 @@ dev.off()
 # ¿En que otros lugares de Iberia pudo haber glaciares en los últimos 22.000 años?
 # ¿Cuanto hace que en Galicia se dieron las condiciones necesarias para albergar glaciares?
 # En los últimos 24.000 años, ¿Cuándo se dieron las condiciones más favorables para el glaciarismo ibérico?
-# ¿Qué se podrí­a mejorar en este modelo de predicción de glaciares?
+# ¿Qué se podría mejorar en este modelo de predicción de glaciares?
