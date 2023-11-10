@@ -165,6 +165,8 @@ ggplot(data = glaciares,
 # Algo as'i?
 max_temp<-quantile(glaciares$temp_media,0.99)
 min_precip<-quantile(glaciares$precip_media,0.01)
+# Ignorar el 1% m'as alto o m'as bajo de los datos es
+# una manera tosca, pero efectiva, de eliminar "datoa at'ipicos" (outliers)
 
 # ¡Re-construimos nuestro buscador de glaciares!
 prediccion_actual<-prec_mean$mean>min_precip & temp_mean<max_temp
@@ -184,6 +186,20 @@ ggplot(data = glaciares,
   stat_spatraster(data = prediccion_actual)+
   geom_point(alpha=0.1, size=0.1, shape=1)+
   xlim(-1, 16)+ylim(42,48)
+
+# Solo los Alpes
+ggplot(data = glaciares,                      
+       aes(glaciares$lon,glaciares$lat)) +  
+  stat_spatraster(data = prediccion_actual)+
+  geom_point(alpha=0.5, size=0.1, shape=1)+
+  xlim(5, 16)+ylim(43,48)
+
+# Solo el Pirineo
+ggplot(data = glaciares,                      
+       aes(glaciares$lon,glaciares$lat)) +  
+  stat_spatraster(data = prediccion_actual)+
+  geom_point(alpha=0.5, size=0.1, shape=1)+
+  xlim(-3, 4)+ylim(40,44)
 
 # ¿Se predicen correctamente los lugares donde encontramos glaciares?
 # ¿Se predicen correctamente los lugares donde NO encontramos glaciares?
