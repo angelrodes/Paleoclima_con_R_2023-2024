@@ -171,7 +171,7 @@ min_precip<-quantile(glaciares$precip_media,0.01)
 # ¡Re-construimos nuestro buscador de glaciares!
 prediccion_actual<-prec_mean$mean>min_precip & temp_mean<max_temp
 este_ano<-as.numeric(format(Sys.time(), "%Y"))
-plot(prediccion_actual,main=este_ano) # en el tí­tulo ponemos el año al que corresponde la predicción
+plot(prediccion_actual,main=este_ano) # en el título ponemos el año al que corresponde la predicción
 
 # Comparamos con glaciares reales
 
@@ -213,6 +213,7 @@ ggplot(data = glaciares,
 
 # Para ello, descargaremos los datos del registro de temperaturas
 # que aparece en la Fig. 2 de este artí­culo: https://www.nature.com/articles/s41586-021-03984-4#MOESM3
+
 # El enlace lo encontramos al final del artí­culo como "Source Data Fig. 2"
 # (En caso de no tener acceso a Nature, el archivo xlsx se puede descargar del mismo repositorio que los tiff de arriba.)
 
@@ -228,7 +229,7 @@ delta_temp<-datos_nature[2:121,7]
 # y el año en la referencia de "Era Común", ya que BP significa "antes de 1950".
 # Para ello, primero declaramos unos vectores vací­os...
 annos <- vector('numeric', nrow(rango_edad))
-variacion_temp<-vector('numeric', nrow(rango_edad))
+variacion_temp<-vector('numeric', nrow(delta_temp))
 # ...y luego hacemos los cálculos en un bucle:
 for (n in 1:nrow(rango_edad)) {
   rango_inf<-as.numeric(gsub("([0-9]+)-([0-9]+)", "\\1",rango_edad[n,]))
@@ -242,15 +243,25 @@ plot(annos,variacion_temp)
 
 # Ya tenemos las variables annos (años) y la variación de temperatura correspondiente a esos años (variacion_temp).
 # Ahora solo necesitamos variar la temperatura en nuesro modelo para generar "mapas" de predicción de glaciares para esto años.
-# Para ello, usaremos la función "jpeg" para guardar archivos de todas nuestras predicciones en nuestro directorio de trabajo
-jpeg(file = "Prediccion_%d.jpeg")
-# Luego creamos un monton de figuras en un bucle (que se guardarán como jpeg)
 for (n in 1:nrow(rango_edad)) {
-  prediccion<-prec_mean$mean>min_precip & temp_mean<max_temp-variacion_temp[n]
+  prediccion<-prec_mean$mean>min_precip & temp_mean+variacion_temp[n]<max_temp
   plot(prediccion,main=annos[n])
 }
 # y finalmente le decimos a R que deje de guardar archivos
 dev.off()
+# Para generar una animaci'on "bonita" podriamos usar la librer'ia "gganimate", que funciona bien con ggplot2
+
+# Ahora repetimos los mismo, pero guardando los gráficos en archivos:
+# Para ello, usaremos la función "jpeg" para guardar archivos de todas nuestras predicciones en nuestro directorio de trabajo
+jpeg(file = "Prediccion_%d.jpeg")
+# Luego creamos un monton de figuras en un bucle (que se guardarán como jpeg)
+for (n in 1:nrow(rango_edad)) {
+  prediccion<-prec_mean$mean>min_precip & temp_mean+variacion_temp[n]<max_temp
+  plot(prediccion,main=annos[n])
+}
+# y finalmente le decimos a R que deje de guardar archivos
+dev.off()
+# Para generar una animaci'on "bonita" podriamos usar la librer'ia "gganimate", que funciona bien con ggplot2
 
 # Repetimos, pero solo para Iberia
 jpeg(file = "Prediccion_Iberia_%d.jpeg")
@@ -263,6 +274,6 @@ dev.off()
 # Según estas predicciones:
 # ¿Demuestra este modelo que hubo paleoglaciares en Galicia?
 # ¿En que otros lugares de Iberia pudo haber glaciares en los últimos 22.000 años?
-# ¿Cuanto hace que en Galicia se dieron las condiciones necesarias para albergar glaciares?
+# ¿Cuanto hace, como m'inimo, que en Galicia se dieron las condiciones necesarias para albergar glaciares?
 # En los últimos 24.000 años, ¿Cuándo se dieron las condiciones más favorables para el glaciarismo ibérico?
 # ¿Qué se podría mejorar en este modelo de predicción de glaciares?
