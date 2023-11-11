@@ -46,6 +46,11 @@ tipos_hielo<-as.character(glaciares$primary_class) %>%
                     '9' = 'Glaciar rocoso'))  %>%
   as.vector()
 
+# Representar masas de hielo en un "mapa":
+ggplot(data = glaciares,                      
+       aes(glaciares$lon,glaciares$lat)) +  
+  geom_point(aes(colour = tipos_hielo))  
+
 # Filtramos los que no son glaciares de verdad
 filter(glaciares,primary_class<7) -> glaciares
 # (Podemos usar el asignador al rev'es!)
