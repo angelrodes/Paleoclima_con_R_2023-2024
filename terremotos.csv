@@ -1,0 +1,1086 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-10T13:59:50.431Z,36.9912,4.4918,10,4.5,mb,37,83,2.906,0.95,us,us6000nxv3,2024-11-02T16:52:05.040Z,"27 km NE of Arhribs, Algeria",earthquake,3.84,1.885,0.127,18,reviewed,us,us
+2024-09-14T18:47:43.886Z,42.8846,7.2336,7.094,4.1,mwr,40,95,3.002,0.79,us,us7000ndu7,2024-11-21T22:58:57.040Z,"62 km SE of Ramatuelle, France",earthquake,5.62,3.657,0.086,13,reviewed,us,us
+2024-08-26T04:11:37.277Z,38.0222,-9.5047,6.586,5,mwr,107,28,1.038,0.56,us,us7000n9fh,2024-11-09T21:19:13.040Z,"56 km W of Sines, Portugal",earthquake,5.69,3.418,0.075,17,reviewed,us,us
+2024-08-13T22:51:37.616Z,35.4614,-3.6174,10,4.1,mb,33,115,2.326,0.69,us,us6000npvz,2024-10-26T15:48:09.040Z,"37 km NE of Al Hoceïma, Morocco",earthquake,4.91,1.951,0.198,7,reviewed,us,us
+2024-05-27T00:40:24.609Z,35.5311,-3.5066,10,4.3,mb,67,71,2.379,0.58,us,us6000n16p,2024-08-06T20:32:45.040Z,"49 km NE of Al Hoceïma, Morocco",earthquake,6.36,1.848,0.078,47,reviewed,us,us
+2024-04-20T12:44:11.463Z,35.2614,4.6777,10,4.3,mb,35,78,3.838,0.54,us,us6000mu0s,2024-06-25T21:02:32.040Z,"51 km SSE of M’sila, Algeria",earthquake,5.01,1.887,0.119,20,reviewed,us,us
+2024-03-15T20:17:46.665Z,35.4522,-3.5566,8.919,4.5,mww,105,62,2.375,0.55,us,us6000mj5v,2024-05-18T21:23:14.040Z,"41 km ENE of Al Hoceïma, Morocco",earthquake,6.66,3.984,0.089,12,reviewed,us,us
+2024-02-14T13:33:40.584Z,35.6066,0.1094,10,4.6,mb,81,48,2.169,0.52,us,us7000lz5x,2024-04-24T14:42:02.040Z,"23 km N of Mascara, Algeria",earthquake,7.42,1.703,0.067,67,reviewed,us,us
+2024-02-04T23:04:37.418Z,34.5606,-5.4315,8.37,4.2,mb,21,91,1.779,0.5,us,us7000lxu3,2024-04-13T19:38:00.040Z,"29 km SSE of Ouezzane, Morocco",earthquake,6.05,5.829,0.263,4,reviewed,us,us
+2023-11-21T05:52:05.341Z,44.4556,6.8591,6.606,4.1,mb,31,91,0.61,0.73,us,us6000lprc,2024-02-01T15:13:41.040Z,"10 km WSW of Acceglio, Italy",earthquake,2.16,4.973,0.174,9,reviewed,us,us
+2023-09-30T12:46:38.220Z,42.7665,-6.2979,10,4,mb,17,141,2.543,0.35,us,us6000lbx2,2023-12-09T22:00:42.040Z,"4 km NNW of Igüeña, Spain",earthquake,5.96,1.926,0.232,5,reviewed,us,us
+2023-08-28T17:42:06.184Z,42.5778,0.9428,10.018,4.6,mb,45,94,0.231,0.65,us,us7000krix,2023-11-04T21:35:41.040Z,"11 km W of Espot, Spain",earthquake,4.37,4.615,0.109,25,reviewed,us,us
+2023-06-24T11:45:15.548Z,44.06,-11.8227,9.882,4.4,mb,34,91,4.844,0.63,us,us7000kats,2023-08-26T20:54:28.040Z,"235 km WNW of Mugia, Spain",earthquake,5.57,5.031,0.144,14,reviewed,us,us
+2023-06-16T16:38:28.069Z,46.2145,-0.7295,5,4.8,mww,71,70,3.884,0.94,us,us7000k90p,2024-08-13T14:32:28.885Z,"5 km WNW of Mauzé-sur-le-Mignon, France",earthquake,6.97,1.854,0.051,37,reviewed,us,us
+2023-05-16T06:24:21.041Z,44.5555,6.811,8.462,4.1,mb,36,122,0.505,0.38,us,us6000kc87,2023-07-24T01:16:38.040Z,"16 km W of Pleyne, Italy",earthquake,3.9,5.085,0.174,9,reviewed,us,us
+2023-04-17T13:28:56.079Z,42.979,0.3442,10,4,mb,21,101,0.77,0.95,us,us6000k63c,2023-07-03T02:47:30.040Z,"11 km SSW of La Barthe-de-Neste, France",earthquake,3.95,1.981,0.367,2,reviewed,us,us
+2023-04-04T21:06:08.713Z,35.0303,-3.9547,15.028,4.5,mb,17,122,2.258,0.42,us,us6000k3jd,2023-06-13T03:12:59.040Z,"13 km SW of Bni Bouayach, Morocco",earthquake,7.18,2.754,0.242,5,reviewed,us,us
+2023-03-22T14:50:33.025Z,47.3957,6.7567,11.8,4.4,mb,67,68,0.865,0.44,us,us7000jlxj,2024-07-09T15:05:49.915Z,"1 km NW of Pont-de-Roide, France",earthquake,3.25,4.825,0.202,8,reviewed,us,us
+2023-02-12T08:36:45.805Z,35.0177,-3.8262,10,4.4,mb,30,132,2.283,0.38,us,us6000jqbh,2023-04-22T21:33:20.040Z,"9 km S of Bni Bouayach, Morocco",earthquake,5.21,1.797,0.19,11,reviewed,us,us
+2023-02-12T06:59:30.586Z,35.0455,-3.8846,10,4.1,mb,26,114,2.293,0.62,us,us6000jqbf,2023-04-22T21:33:20.040Z,"7 km SSW of Bni Bouayach, Morocco",earthquake,6.98,1.894,0.235,8,reviewed,us,us
+2023-01-07T13:28:57.408Z,34.9885,-3.8382,10,4.4,mb,31,117,2.249,0.78,us,us7000j2t5,2023-03-11T22:51:44.040Z,"12 km S of Bni Bouayach, Morocco",earthquake,6.93,1.901,0.17,10,reviewed,us,us
+2023-01-07T08:12:28.095Z,34.995,-3.9009,10,4.9,mww,180,46,2.238,0.52,us,us7000j2ru,2023-03-11T22:51:44.040Z,"Morocco",earthquake,3.96,1.844,0.063,24,reviewed,us,us
+2022-12-31T07:05:53.983Z,37.1379,-1.8845,9.693,4.2,mb,20,144,0.834,0.47,us,us7000j178,2023-03-07T19:00:01.040Z,"1 km SSE of Turre, Spain",earthquake,6.29,7.5,0.303,3,reviewed,us,us
+2022-12-07T08:18:54.460Z,36.4851,3.0791,10,4,mb,30,146,3.445,0.73,us,us6000j7k6,2023-02-11T23:03:13.040Z,"northern Algeria",earthquake,5.79,1.938,0.163,10,reviewed,us,us
+2022-11-30T11:07:01.690Z,35.5367,-3.4806,10,4.4,mb,43,89,2.396,0.44,us,us6000j5r8,2023-02-05T23:25:31.040Z,"52 km NE of Al Hoceïma, Morocco",earthquake,5.83,1.883,0.138,19,reviewed,us,us
+2022-11-20T13:03:34.315Z,36.4721,7.1179,10,4.2,mb,28,141,1.95,0.51,us,us7000is4s,2023-01-30T06:00:24.040Z,"27 km W of Guelma, Algeria",earthquake,5.03,1.912,0.176,10,reviewed,us,us
+2022-11-20T11:48:10.947Z,37.0304,3.682,10,4.1,mb,32,137,2.898,0.33,us,us7000ir59,2023-01-30T06:00:23.040Z,"24 km WNW of Dellys, Algeria",earthquake,4.94,1.937,0.157,11,reviewed,us,us
+2022-11-18T23:32:42.138Z,35.4546,-3.6108,10,4.3,mb,47,115,2.334,0.63,us,us7000iqvl,2023-01-28T19:58:28.040Z,"37 km NE of Al Hoceïma, Morocco",earthquake,6.69,1.904,0.116,21,reviewed,us,us
+2022-11-12T13:32:13.733Z,36.3127,3.0727,10,4.8,mb,34,149,3.502,0.97,us,us7000ipav,2023-01-28T19:58:09.040Z,"24 km NE of Berrouaghia, Algeria",earthquake,7.54,1.907,0.144,15,reviewed,us,us
+2022-11-04T22:26:50.471Z,35.4758,-3.5546,10,4.3,mb,26,116,2.786,0.36,us,us7000iml9,2023-01-12T23:11:34.040Z,"42 km NE of Al Hoceïma, Morocco",earthquake,7.13,1.926,0.306,3,reviewed,us,us
+2022-10-21T12:45:58.940Z,35.3062,-4.0765,10,4.3,mb,55,109,2.08,0.53,us,us6000ivhg,2022-12-31T23:03:46.040Z,"13 km NW of Tirhanimîne, Morocco",earthquake,6.47,1.894,0.101,28,reviewed,us,us
+2022-10-16T07:32:16.639Z,35.4713,-3.4838,15.504,4.5,mb,25,71,2.42,0.39,us,us6000iv98,2022-12-31T23:03:42.040Z,"47 km ENE of Al Hoceïma, Morocco",earthquake,3.69,4.785,0.163,11,reviewed,us,us
+2022-10-04T15:39:29.753Z,35.2919,-3.6514,10,4.9,mb,70,95,2.382,0.71,us,us6000iqqa,2022-12-10T22:53:07.040Z,"24 km NE of Imzouren, Morocco",earthquake,3.75,1.838,0.057,99,reviewed,us,us
+2022-10-04T15:37:19.100Z,35.5593,-3.4635,10,4,mb,18,116,2.4,1.02,us,us6000iqq9,2022-12-10T22:53:07.040Z,"54 km NE of Al Hoceïma, Morocco",earthquake,3.3,1.929,0.366,2,reviewed,us,us
+2022-09-19T16:30:47.505Z,36.5606,-11.1552,10,4.5,mb,55,99,1.953,0.93,us,us7000i9bg,2022-11-26T20:57:42.040Z,"203 km WSW of Sagres, Portugal",earthquake,9.31,1.858,0.096,34,reviewed,us,us
+2022-09-15T21:05:51.727Z,35.4973,-3.6194,10,4.6,mb,28,115,2.309,0.36,us,us7000ia5u,2022-11-19T23:03:52.040Z,"Strait of Gibraltar",earthquake,6.91,1.926,0.244,5,reviewed,us,us
+2022-09-07T16:28:12.620Z,36.574,7.1699,10,4.2,mb,23,165,1.951,0.4,us,us7000i627,2022-11-15T19:06:14.040Z,"19 km SSE of Azzaba, Algeria",earthquake,7.02,1.959,0.304,3,reviewed,us,us
+2022-08-23T17:46:05.496Z,35.4353,-3.4312,14.29,4.3,mb,22,139,2.788,0.94,us,us7000i422,2022-11-01T15:14:36.040Z,"Strait of Gibraltar",earthquake,7.7,5.415,0.375,3,reviewed,us,us
+2022-08-14T20:20:45.889Z,35.9373,-8.5367,38.552,4.1,mb,33,99,1.216,0.49,us,us6000iav1,2022-10-28T02:25:58.040Z,"124 km SSE of Sagres, Portugal",earthquake,6.87,9.221,0.106,24,reviewed,us,us
+2022-08-10T18:33:15.094Z,35.5502,-3.6409,10,4.2,mb,22,134,2.271,0.95,us,us6000ic50,2022-10-21T23:20:16.040Z,"Strait of Gibraltar",earthquake,6.26,1.944,0.304,3,reviewed,us,us
+2022-08-03T21:19:57.003Z,35.4414,-3.6393,10,4,mb,37,77,2.319,0.72,us,us6000i7uy,2022-10-12T14:50:19.040Z,"34 km NE of Al Hoceïma, Morocco",earthquake,6.53,1.918,0.134,15,reviewed,us,us
+2022-07-20T14:11:42.653Z,35.4923,-3.5369,10,4.1,mb,34,78,2.372,0.54,us,us7000hs39,2022-09-27T16:57:09.040Z,"45 km NE of Al Hoceïma, Morocco",earthquake,4.99,1.895,0.184,8,reviewed,us,us
+2022-07-16T03:55:57.512Z,36.4458,-0.1336,10,4.4,mb,29,96,1.334,0.59,us,us6000i2yd,2022-09-27T16:56:52.040Z,"60 km NNW of Mostaganem, Algeria",earthquake,8.68,1.886,0.179,11,reviewed,us,us
+2022-06-26T19:17:51.060Z,35.913,-0.3922,10,4.6,mb,39,75,1.74,0.69,us,us7000hkfb,2022-09-03T21:03:41.040Z,"14 km NW of Aïn el Bya, Algeria",earthquake,7.1,1.8,0.093,34,reviewed,us,us
+2022-06-06T17:57:47.940Z,35.4506,-3.6166,10,4,mb,37,62,2.331,0.58,us,us7000hggy,2022-08-13T21:51:52.040Z,"36 km NE of Al Hoceïma, Morocco",earthquake,6.5,1.6,0.15,12,reviewed,us,us
+2022-06-02T12:55:15.177Z,35.6277,-3.4835,10,4.5,mwr,90,60,2.359,0.97,us,us7000hec0,2022-08-06T22:13:16.040Z,"58 km NE of Al Hoceïma, Morocco",earthquake,6.3,1.8,0.073,18,reviewed,us,us
+2022-05-29T20:15:25.294Z,35.3156,-3.5996,10,4.4,mb,35,82,3.086,0.67,us,us7000hee2,2022-08-06T22:13:19.040Z,"29 km NE of Imzouren, Morocco",earthquake,8.2,1.9,0.126,18,reviewed,us,us
+2022-05-20T20:11:28.010Z,35.4408,-3.5561,10,4.1,mb,42,74,2.97,1.09,us,us6000hmrr,2022-07-24T02:40:43.040Z,"40 km ENE of Al Hoceïma, Morocco",earthquake,6.9,1.9,0.127,19,reviewed,us,us
+2022-05-20T12:35:49.576Z,35.5176,-3.4789,10,5.5,mww,166,40,2.405,0.47,us,us6000hmld,2022-07-24T02:40:37.040Z,"Strait of Gibraltar",earthquake,6.3,1.8,0.039,63,reviewed,us,us
+2022-05-09T11:13:38.180Z,46.2293,2.5975,10.59,4.2,mb,32,105,1.66,0.42,us,us7000h83c,2022-08-09T06:41:00.462Z,"5 km SW of Villebret, France",earthquake,6.7,6.1,0.167,10,reviewed,us,us
+2022-04-16T14:36:07.344Z,35.4589,-3.477,10,4.2,mb,,78,2.794,1.12,us,us6000hfbw,2022-06-26T01:18:27.040Z,"47 km ENE of Al Hoceïma, Morocco",earthquake,4.6,2,0.167,10,reviewed,us,us
+2022-04-13T06:03:24.909Z,34.7454,6.2619,10,4.2,mb,,77,2.709,1.37,us,us7000h3cs,2022-06-20T22:08:35.040Z,"23 km WNW of Zeribet el Oued, Algeria",earthquake,6.6,1.9,0.131,20,reviewed,us,us
+2022-04-09T03:55:10.226Z,35.5087,-3.8224,10,4.3,mb,,112,2.155,0.2,us,us7000h1v0,2022-06-20T22:08:04.040Z,"30 km NNE of Al Hoceïma, Morocco",earthquake,3.1,2,0.266,6,reviewed,us,us
+2022-04-07T07:09:04.463Z,35.5086,-3.6711,11.69,4.3,mb,,151,2.987,0.46,us,us7000h1t0,2022-06-11T20:21:19.040Z,"37 km NE of Al Hoceïma, Morocco",earthquake,8,6.5,0.168,10,reviewed,us,us
+2022-03-19T09:59:30.497Z,36.847,5.1868,10,5.2,mww,,27,3.539,0.4,us,us6000h5zu,2023-09-09T20:42:59.134Z,"13 km NE of Bejaïa, Algeria",earthquake,3.8,1.8,0.052,36,reviewed,us,us
+2022-03-18T04:48:30.588Z,36.1905,3.0865,10,4.1,mb,,100,3.56,0.61,us,us6000h5lr,2022-05-27T14:55:35.040Z,"16 km ENE of Berrouaghia, Algeria",earthquake,8.2,1.9,0.197,8,reviewed,us,us
+2022-03-12T17:03:22.558Z,45.7171,6.2859,2.69,4.5,mb,,62,0.72,0.72,us,us6000h41e,2022-05-27T14:55:19.040Z,"3 km S of Faverges, France",earthquake,2.6,5.5,0.135,16,reviewed,us,us
+2022-02-11T07:53:16.568Z,36.3658,-8.8696,10,4.1,mb,,188,0.766,0.51,us,us7000gldj,2022-04-19T17:40:27.040Z,"71 km S of Sagres, Portugal",earthquake,6.5,2,0.214,7,reviewed,us,us
+2022-02-08T15:18:00.954Z,35.5318,-3.6604,11.12,4.2,mb,,144,2.264,0.55,us,us7000gk24,2022-04-19T17:40:06.040Z,"39 km NE of Al Hoceïma, Morocco",earthquake,7.4,6.5,0.305,3,reviewed,us,us
+2022-02-01T02:02:59.868Z,42.4715,1.3526,5.75,4,mb,,59,0.146,0.57,us,us7000ggv1,2022-04-15T17:57:09.040Z,"7 km ESE of Farrera, Spain",earthquake,3.2,4.3,0.26,4,reviewed,us,us
+2022-01-01T21:03:48.199Z,36.3199,-7.6651,6.92,4.3,mb,,127,1.186,0.5,us,us7000g8da,2022-03-12T22:19:00.040Z,"80 km SSE of Olhão, Portugal",earthquake,2.6,4.6,0.08,44,reviewed,us,us
+2021-12-30T15:28:19.175Z,35.3652,-3.7794,10,4.3,mb,,230,4.196,0.46,us,us7000gax9,2022-03-05T23:11:11.040Z,"19 km NE of Al Hoceïma, Morocco",earthquake,4.5,2,0.239,5,reviewed,us,us
+2021-12-28T19:25:15.758Z,36.7381,6.8615,11.57,4.3,mb,,90,2.245,0.93,us,us7000g9yv,2022-04-28T11:40:35.388Z,"15 km SSW of Skikda, Algeria",earthquake,2,4.9,0.169,14,reviewed,us,us
+2021-12-24T23:59:55.857Z,47.3748,6.8239,9.23,4.1,mb,,88,0.871,0.76,us,us6000gf4p,2024-04-06T07:54:58.378Z,"2 km WSW of Blamont, France",earthquake,3.8,5.9,0.262,4,reviewed,us,us
+2021-12-23T01:54:26.211Z,35.1559,-3.896,10,4.8,mb,,29,2.287,0.56,us,us6000geqa,2022-03-01T16:39:37.040Z,"4 km WNW of Imzouren, Morocco",earthquake,6,1.8,0.048,133,reviewed,us,us
+2021-11-18T01:23:01.611Z,35.4969,-3.6974,10,4,mb,,81,2.766,0.53,us,us7000fwhe,2022-01-22T20:52:11.040Z,"34 km NE of Al Hoceïma, Morocco",earthquake,5.4,1.9,0.182,8,reviewed,us,us
+2021-10-29T04:32:12.055Z,44.2064,-7.6942,10,4.2,mb,,108,3.805,1.22,us,us7000fpmj,2022-01-14T17:58:41.040Z,"53 km NNE of Cariño, Spain",earthquake,9.2,1.9,0.215,6,reviewed,us,us
+2021-10-23T19:54:01.108Z,35.3958,-3.4733,10,4.2,mb,,119,2.737,0.7,us,us7000fpgz,2022-01-08T17:43:31.040Z,"44 km NE of Imzouren, Morocco",earthquake,3.3,1.9,0.152,12,reviewed,us,us
+2021-10-19T17:43:31.648Z,37.0419,-5.2649,15.15,4,mb,,141,0.949,0.68,us,us6000fvy1,2021-12-25T22:58:49.040Z,"8 km W of Villanueva de San Juan, Spain",earthquake,5.4,2,0.211,6,reviewed,us,us
+2021-10-05T05:39:25.163Z,46.0321,7.4204,5,4.1,mb,,47,0.341,0.74,us,us6000frtq,2021-12-10T21:14:10.040Z,"10 km SSW of Evolène, Switzerland",earthquake,4.3,1.9,0.184,8,reviewed,us,us
+2021-09-18T00:11:18.537Z,35.4828,-3.6101,10,4.2,mb,,115,2.779,0.37,us,us7000fdrm,2021-12-03T15:01:53.040Z,"39 km NE of Al Hoceïma, Morocco",earthquake,4,2,0.305,3,reviewed,us,us
+2021-09-01T12:51:59.276Z,35.4448,-3.6889,10,4,mb,,134,2.281,0.55,us,us7000f9px,2021-11-06T20:28:32.040Z,"31 km NE of Al Hoceïma, Morocco",earthquake,7.3,2,0.133,15,reviewed,us,us
+2021-08-28T11:20:49.968Z,35.4853,-3.5403,10,5.3,mww,,53,2.372,0.45,us,us7000f57a,2021-11-06T20:28:55.040Z,"44 km NE of Al Hoceïma, Morocco",earthquake,6.2,1.8,0.044,50,reviewed,us,us
+2021-08-12T21:25:12.041Z,37.189,-3.7468,10,4.6,mb,,65,2.1,1.09,us,us6000f4uc,2021-10-23T15:46:34.040Z,"2 km W of Santafé, Spain",earthquake,7,1.8,0.076,51,reviewed,us,us
+2021-08-10T10:02:06.864Z,35.562,-3.3107,10,4.4,mb,,152,2.514,0.54,us,us6000f8dp,2021-10-23T15:46:51.040Z,"45 km NW of Melilla, Spain",earthquake,7.9,2,0.536,1,reviewed,us,us
+2021-08-07T04:19:15.968Z,35.4578,-3.6295,10,4.3,mb,,91,2.319,0.75,us,us6000f337,2021-10-23T15:45:47.040Z,"36 km NE of Al Hoceïma, Morocco",earthquake,6.3,1.9,0.168,11,reviewed,us,us
+2021-08-02T14:06:10.084Z,35.4442,-3.6231,10,4.4,mb,,116,2.329,0.65,us,us6000f3vc,2021-10-14T01:08:45.040Z,"35 km NE of Al Hoceïma, Morocco",earthquake,6.6,1.9,0.149,13,reviewed,us,us
+2021-08-02T08:49:30.097Z,35.553,-3.9634,10,4.5,mb,,137,2.033,0.39,us,us6000f3vb,2021-10-14T01:08:44.040Z,"33 km N of Al Hoceïma, Morocco",earthquake,5.7,2,0.204,7,reviewed,us,us
+2021-07-31T02:01:45.319Z,36.3132,1.6646,10,4.4,mb,,74,2.485,1.28,us,us6000f0vh,2021-10-14T01:04:07.040Z,"5 km NNW of El Abadia, Algeria",earthquake,5,1.8,0.155,14,reviewed,us,us
+2021-07-30T09:13:03.844Z,35.4993,-3.6941,10,4.3,mb,,63,2.253,0.63,us,us6000f0k4,2021-10-14T01:03:40.040Z,"35 km NE of Al Hoceïma, Morocco",earthquake,7.1,1.9,0.113,22,reviewed,us,us
+2021-07-30T08:58:50.303Z,35.2794,-3.6453,10,4.6,mb,,61,2.392,0.53,us,us6000f0k0,2021-10-14T01:03:40.040Z,"23 km NE of Imzouren, Morocco",earthquake,4.2,1.9,0.076,52,reviewed,us,us
+2021-07-19T19:21:28.085Z,36.6973,5.6209,10,4.6,mb,,69,3.162,0.84,us,us7000eni2,2022-08-09T06:18:36.529Z,"18 km SW of Jijel, Algeria",earthquake,6.4,1.9,0.054,103,reviewed,us,us
+2021-07-11T11:40:03.607Z,35.4397,-3.6282,10,4.4,mb,,61,2.328,0.56,us,us6000eud8,2021-09-17T22:49:37.040Z,"34 km NE of Al Hoceïma, Morocco",earthquake,4.7,1.9,0.091,35,reviewed,us,us
+2021-06-22T14:54:33.764Z,35.3962,-3.7318,18.08,4.4,mb,,131,2.661,0.57,us,us6000eprm,2021-08-27T18:58:24.040Z,"24 km NE of Al Hoceïma, Morocco",earthquake,7.4,6.6,0.309,6,reviewed,us,us
+2021-06-19T03:23:06.975Z,35.4995,-3.5835,10,4.7,mb,,59,2.8,0.98,us,us7000eebi,2022-08-09T05:38:12.729Z,"42 km NE of Al Hoceïma, Morocco",earthquake,6.7,1.9,0.051,118,reviewed,us,us
+2021-05-23T06:42:16.044Z,35.5354,-3.7349,10,4.5,mb,,95,2.207,0.82,us,us6000effz,2021-07-31T22:08:48.040Z,"36 km NNE of Al Hoceïma, Morocco",earthquake,7,1.9,0.171,10,reviewed,us,us
+2021-05-23T06:18:40.351Z,35.4548,-3.6342,10,4.3,mb,,115,2.743,0.47,us,us6000efg5,2021-07-31T22:08:47.040Z,"35 km NE of Al Hoceïma, Morocco",earthquake,5.2,1.8,0.308,3,reviewed,us,us
+2021-05-21T11:10:55.397Z,35.4151,-3.6628,10,4.4,mb,,82,2.314,0.54,us,us6000ef2q,2021-07-31T22:07:57.040Z,"30 km NE of Al Hoceïma, Morocco",earthquake,5.1,1.9,0.22,6,reviewed,us,us
+2021-05-14T06:54:59.538Z,35.3374,-3.7105,10,4.3,mb,,61,2.612,0.91,us,us7000e4pb,2021-07-24T21:06:48.040Z,"22 km ENE of Al Hoceïma, Morocco",earthquake,4.1,2,0.2,7,reviewed,us,us
+2021-05-11T16:52:02.638Z,35.4606,-3.5802,5.25,4.6,mb,,116,2.749,0.3,us,us7000e457,2021-07-23T18:08:47.040Z,"39 km NE of Al Hoceïma, Morocco",earthquake,7.2,4.8,0.245,5,reviewed,us,us
+2021-05-01T22:10:06.405Z,35.4452,-3.6289,10,4.3,mb,,61,2.325,0.68,us,us7000dzcm,2021-07-10T20:14:54.040Z,"35 km NE of Al Hoceïma, Morocco",earthquake,6.3,1.9,0.09,35,reviewed,us,us
+2021-04-26T03:01:03.627Z,36.4384,-11.4627,10,4,mb,,140,2.226,0.98,us,us6000e4tz,2021-12-10T06:47:34.538Z,"233 km WSW of Sagres, Portugal",earthquake,5.1,1.9,0.232,5,reviewed,us,us
+2021-04-01T14:33:33.714Z,36.4139,7.1942,10,4.8,mb,,89,1.871,1.04,us,us6000dy9p,2021-06-08T17:59:44.040Z,"21 km WSW of Guelma, Algeria",earthquake,5.3,1.9,0.074,56,reviewed,us,us
+2021-03-25T02:37:14.465Z,36.8311,5.1854,10,4.6,mb,,52,3.144,0.66,us,us6000dw83,2022-08-09T04:23:39.357Z,"12 km NE of Bejaïa, Algeria",earthquake,6.8,1.9,0.114,23,reviewed,us,us
+2021-03-24T23:23:54.166Z,36.8879,5.2734,10,4.5,mb,,68,3.105,0.48,us,us6000dw71,2021-06-02T15:22:42.040Z,"northern Algeria",earthquake,6.3,1.9,0.127,18,reviewed,us,us
+2021-03-18T16:21:43.274Z,36.9558,5.2711,10,4.4,mb,,90,3.039,0.87,us,us7000dkml,2021-05-26T22:08:57.040Z,"27 km NE of Bejaïa, Algeria",earthquake,6.4,1.6,0.097,35,reviewed,us,us
+2021-03-18T00:33:27.553Z,36.8702,5.23,10,4.7,mb,,63,3.114,0.55,us,us7000dkfe,2021-05-26T22:08:44.040Z,"18 km NE of Bejaïa, Algeria",earthquake,6.3,1.8,0.07,62,reviewed,us,us
+2021-03-18T00:17:05.186Z,36.9107,5.3143,10,5,mww,,38,3.092,0.55,us,us7000dkfb,2021-05-26T22:08:44.040Z,"26 km NE of Bejaïa, Algeria",earthquake,6.4,1.8,0.073,18,reviewed,us,us
+2021-03-18T00:14:21.893Z,36.9455,5.2122,10,4.6,mb,,85,3.038,0.61,us,us6000dwmk,2021-05-26T22:08:43.040Z,"23 km NNE of Bejaïa, Algeria",earthquake,6.1,1.7,0.141,15,reviewed,us,us
+2021-03-18T00:04:06.698Z,36.9206,5.2014,8,6,mww,,20,3.06,0.45,us,us7000dker,2021-09-25T11:46:15.930Z,"21 km NNE of Bejaïa, Algeria",earthquake,6.9,1.8,0.033,86,reviewed,us,us
+2021-03-17T21:49:52.929Z,36.4899,6.7463,10,4.5,mb,,76,2.236,0.88,us,us7000dkdu,2021-05-26T22:08:41.040Z,"10 km ENE of Didouche Mourad, Algeria",earthquake,5.1,1.9,0.078,49,reviewed,us,us
+2021-03-15T18:33:44.998Z,35.2868,6.2506,10,4.6,mb,,54,2.564,0.97,us,us7000djkd,2021-05-26T22:07:44.040Z,"9 km WNW of Arris, Algeria",earthquake,4.8,1.9,0.063,75,reviewed,us,us
+2021-02-24T01:51:05.845Z,35.6733,5.1456,10,4.7,mb,,50,3.419,0.73,us,us6000dkjr,2021-05-04T14:16:46.040Z,"24 km SSW of Salah Bey, Algeria",earthquake,5.7,1.8,0.055,99,reviewed,us,us
+2021-01-28T18:49:49.557Z,37.2017,-3.7417,10,4.3,mwr,,44,2.108,1.04,us,us6000dcq4,2021-04-13T17:04:53.040Z,"2 km NW of Santafé, Spain",earthquake,5,1.9,0.086,13,reviewed,us,us
+2021-01-26T21:54:55.284Z,37.2371,-3.7155,10,4.3,mwr,,59,2.14,0.9,us,us7000d3it,2022-02-12T08:01:19.841Z,"2 km WNW of Atarfe, Spain",earthquake,5.8,1.8,0.068,21,reviewed,us,us
+2021-01-26T21:44:18.010Z,37.2023,-3.6857,10,4.1,mwr,,69,2.151,0.94,us,us6000dcie,2021-04-13T17:04:53.040Z,"2 km S of Atarfe, Spain",earthquake,5.9,1.9,0.075,17,reviewed,us,us
+2021-01-26T21:36:32.869Z,37.1899,-3.7525,10,4,mwr,,54,2.096,0.65,us,us6000dcif,2021-04-13T17:04:53.040Z,"2 km ESE of Chauchina, Spain",earthquake,5.6,1.9,0.08,15,reviewed,us,us
+2021-01-23T11:15:24.615Z,37.1767,-3.7454,10,4.2,mwr,,54,2.097,0.41,us,us7000d2nq,2022-11-30T11:48:22.629Z,"2 km WSW of Santafé, Spain",earthquake,5.3,1.9,0.093,11,reviewed,us,us
+2020-12-08T16:35:41.871Z,35.143,-9.2935,10,4.5,mb,,157,2.021,0.72,us,us7000cqb9,2021-02-12T22:41:29.040Z,"209 km S of Sagres, Portugal",earthquake,8.3,1.9,0.131,17,reviewed,us,us
+2020-11-22T11:10:32.132Z,36.6127,6.6853,10,4.3,mb,,81,2.325,0.91,us,us6000crg3,2021-02-03T17:50:26.040Z,"18 km NNE of Didouche Mourad, Algeria",earthquake,7.8,1.9,0.189,8,reviewed,us,us
+2020-11-22T03:53:08.474Z,36.6442,6.8625,10,5.1,mww,,37,2.205,1.25,us,us6000crds,2022-03-10T05:48:26.167Z,"24 km WSW of Azzaba, Algeria",earthquake,6.5,1.8,0.048,41,reviewed,us,us
+2020-10-01T00:21:38.037Z,42.8547,-1.5713,10,4.4,mb,,54,2.097,0.48,us,us6000c3hi,2020-12-12T22:28:26.040Z,"3 km NNE of Huarte-Uharte, Spain",earthquake,6.5,1.9,0.105,26,reviewed,us,us
+2020-09-30T22:02:31.047Z,42.8163,-1.5515,10,4.6,mb,,54,2.079,0.67,us,us6000c3e9,2021-10-11T21:32:59.790Z,"3 km ESE of Huarte-Uharte, Spain",earthquake,6,1.8,0.073,56,reviewed,us,us
+2020-09-06T11:56:23.041Z,35.5541,-5.3362,10,4.3,mb,,82,1.15,1.21,us,us7000bl6b,2020-11-17T19:44:45.040Z,"3 km SE of Tétouan, Morocco",earthquake,6.2,1.9,0.153,12,reviewed,us,us
+2020-08-13T08:04:48.379Z,36.4252,2.7574,10,4.4,mb,,147,3.224,0.73,us,us6000bdvu,2020-10-24T20:08:49.040Z,"4 km SSE of Chiffa, Algeria",earthquake,6.5,1.9,0.096,31,reviewed,us,us
+2020-08-08T23:00:31.183Z,36.6666,1.9857,10,4.5,mb,,70,2.557,0.57,us,us6000bb8l,2020-10-21T22:03:59.040Z,"41 km WNW of Hadjout, Algeria",earthquake,6.9,1.9,0.094,33,reviewed,us,us
+2020-08-07T11:13:34.544Z,36.5773,6.3168,10,4.5,mb,,49,2.592,0.76,us,us6000baiw,2020-10-21T22:03:55.040Z,"8 km NE of Sidi Mérouane, Algeria",earthquake,3.6,1.8,0.07,60,reviewed,us,us
+2020-08-07T06:15:37.835Z,36.5497,6.2708,10,5,mww,,44,2.619,0.76,us,us6000bag6,2022-03-10T05:31:32.704Z,"3 km NNE of Sidi Mérouane, Algeria",earthquake,6.8,1.9,0.058,29,reviewed,us,us
+2020-07-25T12:13:00.471Z,35.4251,-3.8678,10,4.8,mb,,101,2.162,0.4,us,us6000b3z5,2020-10-03T17:32:22.040Z,"20 km NNE of Al Hoceïma, Morocco",earthquake,7.1,1.9,0.042,175,reviewed,us,us
+2020-07-17T08:12:44.146Z,36.462,6.2391,10,4.6,mb,,60,2.619,0.74,us,us7000aq6y,2020-09-26T16:58:33.040Z,"2 km WNW of Mila, Algeria",earthquake,2.9,1.9,0.088,38,reviewed,us,us
+2020-07-04T07:59:39.392Z,35.7124,6.2539,10,4.5,mb,,72,2.516,0.49,us,us7000ahu7,2022-08-08T23:33:06.539Z,"18 km NNE of Batna, Algeria",earthquake,7,1.9,0.092,35,reviewed,us,us
+2020-07-01T06:06:44.360Z,34.3852,-4.9715,10,4.5,mb,,70,1.523,1.03,us,us7000afmd,2020-09-11T22:13:46.040Z,"34 km WSW of Taounate, Morocco",earthquake,5.7,1.8,0.065,69,reviewed,us,us
+2020-03-26T07:09:25.834Z,35.868,5.7575,10,5,mww,,34,2.92,0.63,us,us70008g9a,2020-06-13T18:44:55.040Z,"21 km WNW of Draa Klalouche, Algeria",earthquake,7.1,1.8,0.041,58,reviewed,us,us
+2020-02-21T02:55:18.191Z,36.7277,5.6067,10,4.5,mb,,73,3.182,0.68,us,us70007tzd,2020-05-09T21:41:05.040Z,"17 km SW of Jijel, Algeria",earthquake,4.2,1.9,0.089,37,reviewed,us,us
+2020-01-24T07:24:18.855Z,36.7355,5.6011,10,4.9,mww,,48,3.188,0.88,us,us60007eif,2020-04-11T18:20:43.040Z,"17 km WSW of Jijel, Algeria",earthquake,6.6,1.9,0.089,12,reviewed,us,us
+2019-11-30T03:10:52.179Z,34.4096,7.4983,10,4.6,mb,,52,2.009,1.17,us,us70006env,2020-02-19T18:58:22.040Z,"40 km W of Tamaghzah, Tunisia",earthquake,5.5,1.9,0.136,16,reviewed,us,us
+2019-11-11T10:52:46.534Z,44.6117,4.6382,10,4.8,mww,,34,0.67,1.2,us,us60006a6i,2024-07-30T18:53:14.468Z,"5 km WNW of Rochemaure, France",earthquake,2.5,1.8,0.063,24,reviewed,us,us
+2019-10-25T09:35:47.830Z,36.946,-5.2375,10,4.4,mb,,64,0.913,0.44,us,us600062ul,2020-07-10T17:35:03.114Z,"2 km ENE of Olvera, Spain",earthquake,5.5,1.9,0.102,28,reviewed,us,us
+2019-10-18T15:54:11.302Z,35.5205,-1.1122,10,4.5,mb,,156,2.064,1.19,us,us70005vin,2020-01-03T16:09:31.040Z,"8 km W of El Amria, Algeria",earthquake,5.1,1.9,0.15,13,reviewed,us,us
+2019-08-23T11:40:54.429Z,36.4549,3.4372,10,4.3,mb,,147,3.727,0.5,us,us700057im,2019-11-08T22:13:44.040Z,"18 km SW of Lakhdaria, Algeria",earthquake,8.8,2,0.177,9,reviewed,us,us
+2019-08-05T04:37:35.573Z,33.9511,-11.501,10,4,ml,,159,3.472,0.42,us,us600054m1,2019-10-19T21:42:22.040Z,"266 km WNW of Oualidia, Morocco",earthquake,4.2,2,0.115,10,reviewed,us,us
+2019-07-13T09:56:35.400Z,37.0991,5.7497,10,4.9,mww,,54,3.025,0.57,us,us70004jiv,2019-09-28T20:01:18.040Z,"30 km N of Jijel, Algeria",earthquake,6.5,1.8,0.065,23,reviewed,us,us
+2019-06-21T06:50:55.241Z,47.1404,-0.565,8,4,mwr,,109,2.107,0.93,us,us6000443c,2019-09-11T15:19:23.040Z,"2 km WSW of Vihiers, France",earthquake,4.4,2,0.11,8,reviewed,us,us
+2019-06-10T13:26:19.098Z,35.5435,4.9428,36.97,4.1,mb,,92,3.591,0.97,us,us70003xn7,2019-08-27T17:48:07.040Z,"39 km S of Bordj Ghdir, Algeria",earthquake,8.2,9.1,0.213,6,reviewed,us,us
+2019-03-20T09:56:40.910Z,45.3338,-0.3853,10,4.5,mb,,104,2.979,0.76,us,us1000jj7u,2024-04-06T08:00:23.689Z,"5 km NNE of Montendre, France",earthquake,6.9,2,0.382,2,reviewed,us,us
+2019-02-16T04:35:34.810Z,34.8752,-4.5637,59.4,4.3,mb,,67,2.056,1,us,us2000jiqq,2019-05-01T22:00:50.040Z,"23 km WSW of Targuist, Morocco",earthquake,7.1,4.4,0.126,18,reviewed,us,us
+2018-09-04T06:12:55.630Z,40.1556,-10.53,10,4.8,mb,,49,1.623,0.63,us,us2000h81q,2018-11-14T17:40:13.040Z,"132 km NW of Peniche, Portugal",earthquake,7.4,1.9,0.038,216,reviewed,us,us
+2018-08-13T14:40:03.940Z,38.2705,-1.0434,10,4,mb_lg,,85,0.683,0.28,us,us1000g811,2022-08-08T07:10:17.853Z,"7 km N of Abanilla, Spain",earthquake,2.4,2,0.136,14,reviewed,us,us
+2018-07-20T09:32:59.880Z,36.3769,5.3243,10,4.2,mb,,91,3.321,0.6,us,us2000gbf9,2018-10-04T14:15:33.040Z,"21 km N of Aïn Arnat, Algeria",earthquake,6.5,1.9,0.199,7,reviewed,us,us
+2018-04-26T11:13:20.590Z,36.5557,-5.4109,10,4,mb,,55,0.646,0.51,us,us1000dsmh,2022-08-08T02:41:00.798Z,"9 km SW of Cortes de la Frontera, Spain",earthquake,4,1.9,0.164,10,reviewed,us,us
+2018-04-26T03:33:53.490Z,37.1445,-11.1073,10,4.2,mb,,112,1.822,0.52,us,us1000dsi5,2018-07-25T21:36:52.040Z,"193 km W of Sagres, Portugal",earthquake,8.2,1.9,0.141,14,reviewed,us,us
+2018-04-23T15:48:52.860Z,36.0172,0.0472,8.04,4.7,mb,,155,1.778,0.69,us,us1000dqq7,2022-08-08T02:27:13.367Z,"10 km NNW of Mostaganem, Algeria",earthquake,9.2,5,0.049,124,reviewed,us,us
+2018-02-12T03:08:29.180Z,46.7094,-0.8249,5,4.1,mb,,110,2.476,0.77,us,us2000d2eb,2018-05-15T06:29:02.040Z,"3 km SSE of La Meilleraie-Tillay, France",earthquake,6.8,1.9,0.262,4,reviewed,us,us
+2018-01-15T11:51:38.450Z,38.792,-7.9574,10.93,4.1,mb,,143,0.296,0.69,us,us2000cjne,2022-08-07T23:07:52.425Z,"25 km NNW of Évora, Portugal",earthquake,5,4.8,0.13,16,reviewed,us,us
+2018-01-08T16:20:11.560Z,36.4956,2.4881,10,4.5,mb,,144,2.996,1.08,us,us1000c22p,2022-08-07T22:53:15.671Z,"6 km ESE of Hadjout, Algeria",earthquake,8,1.9,0.136,16,reviewed,us,us
+2018-01-02T20:59:37.860Z,36.3828,2.5471,8.26,4.7,mww,,42,3.084,0.76,us,us1000bz45,2020-07-10T15:38:51.129Z,"11 km SW of El Affroun, Algeria",earthquake,6.8,4.1,0.103,9,reviewed,us,us
+2017-10-16T02:09:33.860Z,36.273,1.524,10,4,mb,,72,2.411,1.34,us,us1000awaf,2022-08-07T20:25:56.905Z,"9 km N of Oued Fodda, Algeria",earthquake,6.9,2,0.183,8,reviewed,us,us
+2017-08-17T06:44:56.190Z,39.0327,-9.083,10,4.2,mb,,206,1.175,0.48,us,us2000a95s,2022-08-07T15:00:08.547Z,"5 km N of Arruda dos Vinhos, Portugal",earthquake,8.5,1.9,0.305,3,reviewed,us,us
+2017-08-15T14:50:43.080Z,35.6506,5.8006,10,4.7,mb,,86,4.408,0.68,us,us2000a8f4,2022-08-07T14:51:58.512Z,"10 km WNW of Merouana, Algeria",earthquake,7.2,1.9,0.068,66,reviewed,us,us
+2017-07-11T03:18:19.340Z,35.8088,-1.6856,10,4.8,mwr,,46,1.857,0.87,us,us100098pt,2017-10-06T23:56:13.040Z,"62 km NNW of Beni Saf, Algeria",earthquake,4.7,1.9,0.066,22,reviewed,us,us
+2017-07-08T10:42:50.160Z,35.9107,-1.6313,10,4.3,mb,,84,1.747,1.22,us,us1000984v,2017-10-03T00:47:54.040Z,"70 km NW of El Amria, Algeria",earthquake,7.2,1.9,0.178,9,reviewed,us,us
+2017-07-01T08:10:33.340Z,46.5239,7.0043,1.59,4.1,mwr,,62,0.259,0.96,us,us100095q7,2017-09-27T02:03:21.040Z,"7 km E of Châtel-Saint-Denis, Switzerland",earthquake,3,6.3,0.062,25,reviewed,us,us
+2017-05-30T18:48:28.440Z,34.8184,6.2487,10.4,4.3,mb,,78,2.693,0.9,us,us10008wlv,2017-08-15T02:26:48.040Z,"28 km WNW of Zeribet el Oued, Algeria",earthquake,6.5,4.7,0.082,42,reviewed,us,us
+2017-03-10T06:43:34.610Z,42.9535,-1.7443,2.65,4.1,mwr,,66,3.676,0.75,us,us10008831,2021-08-27T02:25:20.325Z,"Pyrenees",earthquake,7.3,5.5,0.065,23,reviewed,us,us
+2017-03-05T01:46:55.830Z,36.5481,6.7383,10.38,4.7,mb,,66,2.262,0.91,us,us10008715,2017-05-31T01:58:53.040Z,"13 km NE of Didouche Mourad, Algeria",earthquake,5.1,4.1,0.062,79,reviewed,us,us
+2017-01-29T08:55:26.080Z,36.1694,4.4969,10,4.6,mb,,70,3.724,0.52,us,us10007w0w,2017-04-27T01:38:37.040Z,"9 km NNE of Mansourah, Algeria",earthquake,7.5,1.9,0.111,24,reviewed,us,us
+2016-12-03T09:01:43.000Z,47.06,5.43,2,4.1,ml,,,,1.14,us,us10007ela,2017-03-03T07:06:00.040Z,"2 km SE of Damparis, France",earthquake,4.3,6.8,,,reviewed,ldg,ldg
+2016-11-18T12:08:19.460Z,34.7499,6.2997,10.24,4.9,mb,,44,2.679,0.94,us,us100079yy,2017-02-15T23:21:26.040Z,"20 km WNW of Zeribet el Oued, Algeria",earthquake,6.5,3.6,0.046,149,reviewed,us,us
+2016-11-18T07:42:24.690Z,34.7466,6.2349,26.41,5.2,mww,,35,2.729,0.81,us,us100079w2,2022-05-03T19:49:06.533Z,"26 km WNW of Zeribet el Oued, Algeria",earthquake,6.5,4.3,,,reviewed,us,us
+2016-11-05T20:43:24.450Z,35.9323,4.0112,10,4.2,mb,,63,3.962,0.84,us,us100074db,2017-02-02T02:21:00.040Z,"16 km WSW of Melouza, Algeria",earthquake,5.9,1.9,0.108,24,reviewed,us,us
+2016-10-24T14:44:11.170Z,46.421,7.5763,5.76,4.4,mb,,59,0.2,0.81,us,us20007gdv,2017-01-20T00:31:04.040Z,"6 km NW of Leukerbad, Switzerland",earthquake,4.1,4.2,0.269,4,reviewed,us,us
+2016-08-25T01:33:27.200Z,36.5511,-11.2826,10,4.1,mb,,162,2.053,0.99,us,us20006tr6,2016-11-19T04:58:38.040Z,"214 km WSW of Sagres, Portugal",earthquake,5.9,2,0.127,17,reviewed,us,us
+2016-08-19T11:44:17.330Z,39.2571,-10.3502,10,4.4,mb,,55,1.77,0.83,us,us10006f70,2016-11-19T04:58:30.040Z,"84 km W of Peniche, Portugal",earthquake,6.2,1.4,0.066,67,reviewed,us,us
+2016-08-11T09:24:27.660Z,36.5922,-12.6626,10,4.7,mb,,81,3.123,1.1,us,us10006cvm,2016-10-26T03:10:26.040Z,"Azores-Cape St. Vincent Ridge",earthquake,8.9,1.9,0.075,54,reviewed,us,us
+2016-08-01T03:48:49.390Z,36.09,-7.8299,10,4.1,mb,,51,1.313,0.84,us,us10006939,2016-10-19T04:52:01.040Z,"103 km S of Faro, Portugal",earthquake,6,1.9,0.101,27,reviewed,us,us
+2016-07-30T20:21:38.390Z,44.94,7.21,11,4.2,mb,,,,1.14,us,us100068v0,2016-10-19T04:51:53.040Z,"0 km SSW of Fleccia-Chianavasso, Italy",earthquake,4.7,4.5,0.124,18,reviewed,rom,us
+2016-07-06T20:52:30.630Z,36.4219,3.4701,10,4.3,mb,,83,3.524,0.81,us,us100061ff,2016-09-02T21:36:40.040Z,"19 km SW of Lakhdaria, Algeria",earthquake,6.6,1.8,0.116,21,reviewed,us,us
+2016-06-11T23:58:40.800Z,36.4002,3.4497,10,4,mb,,105,3.548,0.55,us,us200063w4,2022-08-03T01:37:10.145Z,"22 km SW of Lakhdaria, Algeria",earthquake,8.6,1.9,0.164,10,reviewed,us,us
+2016-06-11T22:57:55.250Z,36.6382,2.3311,10,4.1,mb,,97,2.826,0.86,us,us200063vz,2016-08-25T01:22:52.040Z,"11 km WNW of Tipasa, Algeria",earthquake,7.6,1.9,0.166,10,reviewed,us,us
+2016-06-01T22:34:19.910Z,36.3739,3.4242,10,4,mb,,88,3.744,0.88,us,us20005zsw,2016-08-10T22:30:32.040Z,"24 km WNW of Aïn Bessem, Algeria",earthquake,4.3,1.9,0.126,17,reviewed,us,us
+2016-05-31T17:35:14.860Z,36.4823,3.5033,13.13,4.8,mb,,45,3.768,0.89,us,us20005zek,2022-08-03T00:22:54.831Z,"northern Algeria",earthquake,6.7,3.7,0.042,174,reviewed,us,us
+2016-05-29T23:05:47.060Z,36.381,3.4756,10,4.3,mb,,88,3.78,1.22,us,us20005z3f,2016-08-10T22:30:27.040Z,"20 km WNW of Aïn Bessem, Algeria",earthquake,7,1.9,0.097,30,reviewed,us,us
+2016-05-29T05:23:10.490Z,36.2418,3.5018,10,4.2,mb,,96,3.85,1.07,us,us20005yzj,2016-08-10T22:30:26.040Z,"16 km WSW of Aïn Bessem, Algeria",earthquake,7.3,1.9,0.104,26,reviewed,us,us
+2016-05-29T00:00:02.170Z,36.3224,3.5907,10,4.5,mb,,116,3.888,0.46,us,us20006014,2016-08-10T22:30:25.040Z,"8 km WNW of Aïn Bessem, Algeria",earthquake,8,1.9,0.242,5,reviewed,us,us
+2016-05-28T23:54:53.380Z,36.4313,3.5166,11.43,5.4,mww,,29,3.795,0.72,us,us20005yxt,2022-05-03T19:31:48.274Z,"16 km SSW of Lakhdaria, Algeria",earthquake,6.9,3.2,,,reviewed,us,us
+2016-05-16T09:19:05.010Z,36.3384,3.4758,13.16,4.7,mb,,89,3.795,0.75,us,us10005hq2,2016-07-22T19:39:09.040Z,"18 km WNW of Aïn Bessem, Algeria",earthquake,8.1,3.9,0.045,152,reviewed,us,us
+2016-05-02T10:36:57.300Z,47.07,0.47,2,4.2,ml,,,,1.37,us,us10005gi0,2016-07-19T20:03:09.040Z,"6 km SE of L'Île-Bouchard, France",earthquake,4.6,6,,,reviewed,ldg,ldg
+2016-04-24T15:54:00.960Z,33.5258,-11.4314,13.51,4.6,mb,,62,4.181,0.66,us,us20005lf1,2016-07-08T02:49:20.040Z,"240 km WNW of Oualidia, Morocco",earthquake,7.5,4.3,0.063,75,reviewed,us,us
+2016-04-10T17:48:54.110Z,36.3728,3.5105,14.57,4.8,mb,,89,3.81,1.08,us,us20005gtz,2022-08-02T17:39:31.571Z,"17 km WNW of Aïn Bessem, Algeria",earthquake,8.3,4.6,0.102,29,reviewed,us,us
+2016-04-08T07:10:08.020Z,35.5244,-3.7976,10,4.3,mb,,130,2.166,0.81,us,us20005iet,2016-06-21T01:14:03.040Z,"32 km NNE of Al Hoceïma, Morocco",earthquake,8.6,1.9,0.147,13,reviewed,us,us
+2016-04-05T17:39:02.140Z,35.7225,-3.7432,10,4.2,mb,,124,3.612,1.26,us,us20005hgt,2016-06-17T21:45:38.040Z,"Strait of Gibraltar",earthquake,5.9,1.9,0.124,21,reviewed,us,us
+2016-04-02T14:48:04.900Z,35.4893,-3.8335,10,4.2,mb,,128,3.095,0.66,us,us20005gdu,2016-06-17T21:45:06.040Z,"28 km NNE of Al Hoceïma, Morocco",earthquake,6,1.9,0.264,4,reviewed,us,us
+2016-03-16T23:10:45.330Z,35.6679,-3.5522,10,4.2,mb,,124,2.806,0.46,us,us20005asz,2016-05-21T00:05:34.040Z,"57 km NE of Al Hoceïma, Morocco",earthquake,9.4,2,0.175,9,reviewed,us,us
+2016-03-16T19:43:08.720Z,35.7179,-3.701,10,4.1,mb,,124,2.862,0.59,us,us20005asy,2022-08-02T15:21:59.212Z,"55 km NNE of Al Hoceïma, Morocco",earthquake,8.2,1.9,0.261,4,reviewed,us,us
+2016-03-16T16:27:34.440Z,35.2459,-3.7026,10,4.7,mb,,30,2.369,1.05,us,us20005a6s,2022-08-02T14:41:14.947Z,"Strait of Gibraltar",earthquake,6.4,1.8,0.062,79,reviewed,us,us
+2016-03-15T04:40:39.110Z,35.6879,-3.634,10,5.2,mww,,30,0.548,0.66,us,us10004xp4,2022-08-07T10:17:39.593Z,"55 km NNE of Al Hoceïma, Morocco",earthquake,3.2,1.8,,,reviewed,us,us
+2016-03-13T20:54:00.910Z,35.4791,-3.6897,10,4.2,mb,,127,2.265,1.34,us,us20005afn,2016-05-21T00:05:29.040Z,"33 km NE of Al Hoceïma, Morocco",earthquake,4.8,2,0.176,9,reviewed,us,us
+2016-03-12T15:17:12.030Z,35.6643,-3.5879,10,4.9,mww,,59,2.266,0.62,us,us10004x0y,2022-08-02T14:13:30.914Z,"55 km NE of Al Hoceïma, Morocco",earthquake,4.2,1.8,,,reviewed,us,us
+2016-03-12T15:04:05.380Z,35.6221,-3.5757,10,4.8,mww,,45,2.291,0.78,us,us10004x0u,2022-08-02T14:16:48.906Z,"52 km NE of Al Hoceïma, Morocco",earthquake,7.5,1.8,,,reviewed,us,us
+2016-03-11T09:40:21.790Z,35.854,-3.7957,10,4.3,mb,,122,2.043,0.89,us,us200059zf,2016-05-21T00:05:24.040Z,"68 km N of Al Hoceïma, Morocco",earthquake,4.4,1.9,0.178,9,reviewed,us,us
+2016-03-11T04:19:47.560Z,35.6577,-3.6245,10,4.6,mb,,72,2.856,0.65,us,us20005a01,2016-05-21T00:05:24.040Z,"53 km NNE of Al Hoceïma, Morocco",earthquake,5.8,1.9,0.165,11,reviewed,us,us
+2016-03-11T04:16:47.910Z,35.6992,-3.5952,10,5,mww,,24,2.248,0.69,us,us10004wp4,2022-08-02T13:54:04.778Z,"58 km NNE of Al Hoceïma, Morocco",earthquake,6.4,1.7,,,reviewed,us,us
+2016-03-10T23:04:19.370Z,35.7077,-3.6625,10,4.2,mb,,89,2.194,1.05,us,us10004xth,2016-05-16T18:01:51.040Z,"56 km NNE of Al Hoceïma, Morocco",earthquake,7.6,1.9,0.121,19,reviewed,us,us
+2016-03-09T23:46:07.400Z,35.6773,-3.5733,10,4.8,mb,,30,2.272,0.54,us,us10004wer,2022-08-02T13:45:27.103Z,"57 km NE of Al Hoceïma, Morocco",earthquake,6.7,1.8,0.045,152,reviewed,us,us
+2016-03-03T11:36:26.230Z,35.4857,-3.7849,10,5,mb,,51,2.193,1.02,us,us10004ubk,2022-08-02T12:50:16.891Z,"29 km NNE of Al Hoceïma, Morocco",earthquake,5.5,1.4,0.044,169,reviewed,us,us
+2016-03-02T13:41:07.600Z,36.2028,-8.168,10,4.3,mb,,63,1.068,0.93,us,us10004urx,2016-05-06T23:34:23.040Z,"93 km SSW of Faro, Portugal",earthquake,5.5,1.9,0.239,5,reviewed,us,us
+2016-02-28T11:03:17.630Z,35.5718,-3.5728,11.72,4.3,mb,,125,2.885,0.55,us,us10004ud0,2016-05-06T23:34:17.040Z,"48 km NE of Al Hoceïma, Morocco",earthquake,5.1,7.4,0.267,4,reviewed,us,us
+2016-02-23T10:12:32.860Z,35.6949,-3.5641,10,4.7,mb,,81,2.273,0.78,us,us10004rzc,2016-05-03T23:44:18.040Z,"59 km NE of Al Hoceïma, Morocco",earthquake,5.6,1.9,0.074,55,reviewed,us,us
+2016-02-23T08:46:01.010Z,35.6866,-3.6285,10,4.8,mb,,45,2.227,0.72,us,us10004ryd,2016-05-03T23:44:18.040Z,"55 km NNE of Al Hoceïma, Morocco",earthquake,7.3,1.8,0.052,116,reviewed,us,us
+2016-02-22T04:14:30.100Z,35.7366,-3.5222,10,4.6,mb,,74,2.291,0.71,us,us10004rmk,2022-08-02T11:25:15.814Z,"65 km NE of Al Hoceïma, Morocco",earthquake,7.6,1.8,0.088,39,reviewed,us,us
+2016-02-22T03:46:02.460Z,35.7375,-3.5108,10,5.1,mww,,25,2.3,0.77,us,us10004rmh,2022-08-07T09:56:26.701Z,"66 km NE of Al Hoceïma, Morocco",earthquake,6.1,1.8,,,reviewed,us,us
+2016-02-10T01:12:16.390Z,36.5297,3.0859,11.12,4.7,mb,,72,3.435,0.97,us,us20004z5z,2022-08-07T09:32:59.659Z,"1 km SSE of Bougara, Algeria",earthquake,3.7,4,0.066,69,reviewed,us,us
+2016-02-08T11:21:43.780Z,35.3652,-3.8782,8.47,4.2,mb,,129,3.207,0.61,us,us20004ypx,2016-04-19T01:33:24.040Z,"13 km NNE of Al Hoceïma, Morocco",earthquake,8.9,7.6,0.371,2,reviewed,us,us
+2016-02-07T14:57:55.270Z,36.6186,-11.1349,14.87,4.7,mb,,110,1.92,0.74,us,us20004zbx,2016-04-19T01:33:22.040Z,"200 km WSW of Sagres, Portugal",earthquake,11,4.9,0.246,5,reviewed,us,us
+2016-02-05T09:04:41.120Z,35.6181,-3.8796,10,4.3,mb,,109,2.861,0.89,us,us20004z1n,2016-04-19T01:33:19.040Z,"40 km N of Al Hoceïma, Morocco",earthquake,7.7,1.9,0.218,6,reviewed,us,us
+2016-02-05T09:02:59.050Z,35.5909,-3.7731,10,4.4,mb,,135,2.99,0.62,us,us20004z1m,2016-04-19T01:33:19.040Z,"40 km NNE of Al Hoceïma, Morocco",earthquake,7,2,0.269,4,reviewed,us,us
+2016-02-03T21:27:49.390Z,35.6091,-3.7462,10,4,mb,,111,2.962,1.13,us,us20004y5r,2016-04-14T22:51:42.040Z,"43 km NNE of Al Hoceïma, Morocco",earthquake,4.2,2,0.172,9,reviewed,us,us
+2016-02-01T23:50:48.860Z,35.4566,-3.8528,10,4.2,mb,,128,2.157,0.84,us,us20004weu,2016-04-14T22:51:39.040Z,"23 km NNE of Al Hoceïma, Morocco",earthquake,8.3,1.9,0.152,12,reviewed,us,us
+2016-01-31T16:25:27.440Z,36.5911,-3.0498,10,4.9,mb,,55,1.916,0.57,us,us20004w5y,2022-08-07T09:11:05.392Z,"17 km S of Adra, Spain",earthquake,6.1,1.8,0.055,107,reviewed,us,us
+2016-01-29T01:16:20.570Z,35.4263,-3.8032,10,4.1,mb,,130,2.208,1,us,us20004wtz,2016-04-14T22:51:32.040Z,"22 km NNE of Al Hoceïma, Morocco",earthquake,6.9,1.9,0.197,7,reviewed,us,us
+2016-01-28T19:48:51.250Z,35.452,-3.821,10,4.5,mb,,101,2.182,0.8,us,us20004vbu,2022-08-02T07:37:03.384Z,"24 km NNE of Al Hoceïma, Morocco",earthquake,3.5,1.8,0.074,53,reviewed,us,us
+2016-01-27T21:57:49.590Z,35.5796,-3.7851,10,4.3,mb,,90,0.708,1.39,us,us20004wc1,2016-04-08T23:06:18.040Z,"38 km NNE of Al Hoceïma, Morocco",earthquake,4.4,1.7,0.143,14,reviewed,us,us
+2016-01-27T06:32:07.970Z,35.6728,-3.568,10,4.9,mb,,32,2.278,0.89,us,us20004uze,2022-08-02T07:26:06.559Z,"57 km NE of Al Hoceïma, Morocco",earthquake,6.1,1.8,0.036,270,reviewed,us,us
+2016-01-26T04:35:59.240Z,35.5265,-3.6992,10,4.5,mb,,140,2.238,0.8,us,us20004ult,2016-04-08T23:06:15.040Z,"37 km NE of Al Hoceïma, Morocco",earthquake,7.3,1.9,0.1,29,reviewed,us,us
+2016-01-26T01:16:45.990Z,35.4901,-3.9411,1.2,4.1,mwr,,209,3.159,0.62,us,us20004vkl,2016-04-08T23:06:15.040Z,"26 km N of Al Hoceïma, Morocco",earthquake,7.2,6.2,0.054,33,reviewed,us,us
+2016-01-25T18:17:33.430Z,35.5913,-3.7694,10,4.1,mb,,98,2.158,0.73,us,us10004h4a,2022-08-07T09:05:05.805Z,"40 km NNE of Al Hoceïma, Morocco",earthquake,8,1.9,0.123,18,reviewed,us,us
+2016-01-25T16:02:43.560Z,35.5363,-3.7839,10,4.3,mb,,127,2.171,0.73,us,us10004h36,2022-08-02T07:14:23.237Z,"34 km NNE of Al Hoceïma, Morocco",earthquake,5.6,1.8,0.106,25,reviewed,us,us
+2016-01-25T14:52:42.740Z,35.739,-3.5856,10,4.9,mb,,32,2.242,0.58,us,us10004h2m,2022-08-02T07:13:27.846Z,"62 km NNE of Al Hoceïma, Morocco",earthquake,5.9,1.8,0.037,225,reviewed,us,us
+2016-01-25T11:29:23.070Z,35.4901,-3.7475,21.43,4.4,mb,,228,3.044,0.57,us,us20004vk3,2016-04-08T23:06:14.040Z,"31 km NNE of Al Hoceïma, Morocco",earthquake,10.7,6.9,0.24,5,reviewed,us,us
+2016-01-25T08:25:06.100Z,35.5453,-3.6703,10,4.7,mb,,96,2.251,0.76,us,us10004h0q,2016-04-08T23:06:14.040Z,"40 km NE of Al Hoceïma, Morocco",earthquake,7,1.9,0.078,50,reviewed,us,us
+2016-01-25T08:15:29.050Z,35.6955,-3.6741,10,4.1,mb,,114,2.189,0.68,us,us20004vjq,2016-04-08T23:06:14.040Z,"54 km NNE of Al Hoceïma, Morocco",earthquake,6.8,2,0.37,2,reviewed,us,us
+2016-01-25T07:55:15.780Z,35.4917,-3.8394,10,4.2,mb,,128,2.151,0.52,us,us20004vjn,2016-04-08T23:06:14.040Z,"28 km NNE of Al Hoceïma, Morocco",earthquake,4.3,1.9,0.373,2,reviewed,us,us
+2016-01-25T06:10:41.960Z,35.5051,-3.8783,10,5.2,mb,,34,2.116,0.71,us,us10004gzj,2022-08-02T07:07:08.936Z,"28 km N of Al Hoceïma, Morocco",earthquake,5.9,1.8,0.031,343,reviewed,us,us
+2016-01-25T05:54:05.460Z,35.4764,-3.7734,10,5.1,mwr,,32,2.206,0.71,us,us10004gzd,2022-08-02T07:06:12.498Z,"29 km NNE of Al Hoceïma, Morocco",earthquake,6,1.8,0.063,24,reviewed,us,us
+2016-01-25T05:37:11.890Z,35.4992,-3.8211,10,4.2,mb,,100,2.161,1.05,us,us10004gz8,2016-04-08T23:06:13.040Z,"29 km NNE of Al Hoceïma, Morocco",earthquake,6.6,1.9,0.176,9,reviewed,us,us
+2016-01-25T05:03:46.300Z,35.6749,-3.7449,10,4.7,mb,,97,2.143,0.98,us,us10004gyu,2016-04-08T23:06:13.040Z,"50 km NNE of Al Hoceïma, Morocco",earthquake,6.6,1.8,0.065,72,reviewed,us,us
+2016-01-25T04:34:19.170Z,35.6805,-3.723,10,5.3,mb,,37,2.158,0.92,us,us10004gyj,2022-08-02T07:04:17.315Z,"51 km NNE of Al Hoceïma, Morocco",earthquake,3.3,1.8,0.032,324,reviewed,us,us
+2016-01-25T04:30:55.190Z,35.5953,-3.8166,10,5,mb,,58,2.122,0.79,us,us10004gz3,2022-08-02T07:05:13.536Z,"39 km NNE of Al Hoceïma, Morocco",earthquake,6.2,1.8,0.071,64,reviewed,us,us
+2016-01-25T04:22:02.730Z,35.6493,-3.6818,12,6.3,mww,,20,2.201,0.92,us,us10004gy9,2022-08-07T09:02:39.959Z,"49 km NNE of Al Hoceïma, Morocco",earthquake,5.9,1.7,,,reviewed,us,us
+2016-01-21T13:47:19.860Z,35.6247,-3.6499,10,5.1,mwr,,65,2.234,0.85,us,us10004g3i,2022-08-07T08:58:18.616Z,"48 km NNE of Al Hoceïma, Morocco",earthquake,7.5,1.8,,,reviewed,us,mdd
+2015-10-29T00:37:46.520Z,42.166,3.2175,7.85,4.1,mb,,46,0.373,1.17,us,us200040cq,2022-08-01T14:29:34.307Z,"8 km ENE of l'Escala, Spain",earthquake,4.8,2.9,0.234,5,reviewed,us,us
+2015-05-08T05:48:52.090Z,36.7986,5.352,10,4.3,mb,,82,3.398,1.1,us,us20002dpu,2015-07-17T07:05:58.040Z,"24 km E of Bejaïa, Algeria",earthquake,6.3,1.9,0.177,9,reviewed,us,us
+2015-03-24T17:04:58.100Z,35.6782,5.6816,21.06,4.2,mb,,86,2.982,0.85,us,us10001qbr,2015-06-09T21:30:05.040Z,"3 km E of Râs el Aïoun, Algeria",earthquake,4,5.7,0.159,11,reviewed,us,us
+2015-03-21T22:55:57.670Z,35.6766,5.679,10,4.8,mb,,64,2.984,0.68,us,us10001phk,2022-07-28T03:31:23.879Z,"3 km E of Râs el Aïoun, Algeria",earthquake,6.5,1.8,0.048,133,reviewed,us,us
+2015-03-18T23:31:03.240Z,35.6037,5.6919,10,4.2,mb,,50,2.978,0.93,us,us10001nn1,2015-06-04T00:46:26.040Z,"8 km SSE of Râs el Aïoun, Algeria",earthquake,6.4,1.9,0.084,39,reviewed,us,us
+2015-03-17T21:14:11.870Z,35.7244,5.6524,10,4.4,mb,,63,3.005,0.9,us,us10001n98,2015-06-04T00:46:24.040Z,"5 km N of Râs el Aïoun, Algeria",earthquake,4.9,1.9,0.076,50,reviewed,us,us
+2015-03-17T15:57:15.230Z,36.0433,0.4238,13.67,4.2,mb,,83,0.177,0.89,us,us10001n61,2015-06-04T00:46:24.040Z,"32 km ENE of Mostaganem, Algeria",earthquake,4.6,4.4,0.176,10,reviewed,us,us
+2015-03-16T22:50:18.580Z,35.7532,5.6736,10,4,mb,,101,2.987,1.22,us,us10001mzr,2024-11-14T20:30:58.549Z,"9 km NNE of Râs el Aïoun, Algeria",earthquake,7.7,1.9,0.365,3,reviewed,us,us
+2015-03-15T11:22:13.910Z,35.7149,5.7067,10,4.6,mb,,92,2.961,0.6,us,us10001mic,2015-06-04T00:46:20.040Z,"7 km NE of Râs el Aïoun, Algeria",earthquake,2.7,1.9,0.095,41,reviewed,us,us
+2015-03-06T04:01:49.340Z,34.896,-2.8022,5,4.3,mb,,76,0.411,1.05,us,usc000tvft,2015-05-28T00:48:34.040Z,"8 km SW of Zaïo, Morocco",earthquake,5,1.9,0.161,13,reviewed,us,us
+2015-02-23T16:16:29.500Z,39.0574,-2.6729,7.6,4.5,mwr,,17,0.97,0.74,us,usc000tsgt,2022-08-07T07:50:52.376Z,"12 km NNE of Ossa de Montiel, Spain",earthquake,3.6,3.6,0.083,14,reviewed,us,us
+2015-02-01T23:38:25.400Z,36.5438,2.985,10,4.2,mb,,98,1.958,1.39,us,usc000tkuh,2015-05-02T14:06:19.040Z,"1 km NNW of Bouinan, Algeria",earthquake,7.3,2,0.237,5,reviewed,us,us
+2015-02-01T20:06:36.590Z,36.4862,3.0115,19.05,4.7,mb,,74,1.965,1.27,us,usc000tks8,2022-07-27T18:22:09.706Z,"5 km SSE of Bouinan, Algeria",earthquake,6,4.3,0.13,21,reviewed,us,us
+2014-12-26T17:55:18.140Z,36.5237,3.0667,14.26,5.1,mb,,34,2.847,0.94,us,usc000ta2u,2022-07-27T11:34:22.267Z,"2 km SSW of Bougara, Algeria",earthquake,5,2.5,0.041,210,reviewed,us,us
+2014-12-23T08:59:04.720Z,36.4956,3.0527,13.43,4.7,mb,,54,0.427,1.22,us,usc000t9cf,2022-07-27T11:27:48.076Z,"5 km SSW of Bougara, Algeria",earthquake,4.9,4,0.063,90,reviewed,us,us
+2014-12-23T08:00:21.800Z,36.4924,3.0247,7.29,4.9,mb,,36,0.447,1.12,us,usc000t9ca,2022-07-27T11:26:49.038Z,"5 km SE of Bouinan, Algeria",earthquake,5,3.8,0.041,202,reviewed,us,us
+2014-12-21T17:53:57.880Z,36.576,2.9621,21.4,4.4,mb,,157,1.948,1.36,us,usc000t8y2,2015-03-06T02:59:08.040Z,"4 km W of Chebli, Algeria",earthquake,6.2,8.6,0.268,4,reviewed,us,us
+2014-12-19T11:06:05.130Z,36.544,2.9827,10,4.6,mb,,58,0.449,1.45,us,usc000t87x,2022-07-27T11:00:41.433Z,"1 km NNW of Bouinan, Algeria",earthquake,4.4,1.8,0.09,40,reviewed,us,us
+2014-12-16T15:02:35.820Z,36.4425,3.013,15.36,4,mb,,95,0.246,0.91,us,usc000t7b6,2022-07-27T10:41:27.464Z,"10 km S of Bouinan, Algeria",earthquake,5.6,4.8,0.26,5,reviewed,us,us
+2014-11-15T01:13:01.320Z,36.4023,3.4436,10,4.2,mb,,88,2.293,0.92,us,usc000sxgl,2022-07-27T10:27:09.413Z,"22 km SW of Lakhdaria, Algeria",earthquake,6.7,1.4,0.159,18,reviewed,us,us
+2014-11-03T03:39:39.000Z,34.8594,-11.399,19.99,4.6,mb,,40,3.081,1.29,us,usc000stkj,2022-07-27T06:33:16.131Z,"Madeira Islands, Portugal region",earthquake,5.8,3.9,0.066,70,reviewed,us,us
+2014-11-02T18:32:06.920Z,35.7398,-4.4709,111.35,4.1,mb,,55,0.753,0.97,us,usc000stit,2015-01-20T09:03:12.040Z,"72 km NW of Al Hoceïma, Morocco",earthquake,4.2,4.2,0.166,11,reviewed,us,us
+2014-10-23T02:05:51.000Z,36.7833,-9.6333,22,4,mb,,,,0.71,us,usc000sul8,2015-01-17T01:25:33.040Z,"66 km WSW of Sagres, Portugal",earthquake,5.8,6.2,0.195,8,reviewed,inmg,us
+2014-10-09T20:21:12.770Z,34.9249,-4.4305,18.67,4.4,mb,,126,2.108,0.99,us,usb000spg9,2015-01-06T23:49:48.040Z,"10 km W of Targuist, Morocco",earthquake,8.9,4.6,0.535,2,reviewed,us,us
+2014-09-08T11:46:21.890Z,36.5346,3.0628,13.94,4,ml,,179,2.836,1.24,us,usb000sab0,2014-12-05T23:36:39.040Z,"1 km WSW of Bougara, Algeria",earthquake,8.3,8.5,,,reviewed,us,alg
+2014-08-22T00:22:46.420Z,35.7201,0.1522,15.6,4.1,mb,,174,0.509,1.26,us,usb000s56s,2014-11-22T02:06:25.000Z,"24 km SSE of Mostaganem, Algeria",earthquake,3.8,6.2,0.262,4,reviewed,us,us
+2014-08-19T13:38:23.040Z,36.9303,-5.5607,11.33,4.6,mb,,44,0.244,0.6,us,usb000s46p,2014-11-15T04:07:17.000Z,"1 km WNW of Puerto Serrano, Spain",earthquake,,4.8,0.193,12,reviewed,us,us
+2014-08-01T04:11:16.520Z,36.8561,3.181,10,5.5,mww,,36,2.608,0.9,us,usb000rz1p,2022-08-07T00:52:43.784Z,"11 km NW of Aïn Taya, Algeria",earthquake,,1.7,,,reviewed,us,us
+2014-07-31T17:14:23.840Z,34.999,-2.9655,7.5,4.1,mb,,,,0.91,us,usb000ryxq,2014-10-29T19:52:52.000Z,"4 km ESE of Al Aaroui, Morocco",earthquake,,4.6,0.14,16,reviewed,mdd,us
+2014-07-14T03:09:25.500Z,44.4833,6.6833,2,4.1,mb,,,,0.96,us,usb000rsq4,2014-10-10T08:02:17.000Z,"8 km NNW of Jausiers, France",earthquake,,5.5,0.234,5,reviewed,ldg,us
+2014-07-09T18:36:23.080Z,36.8882,-3.9222,62.2,4.2,mb,,77,0.24,1.63,us,usb000rrbl,2014-10-10T08:02:10.000Z,"7 km NE of Canillas de Albaida, Spain",earthquake,,6.8,0.237,5,reviewed,mdd,us
+2014-06-22T01:32:15.300Z,44.48,6.69,2,4,ml,,,,0.74,us,usc000rjvd,2014-09-19T17:23:04.000Z,"7 km NNW of Jausiers, France",earthquake,,6.3,,,reviewed,ldg,ldg
+2014-06-02T07:02:09.440Z,35.929,-3.545,0,4.4,mb,,,,0.66,us,usc000ra1b,2014-08-26T01:21:10.000Z,"83 km NNE of Al Hoceïma, Morocco",earthquake,,1.9,0.219,6,reviewed,mdd,us
+2014-05-22T05:22:02.700Z,35.7854,0.2406,10,4.8,mwr,,39,2.056,0.86,us,usb000qz78,2014-08-23T08:36:43.000Z,"21 km SE of Mostaganem, Algeria",earthquake,,1.8,0.08,15,reviewed,us,us
+2014-05-22T02:57:40.430Z,35.737,0.2223,11.34,4,mb,,89,2.091,0.91,us,usb000qz67,2014-08-23T08:36:42.000Z,"24 km SSE of Mostaganem, Algeria",earthquake,,5.4,0.519,1,reviewed,us,us
+2014-05-14T13:51:49.530Z,33.6607,-4.9973,17.89,4.2,mb,,264,2.903,0.55,us,usb000qm9g,2014-08-09T02:53:42.000Z,"18 km NE of Ifrane, Morocco",earthquake,,9.2,0.305,3,reviewed,us,us
+2014-05-11T13:46:40.090Z,37.3422,-12.4842,15,4.2,mb,,291,2.926,0.74,us,usb000qhqv,2014-08-06T00:55:31.000Z,"Azores-Cape St. Vincent Ridge",earthquake,,9.8,0.526,2,reviewed,us,us
+2014-05-01T07:46:26.500Z,34.9512,-10.1239,10,4.2,mb,,300,2.417,1.02,us,usb000q68c,2014-07-27T21:51:14.000Z,"239 km NW of El Jadid, Morocco",earthquake,,2,0.529,1,reviewed,us,us
+2014-04-29T07:03:25.080Z,42.9918,-0.0072,11.1,4.1,mwr,,181,0.36,1,us,usb000q3ee,2014-07-14T20:11:24.000Z,"6 km ENE of Pierrefitte-Nestalas, France",earthquake,,4.6,0.078,16,reviewed,mdd,us
+2014-04-15T07:56:47.070Z,33.6872,-5.1015,10,4.2,mb,,65,1.491,0.92,us,usb000pl10,2014-07-01T02:38:10.000Z,"17 km N of Ifrane, Morocco",earthquake,,1.9,0.132,17,reviewed,us,us
+2014-04-13T13:46:40.470Z,37.0232,-12.3965,16.32,4.6,mb,,222,2.856,1.31,us,usb000pmg0,2014-07-01T02:38:05.000Z,"Azores-Cape St. Vincent Ridge",earthquake,,7.4,0.274,5,reviewed,us,us
+2014-04-07T19:27:00.350Z,44.6036,6.7073,8.07,4.8,mwr,,19,0.448,1.27,us,usc000p9jb,2022-07-26T12:28:36.553Z,"7 km SE of Guillestre, France",earthquake,,2,0.042,54,reviewed,us,us
+2014-03-25T00:12:47.410Z,36.9391,5.6063,10,4.2,mb,,79,3.25,1.22,us,usc000np9b,2014-05-24T00:54:44.000Z,"19 km NW of Jijel, Algeria",earthquake,,1.9,0.263,5,reviewed,us,us
+2014-03-23T00:03:18.150Z,36.8221,-12.359,10,4.2,mb,,180,2.845,0.81,us,usc000nnp5,2014-05-24T00:54:41.000Z,"Azores-Cape St. Vincent Ridge",earthquake,,2,0.303,3,reviewed,us,us
+2014-03-20T23:27:35.470Z,35.8883,-0.3949,13.96,4.2,mb,,53,0.199,1.14,us,usc000njdz,2022-07-26T10:09:19.977Z,"12 km NW of Aïn el Bya, Algeria",earthquake,,5.2,0.526,3,reviewed,us,us
+2014-03-14T21:50:56.150Z,33.8008,-4.1299,18.26,4.2,mb,,126,1.061,1.06,us,usc000nnp4,2014-05-16T21:51:41.000Z,"15 km SW of Tmourghout, Morocco",earthquake,,6.4,0.152,12,reviewed,us,us
+2014-03-11T12:27:05.040Z,34.2111,-4.9098,10.04,4.6,mb,,76,1.412,0.88,us,usc000n7mb,2014-05-15T02:24:25.000Z,"16 km NNE of Fès al Bali, Morocco",earthquake,,1.9,0.064,76,reviewed,us,us
+2014-02-22T19:30:34.450Z,36.8088,3.6616,14.29,4.3,mb,,106,0.833,1.02,us,usc000mwn1,2022-07-26T07:54:05.408Z,"13 km NE of Thenia, Algeria",earthquake,,3.3,0.137,15,reviewed,us,us
+2013-12-28T00:50:20.030Z,36.802,-12.2453,10,4.2,mb,,122,2.757,0.97,us,usc000lt5s,2014-02-28T08:44:10.000Z,"295 km W of Sagres, Portugal",earthquake,,2,0.373,,reviewed,us,us
+2013-12-16T07:06:20.350Z,35.4835,-7.0328,34.84,4.8,mb,,44,1.187,0.88,us,usc000llcq,2022-07-26T03:31:40.459Z,"85 km WNW of Larache, Morocco",earthquake,,4.4,0.057,,reviewed,us,us
+2013-10-23T13:57:28.140Z,35.2107,-9.4056,44.37,4.4,mb,,81,1.974,1.07,us,usb000kj73,2014-01-03T00:32:51.000Z,"203 km SSW of Sagres, Portugal",earthquake,,4.6,0.11,,reviewed,us,us
+2013-10-19T00:19:12.460Z,36.0818,-9.9514,21.49,4.3,mb,,48,2.227,0.69,us,usb000kh1c,2013-12-30T23:41:13.000Z,"136 km SW of Sagres, Portugal",earthquake,,4,0.1,,reviewed,us,us
+2013-10-02T23:29:29.210Z,40.3393,0.7804,0,4,mb,,,,1.07,us,usb000k53j,2013-12-19T02:51:33.000Z,"29 km ESE of Vinaròs, Spain",earthquake,,1.9,0.367,,reviewed,mdd,us
+2013-10-02T23:06:50.070Z,40.3448,0.7898,0,4.3,mb,,,,1.79,us,usb000k534,2013-12-19T02:51:33.000Z,"30 km ESE of Vinaròs, Spain",earthquake,,1.9,0.53,,reviewed,mdd,us
+2013-10-01T03:32:45.080Z,40.3289,0.7864,0,4.1,mwr,,,,1.19,us,usb000k3by,2013-12-19T02:51:31.000Z,"30 km ESE of Vinaròs, Spain",earthquake,,1.9,0.075,,reviewed,mdd,us
+2013-09-02T12:36:36.600Z,43.4167,-0.6333,2,4.2,ml,,,,1.29,us,usb000k0up,2013-11-06T01:33:40.000Z,"2 km SE of Mont, France",earthquake,,6.5,,,reviewed,us_ldg,us_ldg
+2013-08-08T07:05:25.220Z,35.245,-4.1921,10,4.2,mb,,76,2.039,1.3,us,usb000iydg,2013-10-12T21:32:31.000Z,"21 km W of Tirhanimîne, Morocco",earthquake,,1.9,0.108,,reviewed,us,us
+2013-07-17T03:00:56.500Z,36.534,3.086,9.8,4.8,mb,239,49,,1.17,us,usb000ifvd,2022-07-25T18:31:30.432Z,"0 km SSE of Bougara, Algeria",earthquake,,2.5,,202,reviewed,us,us
+2013-05-26T16:00:55.070Z,36.736,5.178,10,5,mb,402,33.5,,0.79,us,usb000h6pb,2014-11-07T01:50:54.486Z,"8 km ESE of Bejaïa, Algeria",earthquake,,,,274,reviewed,us,us
+2013-05-23T20:03:06.840Z,36.397,3.437,14,4.3,mb,93,76,,1.12,us,usb000h3wb,2014-11-07T01:50:53.442Z,"23 km SW of Lakhdaria, Algeria",earthquake,,4.9,,20,reviewed,us,us
+2013-05-19T09:07:26.500Z,36.703,5.261,6.7,5,mb,223,35,,1.03,us,usb000gyv1,2022-07-25T02:32:50.455Z,"16 km ESE of Bejaïa, Algeria",earthquake,,3.6,,150,reviewed,us,us
+2013-05-02T18:55:36.550Z,35.731,-0.056,17.3,4.2,mb,51,81.2,,0.99,us,usc000gm4v,2014-11-07T01:50:43.531Z,"23 km ESE of Aïn el Bya, Algeria",earthquake,,14.9,,14,reviewed,us,us
+2013-04-30T17:53:14.820Z,35.377,5.644,10.4,4,mb,37,105,,1.14,us,usb000giwb,2014-11-07T01:50:40.012Z,"16 km SSE of Boumagueur, Algeria",earthquake,,6.9,,18,reviewed,us,us
+2013-04-29T19:27:25.200Z,34.703,-2.173,8.1,4.1,mb,16,85.3,,0.85,us,usp000k0g8,2014-11-07T01:50:39.581Z,"24 km W of Oujda-Angad, Morocco",earthquake,,10.1,,2,reviewed,us,us
+2013-04-20T15:18:22.030Z,42.713,-1.712,0,4.3,mb,51,48.8,,,us,usb000gcn0,2014-11-07T01:50:36.805Z,"3 km NNE of Adiós, Spain",earthquake,,,,11,reviewed,mdd,us
+2013-04-05T07:25:26.080Z,42.069,7.506,18.2,4,mb,61,66.6,,1.24,us,us2013nqd4,2014-11-07T01:50:30.602Z,"90 km W of Cargèse, France",earthquake,,11.2,,4,reviewed,us,us
+2013-04-04T18:58:22.500Z,33.766,7.698,10,4.7,mb,41,70.3,,0.82,us,usp000k02a,2014-11-07T01:50:30.477Z,"20 km SW of Nefta, Tunisia",earthquake,,,,4,reviewed,us,us
+2013-03-23T02:57:40.300Z,42.855,-1.797,2,4.2,ml,54,119.3,,,us,us2013ncad,2014-11-07T01:50:22.500Z,"2 km WNW of Oltza, Spain",earthquake,,,,,reviewed,ldg,ldg
+2013-03-19T03:11:31.560Z,36.46,-5.551,44.6,4,mb,85,67,,,us,usp000jztp,2014-11-07T01:50:21.429Z,"9 km WNW of Jimena de la Frontera, Spain",earthquake,,,,11,reviewed,mdd,us
+2013-03-16T09:49:25.700Z,35.718,5.622,10,4.4,mb,55,101.3,,1.12,us,usb000fltk,2014-11-07T01:50:20.750Z,"5 km NNW of Râs el Aïoun, Algeria",earthquake,,,,15,reviewed,us,us
+2013-03-01T18:43:19.680Z,36.902,5.291,14.8,4.2,mb,35,90.9,,1,us,usp000jzkn,2014-11-07T01:50:16.227Z,"24 km NE of Bejaïa, Algeria",earthquake,,17.9,,3,reviewed,us,us
+2013-02-22T12:30:48.510Z,36.752,5.279,11.4,4.5,mb,68,49.7,,1.02,us,usc000fbmx,2014-11-07T01:50:10.797Z,"17 km E of Bejaïa, Algeria",earthquake,,7.8,,15,reviewed,us,us
+2013-01-07T04:20:24.100Z,44.768,6.637,7,4.1,ml,71,40.5,,,us,usp000jy0g,2014-11-07T01:49:47.337Z,"7 km SE of Saint-Martin-de-Queyrières, France",earthquake,,,,,reviewed,ldg,ldg
+2013-01-05T23:26:12.400Z,43.069,-0.216,2,4.1,ml,56,119.5,,,us,usp000jxxw,2014-11-07T01:49:46.962Z,"5 km SW of Saint-Pé-de-Bigorre, France",earthquake,,,,,reviewed,ldg,ldg
+2012-12-30T23:35:02.590Z,43.183,-0.233,2,4.8,ml,80,66.6,,,us,usp000jxn1,2014-11-07T01:49:41.171Z,"1 km N of Coarraze, France",earthquake,,,,,reviewed,ldg,ldg
+2012-11-28T23:50:47.740Z,36.787,5.195,10,4.5,mb,89,44.5,,1.05,us,usp000jw77,2014-11-07T01:49:27.394Z,"10 km ENE of Bejaïa, Algeria",earthquake,,,,10,reviewed,us,us
+2012-11-28T23:15:29.840Z,36.941,5.312,10,5,mb,214,71.9,,1.42,us,usp000jw74,2022-05-03T16:00:02.911Z,"28 km NE of Bejaïa, Algeria",earthquake,,,,110,reviewed,us,us
+2012-10-16T05:16:55.210Z,37.285,-12.765,10,4.2,mb,31,285.2,,0.62,us,usp000ju1k,2014-11-07T01:49:06.029Z,"Azores-Cape St. Vincent Ridge",earthquake,,,,4,reviewed,us,us
+2012-10-10T06:14:41.590Z,36.972,4.515,10,4.6,mb,121,75.4,,1.01,us,usp000jttd,2014-11-07T01:49:04.293Z,"26 km NE of Arhribs, Algeria",earthquake,,,,37,reviewed,us,us
+2012-10-03T09:20:44.690Z,44.586,7.316,10,4.5,mb,90,33.8,,1.03,us,usp000jtfg,2015-03-24T02:05:07.239Z,"2 km N of Melle, Italy",earthquake,,,,3,reviewed,us,us
+2012-06-18T22:09:50.430Z,39.257,6.346,10,4.5,mb,172,39.8,,1.27,us,usp000jmy1,2015-03-24T02:33:35.162Z,"169 km W of Carloforte, Italy",earthquake,,,,24,reviewed,us,us
+2012-06-05T05:09:42.790Z,36.88,-10.806,10,4.5,mb,49,142.6,,1.43,us,usp000jmbw,2014-11-07T01:48:00.835Z,"166 km W of Sagres, Portugal",earthquake,,,,3,reviewed,us,us
+2012-06-03T14:57:32.460Z,36.536,5.242,10,4,mb,48,45.3,,1.03,us,usp000jm9j,2014-11-07T01:48:00.048Z,"24 km E of Barbacha, Algeria",earthquake,,,,3,reviewed,us,us
+2012-05-18T13:12:11.480Z,33.994,1.854,10,4.5,mb,85,65.1,,1.4,us,usp000jkjr,2014-11-07T01:47:48.568Z,"26 km WSW of Aflou, Algeria",earthquake,,,,23,reviewed,us,us
+2012-04-25T03:18:18.900Z,36.497,1.641,10,4.6,mb,231,25.3,,1.13,us,usp000jjj6,2015-03-24T01:28:41.764Z,"25 km N of El Abadia, Algeria",earthquake,,,,101,reviewed,us,us
+2012-04-18T09:47:25.480Z,36.462,-2.633,3.4,4.3,mb,45,78.6,,,us,usp000jj63,2015-03-24T01:28:33.451Z,"33 km S of Roquetas de Mar, Spain",earthquake,,,,8,reviewed,mdd,us
+2012-04-05T04:56:20.480Z,36.186,4.566,1,4.6,mb,87,74,,,us,usp000jh91,2014-11-07T01:47:26.278Z,"14 km NNW of El Achir, Algeria",earthquake,,,,18,reviewed,alg,us
+2012-03-24T05:50:01.890Z,36.45,0.855,10,4.1,mb,34,75.9,,1.33,us,usp000jgq3,2014-11-07T01:47:18.380Z,"30 km W of Abou el Hassan, Algeria",earthquake,,,,7,reviewed,us,us
+2012-03-21T06:41:58.780Z,35.713,-0.592,24.4,4.2,ml,28,76.2,,,us,usp000jgjt,2014-11-07T01:47:17.493Z,"4 km ENE of Oran, Algeria",earthquake,,,,,reviewed,mdd,alg
+2012-03-05T02:45:23.080Z,36.41,0.807,7.5,4.3,mb,58,53.8,,1.14,us,usp000jft5,2014-11-07T01:47:11.134Z,"31 km NNW of ’Aïn Merane, Algeria",earthquake,,7.4,,11,reviewed,us,us
+2012-03-04T03:47:40.920Z,42.072,7.623,10,4.8,mb,161,30.8,,1.13,us,usp000jfs0,2015-03-24T02:02:55.441Z,"80 km W of Cargèse, France",earthquake,,,,43,reviewed,us,us
+2012-03-02T07:15:50.780Z,44.489,6.705,10,4.5,mb,78,37.8,,,us,usp000jfpa,2014-11-07T01:47:09.240Z,"8 km NNW of Jausiers, France",earthquake,,,,4,reviewed,ldg,us
+2012-02-27T16:31:21.400Z,44.488,6.685,0,4.1,ml,72,48.4,,,us,usp000jfgt,2014-11-07T01:47:05.237Z,"8 km NNW of Jausiers, France",earthquake,,,,,reviewed,csem,csem
+2012-02-26T22:37:55.790Z,44.538,6.658,2,4.2,mwr,172,34.4,,,us,usp000jff8,2015-03-24T01:26:37.545Z,"13 km ESE of Embrun, France",earthquake,,,,,reviewed,csem,us
+2012-02-18T00:28:25.150Z,34.413,-5.534,10,4.2,mb,67,73.6,,0.98,us,usp000jf1z,2015-03-24T01:53:10.042Z,"26 km NE of Sidi Qacem, Morocco",earthquake,,,,14,reviewed,us,us
+2012-01-31T14:36:21.240Z,37.833,-3.135,5,4.4,ml,49,29.1,,1.12,us,usp000je7d,2015-03-24T01:59:07.381Z,"6 km W of Quesada, Spain",earthquake,,,,,reviewed,us,ldg
+2011-12-06T19:12:12.660Z,37.058,-12.581,10,4.1,mb,60,156.6,,1.07,us,usp000jbwf,2014-11-07T01:46:31.578Z,"Azores-Cape St. Vincent Ridge",earthquake,,,,7,reviewed,us,us
+2011-08-03T01:36:13.800Z,44.299,4.399,4,4.3,ml,70,81.8,,,us,usp000j5vy,2014-11-07T01:45:32.947Z,"4 km ESE of Barjac, France",earthquake,,,,,reviewed,ldg,ldg
+2011-07-25T12:31:20.000Z,44.982,7.284,25.1,4.4,mwr,165,36,,,us,usp000j5fw,2015-03-24T01:19:17.675Z,"5 km NW of Cantalupa, Italy",earthquake,,,,,reviewed,rom,us
+2011-07-07T19:21:46.800Z,41.948,7.698,10.9,5.1,mwc,410,29.9,,,us,usp000j4b6,2015-03-24T01:18:48.116Z,"77 km WSW of Cargèse, France",earthquake,,,,,reviewed,ldg,gcmt
+2011-05-11T23:23:34.840Z,33.575,-12.445,14.8,4.6,mb,143,70.2,,,us,usp000j1f6,2014-11-07T01:44:49.784Z,"Madeira Islands, Portugal region",earthquake,,,,18,reviewed,mdd,us
+2011-05-11T16:47:25.730Z,37.699,-1.672,1,5.1,mwr,397,20.8,,,us,usp000j1en,2023-11-21T17:54:16.206Z,"4 km NE of Lorca, Spain",earthquake,,,,,reviewed,mdd,us
+2011-05-11T15:05:13.120Z,37.693,-1.673,0,4.5,mb,84,51.8,,,us,usp000j1ea,2022-07-19T14:50:30.734Z,"3 km NE of Lorca, Spain",earthquake,,,,13,reviewed,mdd,us
+2011-04-19T17:40:14.430Z,36.189,-10.56,10,4,mb,17,225.3,,0.75,us,usp000j08z,2014-11-07T01:44:35.488Z,"170 km WSW of Sagres, Portugal",earthquake,,,,3,reviewed,us,us
+2011-02-26T02:35:32.610Z,36.797,3.526,10,4.2,mb,17,83.4,,1,us,usp000hv32,2014-11-07T01:43:44.003Z,"5 km NE of Boumerdas, Algeria",earthquake,,,,2,reviewed,us,us
+2011-02-18T01:10:06.970Z,35.557,-4.5,10,4.2,mb,58,117,,1.02,us,usp000hup0,2014-11-07T01:43:40.952Z,"61 km NW of Tirhanimîne, Morocco",earthquake,,,,5,reviewed,us,us
+2010-12-19T06:08:49.000Z,41.832,2.842,0,4.1,ml,58,60.4,,,us,usp000hr4n,2014-11-07T01:43:09.742Z,"4 km W of Llagostera, Spain",earthquake,,,,,reviewed,mdd,ldg
+2010-11-29T23:57:23.630Z,36.991,-12.45,10,4.4,mb,48,232.1,,1.05,us,usp000hqam,2014-11-07T01:42:59.082Z,"Azores-Cape St. Vincent Ridge",earthquake,,,,4,reviewed,us,us
+2010-11-14T22:13:55.600Z,43.117,-0.158,2,4,ml,42,130.5,,,us,usp000hpn9,2014-11-07T01:42:55.311Z,"1 km N of Saint-Pé-de-Bigorre, France",earthquake,,,,,reviewed,ldg,ldg
+2010-11-09T18:23:35.300Z,42.064,6.854,18.3,4.5,mb,76,57.5,,,us,usp000hpb9,2014-11-07T01:42:53.495Z,"125 km SSE of Le Lavandou, France",earthquake,,,,6,reviewed,ldg,us
+2010-11-08T06:55:43.700Z,34.919,-11.862,30,4,ml,13,243.6,,,us,usp000hp9a,2014-11-07T01:42:53.163Z,"Madeira Islands, Portugal region",earthquake,,,,,reviewed,csem,csem
+2010-09-28T11:29:39.800Z,45.954,-1.423,2,4.2,mb,68,113.2,,,us,usp000hma0,2014-11-07T01:42:31.516Z,"9 km W of Saint-Pierre-d'Oléron, France",earthquake,,,,1,reviewed,ldg,us
+2010-08-25T08:29:04.960Z,36.377,-6.28,43.9,4.5,mb,16,185.8,,0.79,us,usp000hjr5,2014-11-07T01:42:17.786Z,"13 km WSW of Chiclana de la Frontera, Spain",earthquake,,8.9,,2,reviewed,us,us
+2010-07-25T20:24:38.660Z,36.2,-7.707,10,4.1,mb,72,81.5,,0.76,us,usp000hgtd,2014-11-07T01:42:01.565Z,"92 km S of Olhão, Portugal",earthquake,,,,7,reviewed,us,us
+2010-07-25T16:34:19.100Z,46.403,0.474,2,4,ml,45,73.2,,,us,usp000hgt0,2014-11-07T01:42:01.526Z,"5 km ENE of Saint-Maurice-la-Clouère, France",earthquake,,,,,reviewed,ldg,ldg
+2010-07-23T12:45:11.610Z,35.926,-10.428,10,4.3,mb,35,144.7,,0.69,us,usp000hgkc,2014-11-07T01:41:59.565Z,"179 km SW of Sagres, Portugal",earthquake,,,,1,reviewed,us,us
+2010-07-11T14:15:34.280Z,35.876,5.46,10.1,4.4,mb,50,88.2,,1.25,us,usp000hf5g,2014-11-07T01:41:52.533Z,"15 km E of Salah Bey, Algeria",earthquake,,6.8,,6,reviewed,us,us
+2010-06-30T11:53:45.000Z,45.41,6.474,2,4.3,ml,85,50.4,,,us,usp000heqt,2014-11-07T01:41:45.925Z,"3 km NW of Saint-Martin-de-Belleville, France",earthquake,,,,,reviewed,ldg,str
+2010-06-30T07:15:14.300Z,46.474,-0.784,3,4.2,ml,64,126.3,,,us,usp000heqh,2014-11-07T01:41:45.855Z,"1 km ENE of Fontenay-le-Comte, France",earthquake,,,,,reviewed,ldg,ldg
+2010-05-24T21:00:40.310Z,35.858,4.108,10,4,mb,18,95.9,,1.12,us,usp000hd4s,2014-11-07T01:41:32.651Z,"15 km SSW of Melouza, Algeria",earthquake,,,,4,reviewed,us,us
+2010-05-23T13:28:16.590Z,35.962,4.142,1,5.2,mwc,217,36.8,,0.99,us,usp000hd38,2022-07-16T14:01:03.840Z,"4 km WSW of Melouza, Algeria",earthquake,,4.1,,,reviewed,us,gcmt
+2010-05-16T06:52:42.540Z,35.996,3.961,10,5.1,mwc,283,33.6,,1.03,us,usp000hctt,2022-05-02T21:55:55.926Z,"20 km W of Melouza, Algeria",earthquake,,,,,reviewed,us,gcmt
+2010-05-16T03:51:30.760Z,35.943,4.104,10,4.3,mb,69,63,,1.13,us,usp000hctf,2014-11-07T01:41:29.626Z,"8 km WSW of Melouza, Algeria",earthquake,,,,22,reviewed,us,us
+2010-05-16T03:03:31.690Z,34.577,7.138,10,4.3,mb,45,61.9,,1.21,us,usp000hcte,2014-11-07T01:41:29.622Z,"58 km ESE of Zeribet el Oued, Algeria",earthquake,,,,10,reviewed,us,us
+2010-05-14T12:29:22.300Z,35.9,4.12,2,5.3,mwc,312,28.4,,,us,usp000hcre,2022-07-16T13:33:34.864Z,"10 km SW of Melouza, Algeria",earthquake,,,,,reviewed,csem,gcmt
+2010-04-22T01:23:55.960Z,35.269,-6.226,10,4.8,mb,53,120.6,,0.96,us,usp000hbrw,2022-07-16T11:32:04.322Z,"10 km NW of Larache, Morocco",earthquake,,,,1,reviewed,us,us
+2010-04-14T15:21:15.880Z,34.714,-5.527,15.6,4.1,mb,35,75.6,,0.74,us,usp000hbcs,2014-11-07T01:41:16.248Z,"10 km SSE of Ouezzane, Morocco",earthquake,,14.5,,5,reviewed,us,us
+2010-04-11T22:08:12.790Z,36.965,-3.542,609.8,6.3,mwc,588,14,,,us,usp000hb7n,2022-07-16T10:31:34.741Z,"1 km S of Nigüelas, Spain",earthquake,,,,,reviewed,mdd,us
+2010-04-10T08:38:02.750Z,35.618,6.399,5,4.1,mb,46,75.5,,1.21,us,usp000hb3s,2014-11-07T01:41:14.585Z,"northern Algeria",earthquake,,,,11,reviewed,us,us
+2010-04-01T01:36:39.500Z,42.975,0.268,15,4.3,ml,66,44.3,,,us,usp000ha6g,2014-11-07T01:41:07.988Z,"8 km ESE of Campan, France",earthquake,,,,,reviewed,ldg,ldg
+2010-03-31T03:11:56.970Z,36.649,-9.918,10,4.2,mb,65,143,,0.81,us,usp000ha5r,2014-11-07T01:41:06.656Z,"95 km WSW of Sagres, Portugal",earthquake,,,,2,reviewed,us,us
+2010-03-27T13:37:52.000Z,38.97,-7.61,15,4.1,ml,67,86.1,,,us,usp000ha17,2022-07-16T09:28:28.477Z,"13 km SE of Vale da Amoreira, Portugal",earthquake,,,,,reviewed,inmg,inmg
+2010-03-05T17:10:42.840Z,36.066,-8.766,4.8,4,mb,44,187.8,,0.76,us,usp000h8s6,2014-11-07T01:40:56.222Z,"105 km S of Sagres, Portugal",earthquake,,18.4,,2,reviewed,us,us
+2010-02-14T22:14:33.030Z,34.936,-5.504,27.1,4.2,mb,32,101.5,,0.84,us,usp000h7am,2014-11-07T01:40:42.592Z,"16 km NNE of Ouezzane, Morocco",earthquake,,12.2,,4,reviewed,us,us
+2010-02-10T04:35:50.310Z,36.862,3.404,8.1,4.1,ml,24,53,,1.11,us,usp000h74n,2014-11-07T01:40:41.463Z,"12 km NNW of Boumerdas, Algeria",earthquake,,10.4,,,reviewed,us,alg
+2010-01-21T16:57:04.540Z,34.857,-5.568,10,4.5,mb,60,81.4,,1.04,us,usp000h6ez,2014-11-07T01:40:32.588Z,"6 km N of Ouezzane, Morocco",earthquake,,,,15,reviewed,us,us
+2009-12-17T01:37:48.060Z,36.463,-9.9,19.8,5.6,mwc,357,17,,0.78,us,usp000h543,2024-02-16T10:40:15.187Z,"104 km SW of Sagres, Portugal",earthquake,,7,,,reviewed,us,gcmt
+2009-11-02T07:28:31.340Z,36.274,1.754,10.1,4.4,mb,102,70.9,,1.07,us,usp000h3nq,2014-11-07T01:40:02.855Z,"6 km E of El Abadia, Algeria",earthquake,,4.4,,12,reviewed,us,us
+2009-09-08T00:04:04.540Z,36.086,-7.931,20.8,4.3,ml,69,246.8,,,us,usp000h1ax,2014-11-07T01:39:41.176Z,"103 km S of Faro, Portugal",earthquake,,,,,reviewed,mdd,ldg
+2009-09-05T00:47:27.280Z,36.745,-12.442,10,4.4,ml,96,161.6,,0.88,us,usp000h183,2014-11-07T01:39:40.398Z,"Azores-Cape St. Vincent Ridge",earthquake,,,,,reviewed,us,us
+2009-08-18T06:55:58.230Z,35.993,-7.937,10,4.2,mb,24,123.4,,0.83,us,usp000h0k2,2014-11-07T01:39:32.008Z,"113 km S of Faro, Portugal",earthquake,,,,1,reviewed,us,us
+2009-07-07T04:41:43.710Z,35.898,1.174,10,4.1,m,30,196.1,,0.97,us,usp000gz06,2014-11-07T01:39:17.957Z,"6 km ENE of Ammi Moussa, Algeria",earthquake,,,,,reviewed,us,mdd
+2009-07-05T15:50:52.960Z,36.017,-10.501,10,4.3,mb,64,144.7,,0.91,us,usp000gyyw,2014-11-07T01:39:17.676Z,"177 km SW of Sagres, Portugal",earthquake,,,,8,reviewed,us,us
+2009-04-19T12:39:50.000Z,44.727,7.845,40.2,4.5,ml,152,24.5,,,us,usp000gwcf,2014-11-07T01:38:48.483Z,"1 km ENE of Bandito, Italy",earthquake,,,,,reviewed,rom,ldg
+2009-04-05T21:49:15.910Z,34.779,6.645,39.4,4.5,m,40,74.1,,1.01,us,usp000gvtg,2014-11-07T01:38:44.413Z,"16 km NE of Zeribet el Oued, Algeria",earthquake,,8.3,,,reviewed,us,mdd
+2009-03-03T06:42:39.850Z,35.051,6.43,10,4.2,mb,21,110.5,,1.34,us,usp000guk2,2014-11-07T01:38:31.751Z,"24 km SSE of Arris, Algeria",earthquake,,,,2,reviewed,us,us
+2009-02-09T08:38:30.300Z,43.12,-0.246,3,4.2,ml,62,57.1,,,us,usp000gtk0,2014-11-07T01:38:21.310Z,"2 km SSE of Asson, France",earthquake,,,,,reviewed,ldg,str
+2009-01-17T11:22:25.530Z,36.352,1.623,10,4.8,mb,52,70.7,,1.05,us,usp000gsr6,2014-11-07T01:38:13.082Z,"10 km NNW of El Abadia, Algeria",earthquake,,,,12,reviewed,us,us
+2008-12-04T02:18:49.160Z,36.843,4.248,10,4.4,m,83,84.3,,1.13,us,usp000gpwd,2014-11-07T01:37:53.595Z,"5 km NNW of Timizart, Algeria",earthquake,,,,,reviewed,us,mdd
+2008-11-15T13:55:58.910Z,36.044,2.713,10,4.1,m,42,185.7,,0.91,us,usp000gnrq,2014-11-07T01:37:44.420Z,"17 km N of Ksar el Boukhari, Algeria",earthquake,,,,,reviewed,us,mdd
+2008-11-05T22:26:02.370Z,36.628,4.619,0,4.3,m,26,265.8,,,us,usp000gn1g,2014-11-07T01:37:41.281Z,"northern Algeria",earthquake,,,,,reviewed,mdd,mdd
+2008-10-24T03:06:40.200Z,44.34,7.36,5,4.5,ml,137,24,,,us,usp000gkwu,2014-11-07T01:37:31.934Z,"northern Italy",earthquake,,,,,reviewed,str,ldg
+2008-10-22T00:26:23.900Z,36.757,-10.971,0,4,m,7,306.8,,,us,usp000gksc,2014-11-07T01:37:31.217Z,"182 km W of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2008-10-02T04:05:06.880Z,37.035,-5.437,10.5,4.1,ml,30,45,,,us,usp000gj47,2014-11-07T01:37:21.346Z,"6 km N of Coripe, Spain",earthquake,,,,,reviewed,mdd,ldg
+2008-10-02T04:02:54.150Z,37.1,-5.428,4.6,4.7,mb,193,39.9,,,us,usp000gj46,2022-07-14T20:35:13.166Z,"3 km SE of Morón de la Frontera, Spain",earthquake,,,,37,reviewed,mdd,us
+2008-09-28T02:36:11.800Z,36.855,2.047,0,4,m,20,273.1,,,us,usp000ghvd,2014-11-07T01:37:15.963Z,"46 km NW of Tipasa, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2008-09-21T10:12:35.030Z,36.775,-9.763,19.5,4.2,m,14,278.2,,,us,usp000ghfh,2014-11-07T01:37:13.987Z,"77 km WSW of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2008-09-18T12:55:48.800Z,42.99,-0.34,5,4,ml,71,56.1,,,us,usp000gh9k,2014-11-07T01:37:13.159Z,"7 km E of Laruns, France",earthquake,,,,,reviewed,str,str
+2008-09-15T15:51:02.390Z,36.945,4.335,10,4.4,m,35,166.5,,1.54,us,usp000gh3q,2014-11-07T01:37:12.260Z,"16 km N of Arhribs, Algeria",earthquake,,,,,reviewed,us,mdd
+2008-09-15T10:34:54.450Z,36.965,4.315,10,4,m,32,175,,0.79,us,usp000gh3b,2014-11-07T01:37:12.226Z,"18 km NNE of Timizart, Algeria",earthquake,,,,,reviewed,us,mdd
+2008-09-09T13:36:38.800Z,35.528,-7.052,26.4,4,ml,93,87.6,,0.79,us,usp000ggqm,2014-11-07T01:37:09.642Z,"89 km WNW of Larache, Morocco",earthquake,,18.8,,,reviewed,us,csem
+2008-08-31T09:49:33.380Z,36.505,3.006,0,4.2,m,19,287.6,,,us,usp000gg2q,2014-11-07T01:37:02.330Z,"3 km SSE of Bouinan, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2008-08-24T20:52:44.490Z,36.42,1.065,13.7,4.2,m,71,55.7,,0.98,us,usp000gfep,2014-11-07T01:36:58.847Z,"northern Algeria",earthquake,,7,,,reviewed,us,mdd
+2008-08-05T15:21:21.240Z,36.998,3.421,0,4,m,21,274.9,,,us,usp000gdwu,2014-11-07T01:36:50.553Z,"25 km NNE of Aïn Taya, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2008-07-24T17:19:52.130Z,35.641,-0.976,22,4.9,m,112,117.2,,,us,usp000gd2b,2014-11-07T01:36:42.638Z,"10 km NW of Bou Tlelis, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2008-07-24T14:14:43.090Z,37.123,3.799,0,4.5,m,18,286.4,,,us,usp000gd23,2014-11-07T01:36:42.604Z,"24 km NNW of Dellys, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2008-07-23T09:23:29.760Z,36.858,3.869,10,4.3,m,27,246,,1.5,us,usp000gcyu,2014-11-07T01:36:41.831Z,"7 km SSW of Dellys, Algeria",earthquake,,,,,reviewed,us,mdd
+2008-07-22T22:36:35.000Z,42.08,2.52,5,4.3,ml,105,92.1,,,us,usp000gcxk,2014-11-07T01:36:41.615Z,"3 km NW of les Planes d'Hostoles, Spain",earthquake,,,,,reviewed,str,ldg
+2008-07-21T02:30:03.480Z,39.013,-0.43,0,4,ml,94,63.7,,,us,usp000gcs5,2014-11-07T01:36:41.071Z,"1 km WSW of Barxeta, Spain",earthquake,,,,,reviewed,mdd,str
+2008-07-18T07:12:41.330Z,36.894,-10.721,40,4.2,m,21,291.5,,,us,usp000gcg8,2014-11-07T01:36:39.887Z,"158 km W of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2008-07-16T20:33:34.200Z,43.169,-0.375,5,4.4,ml,119,60.6,,,us,usp000gcbx,2014-11-07T01:36:38.899Z,"4 km SSW of Bosdarros, France",earthquake,,,,,reviewed,ldg,ldg
+2008-06-25T03:46:09.680Z,36.668,5.969,0,4.1,m,25,253.7,,,us,usp000gagq,2014-11-07T01:36:25.859Z,"24 km NNW of Rouached, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2008-06-20T01:34:12.620Z,35.822,-0.524,33.8,4,m,32,241.2,,,us,usp000ga4h,2014-11-07T01:36:23.443Z,"11 km N of Bir el Djir, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2008-06-18T13:23:59.060Z,36.217,1.051,6,4.6,mb,206,51.9,,1.25,us,usp000g9zu,2014-11-07T01:36:22.875Z,"9 km NE of ’Aïn Merane, Algeria",earthquake,,9.3,,56,reviewed,us,us
+2008-06-17T06:49:13.770Z,36.776,-11.02,0,4.2,m,11,296.2,,,us,usp000g9vg,2014-11-07T01:36:22.305Z,"186 km W of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2008-06-10T12:13:42.000Z,35.935,-0.554,0,4.2,m,47,237,,,us,usp000g94f,2014-11-07T01:36:18.234Z,"23 km N of Bir el Djir, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2008-06-06T22:48:23.240Z,35.827,-0.63,0,4.5,m,86,50.4,,,us,usp000g8rj,2014-11-07T01:36:15.633Z,"13 km NNE of Mers el Kebir, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2008-06-06T21:10:38.950Z,35.775,-0.592,0,4.2,m,46,242.4,,,us,usp000g8rb,2014-11-07T01:36:15.611Z,"7 km NW of Bir el Djir, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2008-06-06T20:02:56.890Z,35.883,-0.658,4,5.5,mwc,476,29.2,,1.06,us,usp000g8r4,2022-07-13T18:46:44.086Z,"17 km NNE of Mers el Kebir, Algeria",earthquake,,,,,reviewed,us,us
+2008-06-06T03:41:55.800Z,35.707,4.573,0,4.1,m,31,289.7,,,us,usp000g8ps,2014-11-07T01:36:15.390Z,"2 km E of M’Sila, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2008-06-02T17:36:12.270Z,36.452,6.535,0.7,4.5,mb,67,81.6,,1.4,us,usp000g8dp,2014-11-07T01:36:13.628Z,"7 km NW of Hamma Bouziane, Algeria",earthquake,,8.7,,2,reviewed,us,us
+2008-06-01T02:38:42.010Z,36.777,4.569,0,4,m,27,252.5,,,us,usp000g88z,2014-11-07T01:36:11.286Z,"17 km ENE of Azazga, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2008-05-18T01:57:22.500Z,43.115,-0.139,5,4,mb,133,57,,,us,usp000g74a,2014-11-07T01:36:02.319Z,"2 km NE of Saint-Pé-de-Bigorre, France",earthquake,,,,3,reviewed,ldg,us
+2008-05-17T17:15:55.160Z,36.565,7.141,10,4.3,m,48,238.2,,1.07,us,usp000g737,2014-11-07T01:36:02.207Z,"19 km S of Azzaba, Algeria",earthquake,,,,,reviewed,us,mdd
+2008-05-14T18:52:19.150Z,34.828,3.419,0,4.1,m,19,115,,,us,usp000g6rs,2014-11-07T01:36:00.394Z,"9 km SW of Dar Chioukh, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2008-05-10T16:33:04.860Z,35.914,-10.82,10,4,mb,65,133.1,,0.73,us,usp000g60u,2014-11-07T01:35:54.907Z,"207 km SW of Sagres, Portugal",earthquake,,,,1,reviewed,us,us
+2008-05-03T12:14:22.200Z,42.993,0.254,4,4.1,ml,106,39.4,,,us,usp000g5dm,2014-11-07T01:35:50.469Z,"6 km ESE of Campan, France",earthquake,,,,,reviewed,ldg,ldg
+2008-04-28T05:25:05.460Z,39.708,-3.46,5.2,4.1,ml,92,19.8,,,us,usp000g50h,2014-11-07T01:35:44.593Z,"4 km ENE of Tembleque, Spain",earthquake,,,,,reviewed,mdd,str
+2008-02-28T01:16:18.780Z,43.859,-6.793,23.3,4.1,ml,103,129.3,,,us,usp000g05r,2014-11-07T01:35:04.640Z,"34 km N of El Franco, Spain",earthquake,,,,,reviewed,mdd,str
+2008-02-17T12:41:31.200Z,45.913,7.164,8.4,4,ml,126,22.8,,,us,usp000fz3x,2014-11-07T01:34:58.155Z,"8 km N of Saint-Rhémy, Italy",earthquake,,,,,reviewed,zur,ldg
+2008-02-06T17:53:00.220Z,36.898,-2.17,10.8,4.1,mb,69,84.6,,,us,usp000fyau,2014-11-07T01:34:54.451Z,"8 km SSE of Níjar, Spain",earthquake,,,,2,reviewed,mdd,us
+2008-02-02T19:49:17.580Z,36.893,3.66,10,4,m,49,211.5,,1.32,us,usp000fy0m,2014-11-07T01:34:52.457Z,"20 km NNE of Thenia, Algeria",earthquake,,,,,reviewed,us,mdd
+2008-02-01T07:33:40.510Z,36.825,3.473,10,4.6,mb,176,65,,1.02,us,usp000fxx4,2022-07-13T22:33:04.462Z,"6 km N of Boumerdas, Algeria",earthquake,,,,21,reviewed,us,us
+2008-01-31T18:04:08.000Z,36.274,7.286,0,4.4,m,22,314.1,,,us,usp000fxvh,2014-11-07T01:34:47.396Z,"24 km SSW of Guelma, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2008-01-15T11:49:31.400Z,36.692,5.287,0,4.5,m,45,58.8,,,us,usp000fwsa,2014-11-07T01:34:42.555Z,"19 km ESE of Bejaïa, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2008-01-11T00:21:48.000Z,36.617,-9.8,16,4.4,mb,196,36.5,,,us,usp000fweh,2014-11-07T01:34:40.146Z,"87 km WSW of Sagres, Portugal",earthquake,,,,23,reviewed,inmg,us
+2008-01-09T22:24:03.860Z,35.616,-0.57,10,4.6,mb,286,52.4,,1.18,us,usp000fwc2,2022-07-13T23:03:55.456Z,"6 km SE of Es Senia, Algeria",earthquake,,,,37,reviewed,us,us
+2008-01-09T05:33:03.780Z,35.575,1.39,10,4.3,mb,42,79.8,,1.12,us,usp000fwae,2014-11-07T01:34:39.164Z,"23 km NNE of Tiaret, Algeria",earthquake,,,,4,reviewed,us,us
+2008-01-04T20:39:53.570Z,36.706,3.178,0,4.2,m,12,275.7,,,us,usp000fvzc,2014-11-07T01:34:36.703Z,"2 km S of Bab Ezzouar, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2008-01-01T14:00:41.470Z,36.207,-8.508,45,4.2,m,45,273.6,,,us,usp000fvss,2014-11-07T01:34:34.518Z,"97 km SSE of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2007-12-05T02:34:24.980Z,36.711,6.304,0,4.2,m,10,137.2,,,us,usp000ftvc,2014-11-07T01:34:21.366Z,"21 km N of Sidi Mérouane, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2007-11-25T17:51:01.140Z,36.721,5.481,10,4.4,mb,64,107.7,,0.8,us,usp000ft9h,2014-11-07T01:34:14.659Z,"26 km NNW of BABOR - VILLE, Algeria",earthquake,,,,1,reviewed,us,us
+2007-11-23T04:28:58.750Z,35.967,-10.081,11.4,4.2,m,37,285.4,,,us,usp000ft49,2014-11-07T01:34:13.890Z,"154 km SW of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2007-11-15T13:47:35.800Z,43.04,0.03,5,4.5,ml,118,52.3,,,us,usp000fsmc,2014-11-07T01:34:10.574Z,"8 km SE of Lourdes, France",earthquake,,,,,reviewed,str,ldg
+2007-11-09T19:59:56.370Z,36.211,1.665,10,4.4,m,74,127.5,,0.88,us,usp000fs9h,2014-11-07T01:34:08.896Z,"1 km SSW of El Attaf, Algeria",earthquake,,,,,reviewed,us,mdd
+2007-11-03T10:03:35.810Z,36.822,-12.476,0,4.2,m,9,305.3,,,us,usp000frwe,2014-11-07T01:34:06.569Z,"Azores-Cape St. Vincent Ridge",earthquake,,,,,reviewed,mdd,mdd
+2007-10-25T05:18:22.420Z,36.782,5.555,0,4.1,ml,13,201.7,,,us,usp000fr7k,2014-11-07T01:33:59.187Z,"19 km WSW of Jijel, Algeria",earthquake,,,,,reviewed,mdd,alg
+2007-10-16T18:12:02.030Z,36.817,-12.485,0,4.4,m,10,305.4,,,us,usp000fqqc,2014-11-07T01:33:56.629Z,"Azores-Cape St. Vincent Ridge",earthquake,,,,,reviewed,mdd,mdd
+2007-10-15T23:06:51.580Z,35.875,-0.77,0,4,m,40,234.3,,,us,usp000fqmy,2014-11-07T01:33:56.352Z,"14 km N of ’Aïn el Turk, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2007-10-05T20:02:12.250Z,36.867,-12.657,11.1,4.2,m,51,178.7,,,us,usp000fpyn,2014-11-07T01:33:51.274Z,"Azores-Cape St. Vincent Ridge",earthquake,,,,,reviewed,mdd,mdd
+2007-09-28T07:38:48.350Z,36.473,1.568,10,4,m,16,149.1,,0.71,us,usp000fpb7,2014-11-07T01:33:41.578Z,"23 km E of Sidi Akkacha, Algeria",earthquake,,0,,,reviewed,us,mdd
+2007-09-15T09:34:14.200Z,36.529,5.406,15,4.2,m,32,112.8,,0.64,us,usp000fnb4,2014-11-07T01:33:35.433Z,"12 km WNW of BABOR - VILLE, Algeria",earthquake,,0,,,reviewed,us,mdd
+2007-09-09T03:16:41.750Z,36.715,-9.753,22.3,4.2,m,48,272.2,,,us,usp000fmra,2014-11-07T01:33:31.950Z,"79 km WSW of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2007-09-08T16:41:30.390Z,35.68,-3.492,10.7,4.8,mb,225,32.3,,,us,usp000fmqa,2022-07-14T03:15:56.613Z,"62 km NE of Al Hoceïma, Morocco",earthquake,,,,41,reviewed,mdd,us
+2007-09-04T14:41:31.200Z,36.065,2.696,7.8,4.2,m,49,91.8,,0.86,us,usp000fmdy,2014-11-07T01:33:30.373Z,"20 km NNW of Ksar el Boukhari, Algeria",earthquake,,6,,,reviewed,us,mdd
+2007-08-27T04:09:02.780Z,35.877,2.81,10,4.2,m,39,244.7,,0.82,us,usp000fksr,2014-11-07T01:33:23.356Z,"5 km ESE of Ksar el Boukhari, Algeria",earthquake,,,,,reviewed,us,mdd
+2007-08-22T22:59:06.990Z,36.116,2.654,0,4.1,m,46,241,,,us,usp000fkfs,2014-11-07T01:33:21.246Z,"18 km SSW of Médéa, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2007-08-22T18:08:34.910Z,36.034,2.623,12.3,4.6,mb,189,82.6,,1.3,us,usp000fkf7,2014-11-07T01:33:21.178Z,"19 km NW of Ksar el Boukhari, Algeria",earthquake,,14.1,,27,reviewed,us,us
+2007-08-21T14:58:41.560Z,36.073,2.685,10,4.4,m,57,138.2,,1.04,us,usp000fkcg,2014-11-07T01:33:20.283Z,"21 km NNW of Ksar el Boukhari, Algeria",earthquake,,,,,reviewed,us,mdd
+2007-08-15T02:30:14.430Z,36.833,-11.84,0,4.8,m,67,172.5,,,us,usp000fjqp,2014-11-07T01:33:16.100Z,"258 km W of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2007-08-12T07:47:05.830Z,39.353,-2.99,5.4,4.3,mb,190,20.3,,,us,usp000fjfk,2022-07-14T04:47:17.941Z,"6 km SW of Pedro Muñoz, Spain",earthquake,,,,10,reviewed,mdd,us
+2007-08-08T21:26:27.710Z,35.922,0.063,10,4.2,mb,119,60.4,,1.14,us,usp000fj77,2014-11-07T01:33:13.492Z,"2 km WSW of Mostaganem, Algeria",earthquake,,,,6,reviewed,us,us
+2007-08-08T16:45:31.160Z,41.544,1.778,1.2,4.1,ml,76,78.7,,,us,usp000fj6f,2014-11-07T01:33:13.334Z,"3 km NE of Piera, Spain",earthquake,,,,,reviewed,mdd,str
+2007-08-06T11:30:27.370Z,36.316,1.393,0,4.2,m,26,257.1,,,us,usp000fj11,2014-11-07T01:33:12.640Z,"17 km NNE of Chlef, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2007-08-04T06:10:27.090Z,38.913,-10.502,0,4,m,32,255.4,,,us,usp000fhuk,2014-11-07T01:33:11.599Z,"92 km W of Colares, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2007-08-02T13:24:13.300Z,35.23,6.908,10,4.4,mb,64,63.6,,1.33,us,usp000fhq8,2014-11-07T01:33:10.660Z,"31 km SW of Khenchela, Algeria",earthquake,,,,7,reviewed,us,us
+2007-07-31T13:37:49.000Z,36.786,5.849,0,4.1,m,16,258.9,,,us,usp000fhh7,2014-11-07T01:33:05.778Z,"8 km ESE of Jijel, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2007-07-18T00:59:59.290Z,35.398,-0.108,11,4.1,mb,76,97.2,,,us,usp000fggt,2014-11-07T01:32:59.717Z,"10 km NNW of Bou Hanifia el Hamamat, Algeria",earthquake,,,,2,reviewed,mdd,us
+2007-07-09T15:58:22.260Z,34.091,7.043,10,4.8,mwc,210,46.1,,1.22,us,usp000ffvd,2016-11-10T01:42:00.710Z,"64 km N of Debila, Algeria",earthquake,,,,,reviewed,us,gcmt
+2007-07-06T05:24:45.350Z,36.464,-10.981,0,4.2,m,32,284.3,,,us,usp000ffk8,2014-11-07T01:32:54.830Z,"191 km WSW of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2007-07-01T19:03:09.550Z,36.299,-12.151,10,4.7,mb,307,56.6,,0.95,us,usp000ff87,2014-11-07T01:32:52.009Z,"297 km WSW of Sagres, Portugal",earthquake,,0,,86,reviewed,us,us
+2007-06-30T03:53:46.120Z,37.083,-5.349,5.5,4.5,mb,233,38.9,,,us,usp000ff52,2014-11-07T01:32:47.354Z,"10 km ESE of Morón de la Frontera, Spain",earthquake,,,,61,reviewed,mdd,us
+2007-06-29T11:31:56.520Z,36.782,-11.203,0,4.3,m,13,287.6,,,us,usp000ff2y,2014-11-07T01:32:47.047Z,"202 km W of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2007-06-23T11:05:42.330Z,34.262,-5.688,5.6,4.4,m,54,175.9,,0.89,us,usp000femr,2014-11-07T01:32:45.172Z,"4 km NNE of Sidi Qacem, Morocco",earthquake,,12.2,,,reviewed,us,mdd
+2007-06-20T17:34:44.780Z,36.684,-11.431,28.6,4.4,m,67,98.2,,,us,usp000feex,2014-11-07T01:32:44.160Z,"224 km W of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2007-06-11T15:56:14.730Z,36.603,3.91,10,4.3,m,31,252.3,,0.81,us,usp000fduc,2014-11-07T01:32:41.193Z,"7 km NNW of Boghni, Algeria",earthquake,,,,,reviewed,us,mdd
+2007-06-09T13:45:08.510Z,35.794,4.238,0,4,m,8,298.4,,,us,usp000fdq0,2014-11-07T01:32:40.695Z,"21 km SSE of Melouza, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2007-06-07T01:42:10.030Z,40.397,-2.967,9.8,4.2,mblg,101,27.9,,,us,usp000fdha,2014-11-07T01:32:39.919Z,"3 km ESE of Escopete, Spain",earthquake,,,,,reviewed,mdd,mdd
+2007-06-03T13:04:50.290Z,36.587,4.767,10,4.1,m,63,97.2,,0.88,us,usp000fd9t,2014-11-07T01:32:38.568Z,"7 km S of el hed, Algeria",earthquake,,,,,reviewed,us,mdd
+2007-05-27T10:45:22.480Z,36.155,2.597,0,4,m,30,221.3,,,us,usp000fcvc,2014-11-07T01:32:32.303Z,"18 km SW of Médéa, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2007-05-20T09:22:50.390Z,35.461,5.771,0,4.3,m,24,137.3,,,us,usp000fcc3,2014-11-07T01:32:30.158Z,"14 km NW of Aïn Touta, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2007-05-18T13:05:41.000Z,35.291,-6.219,73.9,4,m,33,260.8,,,us,usp000fc7w,2014-11-07T01:32:29.298Z,"12 km NNW of Larache, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2007-05-16T06:32:20.900Z,36.162,2.877,0,4,m,9,281.5,,,us,usp000fc2r,2014-11-07T01:32:28.565Z,"4 km NW of Berrouaghia, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2007-05-15T15:09:36.090Z,37.174,-12.85,16.3,4,m,5,295,,,us,usp000fc0w,2014-11-07T01:32:28.327Z,"Azores-Cape St. Vincent Ridge",earthquake,,,,,reviewed,mdd,mdd
+2007-05-08T06:56:35.110Z,36.123,2.61,3.5,4,mb,137,142.1,,1.04,us,usp000fbh1,2014-11-07T01:32:25.741Z,"20 km SW of Médéa, Algeria",earthquake,,5.3,,3,reviewed,us,us
+2007-04-03T16:33:08.990Z,35.864,-11.474,0,4.4,m,13,302.2,,,us,usp000f8gq,2014-11-07T01:32:04.752Z,"260 km WSW of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2007-03-06T07:50:47.330Z,35.313,-11.414,10,4,mblg,58,160,,0.56,us,usp000f66a,2014-11-07T01:31:49.336Z,"291 km SW of Sagres, Portugal",earthquake,,,,,reviewed,us,mdd
+2007-02-18T07:53:09.720Z,35.636,1.371,10,4.1,m,33,164.1,,0.85,us,usp000f52z,2014-11-07T01:31:39.408Z,"20 km SW of Lardjem, Algeria",earthquake,,,,,reviewed,us,mdd
+2007-02-16T19:19:27.990Z,36.531,-11.636,0,4,m,15,296.4,,,us,usp000f4zb,2014-11-07T01:31:38.355Z,"246 km WSW of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2007-02-14T15:24:14.670Z,36.362,5.017,10,4.7,m,55,134.8,,0.78,us,usp000f4vg,2014-11-07T01:31:37.743Z,"7 km WNW of Bougaa, Algeria",earthquake,,,,,reviewed,us,mdd
+2007-02-12T10:35:22.750Z,35.804,-10.312,20,6,mwc,697,17.3,,1.01,us,usp000f4qu,2022-07-14T07:53:42.269Z,"181 km SW of Sagres, Portugal",earthquake,,,,,reviewed,us,gcmt
+2007-02-02T15:20:36.310Z,35.158,-4.023,0,4.1,m,36,119.1,,,us,usp000f456,2014-11-07T01:31:32.825Z,"10 km SW of Tirhanimîne, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2007-01-10T09:41:58.000Z,36.58,5.409,10,4.3,m,40,80,,0.8,us,usp000f23s,2014-11-07T01:31:20.546Z,"15 km NW of BABOR - VILLE, Algeria",earthquake,,,,,reviewed,us,mdd
+2007-01-10T00:50:15.830Z,35.35,3.304,10,4.2,m,8,293.8,,0.48,us,usp000f22w,2014-11-07T01:31:20.473Z,"32 km SSE of Birine, Algeria",earthquake,,0,,,reviewed,us,mdd
+2007-01-09T23:30:01.490Z,36.845,-8.066,55.5,4,m,35,259,,,us,usp000f22q,2014-11-07T01:31:20.451Z,"22 km SSW of Faro, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2006-12-31T00:03:09.050Z,34.813,3.414,10,4.2,m,33,87.3,,1.03,us,usp000f1cq,2014-11-07T01:31:13.493Z,"11 km SW of Dar Chioukh, Algeria",earthquake,,,,,reviewed,us,mdd
+2006-12-30T23:50:48.370Z,34.744,3.334,10,4.8,mb,263,61.8,,1.34,us,usp000f1cm,2014-11-07T01:31:13.468Z,"10 km NE of Djelfa, Algeria",earthquake,,,,37,reviewed,us,us
+2006-12-16T19:34:33.200Z,36.374,1.032,17.4,4.4,mb,190,42.4,,1.06,us,usp000f0c1,2014-11-07T01:31:08.968Z,"15 km WSW of Abou el Hassan, Algeria",earthquake,,12.5,,26,reviewed,us,us
+2006-12-16T08:17:01.200Z,43.1,-0.08,5,4.1,ml,118,56.2,,,us,usp000f0b3,2014-11-07T01:31:08.875Z,"2 km WNW of Lourdes, France",earthquake,,,,,reviewed,str,str
+2006-12-06T00:06:14.430Z,33.878,-6.076,0,4.3,m,4,327.6,,,us,usp000ezm6,2014-11-07T01:31:05.432Z,"6 km N of Khemisset, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2006-11-17T18:19:51.600Z,42.99,-0.05,10,4.7,mb,234,23.4,,,us,usp000ey19,2020-09-18T21:16:12.860Z,"3 km NNE of Pierrefitte-Nestalas, France",earthquake,,,,12,reviewed,str,us
+2006-11-05T10:02:24.130Z,40.752,-11.75,174.1,4.3,mb,27,287.5,,1.43,us,usp000ewnz,2014-11-07T01:30:45.522Z,"252 km WNW of Buarcos, Portugal",earthquake,,49.6,,7,reviewed,us,us
+2006-11-05T00:37:40.400Z,47.281,0.113,6,4.1,ml,96,47.9,,,us,usp000ewn8,2014-11-07T01:30:45.361Z,"1 km WSW of Saint-Nicolas-de-Bourgueil, France",earthquake,,,,,reviewed,ldg,ldg
+2006-11-04T05:02:55.270Z,36.684,-4.379,73.5,4,m,67,125.6,,,us,usp000ewks,2014-11-07T01:30:44.972Z,"5 km SE of Málaga, Spain",earthquake,,,,,reviewed,mdd,mdd
+2006-11-01T04:16:50.070Z,36.472,-11.454,0,4.5,m,18,180.8,,,us,usp000ewda,2014-11-07T01:30:41.566Z,"232 km WSW of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2006-10-20T12:25:47.260Z,34.605,-9.802,0,4.5,m,22,298.3,,,us,usp000evkv,2014-11-07T01:30:36.279Z,"191 km NW of El Jadid, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2006-10-19T22:52:13.850Z,35.67,1.282,10,4.1,mb,126,62.5,,1.29,us,usp000evjd,2014-11-07T01:30:36.047Z,"25 km WSW of Lardjem, Algeria",earthquake,,,,15,reviewed,us,us
+2006-10-06T17:22:33.390Z,36.843,4.319,10,4.3,mb,137,63.8,,0.88,us,usp000euku,2014-11-07T01:30:30.773Z,"5 km N of Arhribs, Algeria",earthquake,,,,9,reviewed,us,us
+2006-09-26T18:13:46.960Z,37.083,2.721,0,4.3,m,8,279.1,,,us,usp000etvm,2014-11-07T01:30:16.949Z,"35 km NNW of ’Aïn Benian, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2006-09-26T12:24:28.230Z,36.882,5.286,0,4.4,m,22,264.1,,,us,usp000etv3,2014-11-07T01:30:16.914Z,"22 km NE of Bejaïa, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2006-09-22T00:53:44.230Z,37.039,3.397,0,4,m,29,244,,,us,usp000etj6,2014-11-07T01:30:15.700Z,"28 km NNE of Aïn Taya, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2006-09-19T23:28:16.050Z,36.86,-12.426,0,5,m,92,103,,,us,usp000eteh,2014-11-07T01:30:15.301Z,"Azores-Cape St. Vincent Ridge",earthquake,,,,,reviewed,mdd,mdd
+2006-09-09T05:59:02.870Z,36.21,-11.044,10,4.3,mb,94,160.6,,0.98,us,usp000esrm,2014-11-07T01:30:11.162Z,"207 km WSW of Sagres, Portugal",earthquake,,,,5,reviewed,us,us
+2006-09-02T01:21:31.500Z,43.952,7.68,2,4.3,ml,156,80.5,,,us,usp000es9f,2014-11-07T01:30:08.265Z,"2 km NE of Pigna, Italy",earthquake,,,,,reviewed,ldg,ldg
+2006-08-29T19:36:20.810Z,34.878,3.766,10,4.1,m,16,150.4,,1.55,us,usp000es1p,2014-11-07T01:30:03.165Z,"25 km E of Dar Chioukh, Algeria",earthquake,,,,,reviewed,us,mdd
+2006-08-25T17:44:50.300Z,36.667,5.432,10,4.1,m,35,115.6,,1.01,us,usp000erqy,2014-11-07T01:30:01.674Z,"21 km NNW of BABOR - VILLE, Algeria",earthquake,,,,,reviewed,us,mdd
+2006-08-24T20:01:00.200Z,45.84,-0.14,5,4.3,ml,98,38.6,,,us,usp000erny,2021-10-20T18:10:21.634Z,"9 km NW of Rouillac, France",earthquake,,,,,reviewed,str,ldg
+2006-08-10T09:16:07.280Z,35.506,-9.91,69.9,4.4,mb,142,70.9,,,us,usp000eqn4,2014-11-07T01:29:56.567Z,"188 km SSW of Sagres, Portugal",earthquake,,,,4,reviewed,mdd,us
+2006-08-07T10:59:45.370Z,34.843,3.799,10,4.9,mwc,279,46.7,,1.35,us,usp000eqe4,2016-11-10T01:26:37.739Z,"29 km ESE of Dar Chioukh, Algeria",earthquake,,,,,reviewed,us,hrv
+2006-08-05T03:12:00.690Z,36.555,-7.614,20.4,4,m,49,225.6,,,us,usp000eq94,2014-11-07T01:29:54.423Z,"56 km SSE of Olhão, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2006-07-23T23:06:59.370Z,35.753,0.64,10,4.4,m,69,97.3,,0.97,us,usp000epej,2014-11-07T01:29:44.893Z,"7 km ENE of Relizane, Algeria",earthquake,,,,,reviewed,us,mdd
+2006-07-23T20:17:17.030Z,35.833,0.615,22.3,4.5,mb,253,39,,1.14,us,usp000epe5,2014-11-07T01:29:44.547Z,"11 km NNE of Relizane, Algeria",earthquake,,8.2,,32,reviewed,us,us
+2006-07-12T19:59:50.230Z,33.792,7.803,0,4.6,m,8,280.5,,,us,usp000enfj,2014-11-07T01:29:38.201Z,"11 km SW of Nefta, Tunisia",earthquake,,,,,reviewed,mdd,mdd
+2006-07-07T13:12:57.370Z,35.299,-9.724,10,4.3,mblg,87,114.4,,0.64,us,usp000en2v,2014-11-07T01:29:36.348Z,"202 km SSW of Sagres, Portugal",earthquake,,,,,reviewed,us,mdd
+2006-06-26T10:26:36.340Z,35.919,5.581,0,4.3,m,8,309.5,,,us,usp000eman,2014-11-07T01:29:28.623Z,"27 km ENE of Salah Bey, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2006-06-21T00:51:14.850Z,35.926,-10.669,10,4.7,mb,298,37.8,,1.01,us,usp000ekwg,2014-11-07T01:29:25.804Z,"195 km SW of Sagres, Portugal",earthquake,,,,54,reviewed,us,us
+2006-06-10T06:18:44.800Z,42.435,-6.472,8.7,4.8,ml,158,44,,,us,usp000ek28,2020-07-08T02:04:33.612Z,"12 km NNE of Castrillo de Cabrera, Spain",earthquake,,,,,reviewed,mdd,ldg
+2006-05-24T15:56:09.070Z,36.726,5.533,10,4.3,m,14,282.4,,0.76,us,usp000ehv3,2014-11-07T01:29:10.488Z,"23 km WSW of Jijel, Algeria",earthquake,,,,,reviewed,us,mdd
+2006-05-18T14:30:19.090Z,39.825,5.85,10,4,mb,95,162.8,,1.01,us,usp000ehdt,2014-11-07T01:29:08.304Z,"133 km E of Es Castell, Spain",earthquake,,,,5,reviewed,us,us
+2006-05-04T07:12:00.330Z,36.514,-11.583,0,4.1,m,6,302.1,,,us,usp000eg8a,2014-11-07T01:29:02.595Z,"242 km WSW of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2006-05-03T19:18:33.860Z,39.548,-12.151,10,4.1,m,17,276.8,,0.69,us,usp000eg68,2014-11-07T01:29:02.194Z,"239 km W of Peniche, Portugal",earthquake,,,,,reviewed,us,mdd
+2006-05-03T13:31:04.700Z,36.477,1.591,0,4.1,m,15,260.4,,,us,usp000eg56,2014-11-07T01:29:01.933Z,"24 km NNW of El Abadia, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2006-05-03T06:12:59.160Z,35.07,3.856,0,4.1,m,6,307.8,,,us,usp000eg4j,2014-11-07T01:29:01.774Z,"37 km NW of ’Aïn el Melh, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2006-04-26T08:25:49.600Z,36.44,6.44,2,4.2,ml,42,92.1,,,us,usp000efhw,2014-11-07T01:28:55.185Z,"14 km WNW of Hamma Bouziane, Algeria",earthquake,,,,,reviewed,csem,csem
+2006-04-25T17:34:37.070Z,35.048,-4.031,0,4.2,m,30,266.9,,,us,usp000efgt,2014-11-07T01:28:55.040Z,"18 km WSW of Bni Bouayach, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2006-04-23T05:31:34.790Z,43.74,-9.077,0,4.2,mb,214,128.1,,,us,usp000efaf,2014-11-07T01:28:54.038Z,"51 km NNW of Malpica, Spain",earthquake,,,,7,reviewed,mdd,us
+2006-04-12T00:04:45.150Z,36.508,4.616,0,4.1,m,20,285.4,,,us,usp000ee89,2014-11-07T01:28:46.926Z,"7 km SW of Seddouk, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2006-04-08T23:05:39.500Z,36.812,-6.893,42,4.4,m,63,109.1,,,us,usp000edzd,2014-11-07T01:28:44.553Z,"36 km S of Mazagón, Spain",earthquake,,,,,reviewed,mdd,mdd
+2006-04-02T06:44:31.820Z,34.893,3.807,10,5.1,mwc,220,42.4,,1.27,us,usp000edgt,2022-05-02T15:28:49.322Z,"29 km E of Dar Chioukh, Algeria",earthquake,,,,,reviewed,us,hrv
+2006-03-26T18:38:10.450Z,36.569,5.566,10,4.1,m,33,252.4,,0.76,us,usp000ed0m,2014-11-07T01:28:35.857Z,"northern Algeria",earthquake,,,,,reviewed,us,mdd
+2006-03-26T11:26:32.160Z,36.687,5.28,0,4,m,20,250,,,us,usp000ed02,2014-11-07T01:28:35.787Z,"19 km ESE of Bejaïa, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2006-03-22T07:47:06.570Z,36.928,5.389,0,4,m,13,254.7,,,us,usp000ecpk,2014-11-07T01:28:34.210Z,"33 km NE of Bejaïa, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2006-03-21T23:42:01.490Z,36.93,5.377,0,4.1,m,30,254.6,,,us,usp000ecp1,2014-11-07T01:28:34.151Z,"32 km NE of Bejaïa, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2006-03-20T23:22:32.410Z,37.214,5.226,0,4.1,m,23,250.2,,,us,usp000eckm,2014-11-07T01:28:33.921Z,"52 km NNE of Bejaïa, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2006-03-20T19:54:18.090Z,36.752,5.51,10,4.6,mb,47,174.3,,0.92,us,usp000ecjy,2014-11-07T01:28:33.849Z,"23 km WSW of Jijel, Algeria",earthquake,,,,2,reviewed,us,us
+2006-03-20T19:44:25.190Z,36.623,5.328,10,5.2,mwc,283,33.7,,1.11,us,usp000ecjv,2022-05-02T15:27:23.339Z,"23 km NW of BABOR - VILLE, Algeria",earthquake,,,,,reviewed,us,hrv
+2006-03-10T19:33:17.930Z,40.027,-1.252,7,4.4,mb,104,40.7,,,us,usp000ebwz,2014-11-07T01:28:30.583Z,"1 km ESE of Casas Altas, Spain",earthquake,,,,7,reviewed,mdd,us
+2006-02-17T07:37:48.790Z,36.791,3.479,0,4.5,m,11,188.4,,,us,usp000ea79,2014-11-07T01:28:19.020Z,"2 km N of Boumerdas, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2006-02-14T16:24:22.530Z,36.956,3.38,0,4.2,m,13,275,,,us,usp000ea2d,2014-11-07T01:28:18.504Z,"19 km NNE of Aïn Taya, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2006-01-30T18:16:57.820Z,35.071,-4.003,0,4.5,m,49,119.3,,,us,usp000e959,2014-11-07T01:28:10.736Z,"15 km WSW of Bni Bouayach, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2006-01-30T07:58:13.010Z,35.124,-4.089,1.7,4.2,mb,67,108.4,,0.98,us,usp000e94p,2014-11-07T01:28:10.658Z,"17 km SW of Tirhanimîne, Morocco",earthquake,,14.2,,8,reviewed,us,us
+2006-01-22T16:27:33.350Z,38.507,-6.558,10.5,4.1,mblg,92,26,,,us,usp000e8p2,2014-11-07T01:28:08.344Z,"0 km SE of Feria, Spain",earthquake,,,,,reviewed,mdd,mdd
+2006-01-16T12:19:54.240Z,34.021,-5.029,0,4,m,37,151.4,,,us,usp000e8ap,2014-11-07T01:28:06.648Z,"2 km WSW of Fès, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2006-01-11T10:32:09.000Z,45.93,5.44,5,4.1,ml,102,22.8,,,us,usp000e81d,2014-11-07T01:28:05.737Z,"1 km S of Saint-Rambert-en-Bugey, France",earthquake,,,,,reviewed,str,ldg
+2006-01-10T10:57:40.360Z,36.343,-7.497,2.5,4.5,ml,69,205.5,,,us,usp000e7z7,2014-11-07T01:28:05.522Z,"82 km SSE of Fuzeta, Portugal",earthquake,,,,,reviewed,mdd,ldg
+2006-01-07T13:54:57.990Z,36.704,7.015,0,4,m,11,320.2,,,us,usp000e7sk,2014-11-07T01:28:04.608Z,"8 km WSW of Azzaba, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2006-01-03T17:58:42.180Z,36.833,4.224,2.6,4.4,ml,93,95.7,,1.09,us,usp000e7he,2014-11-07T01:28:03.419Z,"5 km NW of Timizart, Algeria",earthquake,,7.7,,,reviewed,us,csem
+2005-12-29T05:01:02.000Z,38.8,-8.2,8,4,mb,92,78.4,,,us,usp000e74s,2014-11-07T01:27:57.963Z,"16 km N of Montemor-o-Novo, Portugal",earthquake,,,,2,reviewed,inmg,us
+2005-12-29T04:25:44.000Z,38.8,-8.2,4,4.4,mb,82,78.4,,,us,usp000e74p,2022-07-14T12:59:24.374Z,"16 km N of Montemor-o-Novo, Portugal",earthquake,,,,1,reviewed,inmg,us
+2005-12-18T22:15:59.430Z,36.313,6.288,10,4.1,m,24,266.2,,0.69,us,usp000e6d4,2014-11-07T01:27:54.831Z,"15 km S of Mila, Algeria",earthquake,,0,,,reviewed,us,mdd
+2005-12-12T03:59:35.780Z,36.589,3.158,0,4.2,m,17,287.5,,,us,usp000e60h,2014-11-07T01:27:52.974Z,"2 km N of Larbaâ, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2005-11-23T20:31:17.960Z,33.716,-5.712,4,4.1,m,40,202.5,,,us,usp000e4sj,2014-11-07T01:27:42.766Z,"24 km SW of Meknès, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2005-11-23T08:36:38.230Z,36.572,4.318,10,4.1,ml,75,57.3,,1.05,us,usp000e4rq,2014-11-07T01:27:42.628Z,"1 km NE of ’Aïn el Hammam, Algeria",earthquake,,,,,reviewed,us,alg
+2005-11-20T22:17:51.260Z,34.919,6.802,10,4.1,ml,47,109.1,,1.08,us,usp000e4ku,2014-11-07T01:27:41.713Z,"37 km NE of Zeribet el Oued, Algeria",earthquake,,0,,,reviewed,us,alg
+2005-11-16T14:17:40.080Z,34.837,-4.318,0,4,m,23,287.8,,,us,usp000e4at,2014-11-07T01:27:39.987Z,"11 km S of Targuist, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2005-11-04T12:45:43.010Z,36.958,-12.906,10,4.4,m,15,201.5,,0.36,us,usp000e3g2,2014-11-07T01:27:35.829Z,"Azores-Cape St. Vincent Ridge",earthquake,,,,,reviewed,us,mdd
+2005-10-31T03:39:59.200Z,45.725,6.411,2,4.1,ml,122,27.6,,,us,usp000e36c,2014-11-07T01:27:30.655Z,"0 km ESE of Marthod, France",earthquake,,,,,reviewed,ldg,ldg
+2005-10-28T20:55:39.310Z,36.585,2.124,24.5,4.2,m,34,232.2,,,us,usp000e319,2014-11-07T01:27:29.898Z,"27 km WNW of Hadjout, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2005-10-22T02:50:51.010Z,34.596,-4.977,0,4.2,mb,41,142.7,,,us,usp000e2gd,2014-11-07T01:27:27.627Z,"31 km WNW of Taounate, Morocco",earthquake,,,,2,reviewed,mdd,us
+2005-10-09T21:11:22.000Z,35.964,6.478,0,4,m,20,308.6,,,us,usp000e1ez,2014-11-07T01:27:21.048Z,"20 km WNW of Aïn Kercha, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2005-09-08T11:27:17.400Z,46,6.9,7,4.6,mwc,354,11.3,,,us,usp000dz00,2022-07-14T14:56:03.154Z,"8 km NNE of Chamonix-Mont-Blanc, France",earthquake,,,,,reviewed,zur,hrv
+2005-09-06T05:38:30.580Z,36.598,5.277,10,4.2,ml,41,92.8,,1.09,us,usp000dyv0,2014-11-07T01:27:00.924Z,"24 km SE of Bejaïa, Algeria",earthquake,,,,,reviewed,us,alg
+2005-09-02T04:12:52.250Z,37.123,3.361,0,4.2,m,49,232.4,,,us,usp000dyk0,2014-11-07T01:26:58.796Z,"37 km N of Aïn Taya, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2005-08-29T19:49:02.620Z,36.827,-11.094,0,4.6,m,85,249.2,,,us,usp000dy9u,2014-11-07T01:26:54.356Z,"192 km W of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2005-08-29T10:02:44.060Z,36.812,-10.978,0,4,m,10,295.5,,,us,usp000dy95,2014-11-07T01:26:54.183Z,"182 km W of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2005-08-29T09:38:52.990Z,36.59,-11.251,10,4.7,mb,246,35,,1.14,us,usp000dy91,2014-11-07T01:26:54.126Z,"211 km WSW of Sagres, Portugal",earthquake,,,,53,reviewed,us,us
+2005-08-17T05:30:51.480Z,35.382,0.313,10,4.3,m,27,258.9,,0.75,us,usp000dxgx,2014-11-07T01:26:49.818Z,"15 km E of Mascara, Algeria",earthquake,,,,,reviewed,us,mdd
+2005-08-03T22:43:27.980Z,36.233,3.037,15,4.1,m,34,234,,0.74,us,usp000dwkw,2014-11-07T01:26:43.451Z,"15 km NE of Berrouaghia, Algeria",earthquake,,0,,,reviewed,us,mdd
+2005-08-01T01:41:45.490Z,35.552,0.166,16.5,4.2,m,45,247.6,,,us,usp000dwe4,2014-11-07T01:26:40.399Z,"17 km N of Mascara, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2005-07-31T15:33:48.340Z,35.537,0.153,0,4,m,14,264.8,,,us,usp000dwcw,2014-11-07T01:26:37.738Z,"15 km N of Mascara, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2005-07-31T11:11:29.620Z,35.579,0.115,0,4.2,m,29,248.3,,,us,usp000dwc9,2014-11-07T01:26:37.662Z,"20 km N of Mascara, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2005-07-20T19:54:04.860Z,36.867,0.667,10,5,m,104,187.5,,0.92,us,usp000dvkd,2014-11-07T01:26:31.282Z,"68 km NW of Abou el Hassan, Algeria",earthquake,,,,,reviewed,us,mdd
+2005-07-19T08:04:42.240Z,36.247,-11.402,5,4.3,mb,139,116.4,,1.1,us,usp000dvgb,2014-11-07T01:26:30.897Z,"235 km WSW of Sagres, Portugal",earthquake,,,,14,reviewed,us,us
+2005-07-07T04:11:42.040Z,35.714,-0.717,0,4.3,m,41,243.9,,,us,usp000duph,2014-11-07T01:26:26.741Z,"1 km SSW of Mers el Kebir, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2005-07-05T08:21:48.990Z,36.958,3.788,10,4.5,m,23,263.4,,0.58,us,usp000dujv,2014-11-07T01:26:25.941Z,"12 km WNW of Dellys, Algeria",earthquake,,,,,reviewed,us,mdd
+2005-07-02T12:58:07.920Z,35.758,-3.497,0,4.3,mb,173,90.3,,,us,usp000ducd,2014-11-07T01:26:23.009Z,"68 km NE of Al Hoceïma, Morocco",earthquake,,,,34,reviewed,mdd,us
+2005-07-02T07:42:48.890Z,36.831,3.447,10,4.1,m,26,250.5,,0.88,us,usp000dubw,2014-11-07T01:26:22.858Z,"7 km NNW of Boumerdas, Algeria",earthquake,,,,,reviewed,us,mdd
+2005-06-30T01:19:22.890Z,36.686,-1.565,5.1,4.6,mb,102,63.1,,,us,usp000du6q,2014-11-07T01:26:18.498Z,"45 km SE of Carboneras, Spain",earthquake,,,,4,reviewed,mdd,us
+2005-06-22T19:41:37.040Z,46.971,-2.198,10,4.3,ml,87,93.1,,0.85,us,usp000dtpg,2014-11-07T01:26:16.342Z,"2 km E of La Guérinière, France",earthquake,,5.3,,,reviewed,us,str
+2005-06-18T04:28:38.080Z,36.271,-10.403,0,4.5,m,4,327,,,us,usp000dtay,2014-11-07T01:26:14.827Z,"154 km WSW of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2005-06-15T10:20:01.300Z,35.132,-8.531,10,4.5,m,35,274.4,,0.55,us,usp000dt3v,2014-11-07T01:26:13.244Z,"190 km NNW of Casablanca, Morocco",earthquake,,,,,reviewed,us,mdd
+2005-06-15T04:07:49.310Z,36.727,-5.601,41.7,4.4,m,48,132,,,us,usp000dt2q,2014-11-07T01:26:13.108Z,"7 km SSW of Prado del Rey, Spain",earthquake,,,,,reviewed,mdd,mdd
+2005-06-09T15:23:09.440Z,36.636,5.062,10,4,ml,18,110.2,,0.77,us,usp000dskg,2014-11-07T01:26:09.778Z,"11 km NE of Barbacha, Algeria",earthquake,,,,,reviewed,us,alg
+2005-05-31T21:02:53.860Z,36.21,2.835,13.7,4,ml,68,131.6,,1.14,us,usp000drza,2014-11-07T01:26:00.690Z,"9 km SE of Médéa, Algeria",earthquake,,6.5,,,reviewed,us,alg
+2005-05-27T15:13:17.450Z,36.875,-8.567,34.1,4.3,m,50,248.5,,,us,usp000drpb,2014-11-07T01:25:58.656Z,"26 km SSW of Carvoeiro, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2005-05-26T22:19:42.190Z,34.721,-5.897,17.5,4,mb,83,158.3,,,us,usp000drmw,2014-11-07T01:25:58.452Z,"10 km ENE of Souq Larb’a al Gharb, Morocco",earthquake,,,,3,reviewed,mdd,us
+2005-05-26T11:00:02.480Z,36.167,-11.799,10,4.3,mb,105,165.6,,0.88,us,usp000drm1,2014-11-07T01:25:58.350Z,"272 km WSW of Sagres, Portugal",earthquake,,,,4,reviewed,us,us
+2005-05-23T21:27:55.470Z,36.489,-7.684,25,4.3,m,34,261.1,,,us,usp000drf6,2014-11-07T01:25:57.725Z,"Strait of Gibraltar",earthquake,,,,,reviewed,mdd,mdd
+2005-05-21T04:09:50.540Z,35.379,-1.181,19,4.4,m,57,181.5,,,us,usp000dr8y,2014-11-07T01:25:56.542Z,"8 km W of El Malah, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2005-05-14T01:47:11.210Z,36.195,1.661,0,4,m,27,110.9,,,us,usp000dqrg,2014-11-07T01:25:53.110Z,"3 km SSW of El Attaf, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2005-05-12T01:38:05.600Z,47.3,7.7,25,4.2,mb,201,15.7,,,us,usp000dqjp,2022-07-14T16:13:36.595Z,"1 km NW of Oensingen, Switzerland",earthquake,,,,1,reviewed,zur,us
+2005-05-10T05:27:16.100Z,36.767,-10.566,6.6,4,m,11,283.7,,,us,usp000dqc2,2014-11-07T01:25:50.896Z,"147 km W of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2005-05-07T20:59:28.900Z,36.714,-9.737,18.7,4,m,26,274.5,,,us,usp000dq5j,2014-11-07T01:25:50.072Z,"77 km WSW of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2005-04-24T21:18:49.920Z,36.769,3.396,10,4.1,m,104,214.9,,1.1,us,usp000dp57,2014-11-07T01:25:40.708Z,"4 km NNW of Boudouaou, Algeria",earthquake,,,,,reviewed,us,mdd
+2005-04-21T13:28:59.410Z,36.857,-11.019,9.7,4.1,m,10,295.1,,,us,usp000dnx4,2014-11-07T01:25:39.091Z,"185 km W of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2005-04-18T06:42:50.700Z,45.93,-1.31,10,5.2,mb,116,54.1,,,us,usp000dnnm,2020-09-18T20:32:16.475Z,"1 km SSW of Saint-Pierre-d'Oléron, France",earthquake,,,,2,reviewed,csem,us
+2005-04-13T05:27:19.880Z,38.985,-11.264,10,4.1,m,24,258,,0.63,us,usp000dn7r,2014-11-07T01:25:34.638Z,"158 km W of Fontanelas, Portugal",earthquake,,,,,reviewed,us,mdd
+2005-04-04T17:07:55.000Z,45.92,-1.43,10,4.2,ml,90,86,,,us,usp000dm80,2014-11-07T01:25:29.225Z,"9 km WSW of Saint-Pierre-d'Oléron, France",earthquake,,,,,reviewed,str,str
+2005-03-29T20:37:49.760Z,36.716,3.149,0,4,m,11,267.9,,,us,usp000dkjv,2014-11-07T01:25:21.503Z,"3 km WSW of Bab Ezzouar, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2005-03-24T00:40:19.090Z,34.931,-2.99,2.6,4.1,m,30,264.8,,,us,usp000djxd,2014-11-07T01:25:18.312Z,"9 km SSE of Al Aaroui, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2005-03-23T01:03:03.910Z,36.361,-5.905,43.9,4.1,m,43,193.9,,,us,usp000djux,2014-11-07T01:25:17.988Z,"8 km WNW of Benalup-Casas Viejas, Spain",earthquake,,,,,reviewed,mdd,mdd
+2005-03-22T16:14:28.330Z,34.903,-2.96,0,4.2,m,41,259.8,,,us,usp000djts,2014-11-07T01:25:17.803Z,"12 km SSE of Al Aaroui, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2005-03-22T09:03:13.000Z,34.929,-2.978,3.5,4.1,mb,63,141.5,,,us,usp000djt0,2014-11-07T01:25:17.720Z,"9 km SSE of Al Aaroui, Morocco",earthquake,,,,3,reviewed,mdd,us
+2005-03-22T08:46:15.290Z,34.319,-4.112,19,4.3,mb,36,273,,,us,usp000djsx,2014-11-07T01:25:17.710Z,"15 km NW of Taza, Morocco",earthquake,,,,1,reviewed,mdd,us
+2005-03-19T17:11:27.780Z,36.7,5.21,6.6,4,m,27,233.5,,,us,usp000djju,2014-11-07T01:25:16.553Z,"12 km ESE of Bejaïa, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2005-03-15T17:19:16.730Z,37.109,-10.923,0,4,m,17,286.9,,,us,usp000dj9a,2014-11-07T01:25:14.710Z,"176 km W of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2005-03-14T00:13:23.000Z,36.618,-11.074,0,4.1,m,28,292.6,,,us,usp000dj5a,2014-11-07T01:25:14.112Z,"195 km WSW of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2005-03-09T18:23:42.500Z,35.22,5.615,10,4.6,mb,189,58,,1.3,us,usp000dhw0,2014-11-07T01:25:12.883Z,"29 km SE of Barika, Algeria",earthquake,,,,36,reviewed,us,us
+2005-03-07T03:37:57.750Z,36.453,-10.815,0,4.6,m,10,298.2,,,us,usp000dhqb,2014-11-07T01:25:12.097Z,"Azores-Cape St. Vincent Ridge",earthquake,,,,,reviewed,mdd,mdd
+2005-03-06T07:00:13.320Z,36.863,-9.614,0,4,m,12,275.6,,,us,usp000dhn6,2014-11-07T01:25:11.656Z,"61 km WSW of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2005-03-03T18:04:59.110Z,36.875,-11.083,0,4.7,m,49,280.6,,,us,usp000dhey,2014-11-07T01:25:10.474Z,"191 km W of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2005-02-23T21:23:35.460Z,36.208,-7.717,35.8,4.1,m,34,248.5,,,us,usp000dgud,2014-11-07T01:25:03.070Z,"91 km S of Olhão, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2005-02-23T05:11:28.950Z,36.581,-11.401,10,4.1,m,15,299.9,,0.23,us,usp000dgsr,2014-11-07T01:25:02.855Z,"224 km WSW of Sagres, Portugal",earthquake,,,,,reviewed,us,mdd
+2005-02-18T04:50:27.420Z,34.986,-3,4.4,4.3,m,49,258.4,,,us,usp000dgdq,2014-11-07T01:25:00.894Z,"2 km SSE of Al Aaroui, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2005-02-13T00:23:30.020Z,36.847,-11.38,40.2,4.4,m,23,285,,,us,usp000dg0m,2014-11-07T01:24:59.066Z,"217 km W of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2005-02-03T16:08:37.140Z,36.683,-11.212,19.1,4.6,mb,14,291.5,,,us,usp000dff3,2014-11-07T01:24:55.398Z,"205 km W of Sagres, Portugal",earthquake,,,,1,reviewed,mdd,us
+2005-02-03T11:40:32.650Z,37.825,-1.837,8.4,4.3,mb,92,89.7,,0.84,us,usp000dfeq,2014-11-07T01:24:55.237Z,"20 km NW of Lorca, Spain",earthquake,,4.5,,5,reviewed,us,us
+2005-02-01T05:28:31.200Z,43.345,-12.924,0,4.5,m,37,267.5,,,us,usp000dfax,2014-11-07T01:24:52.547Z,"North Atlantic Ocean",earthquake,,,,,reviewed,mdd,mdd
+2005-01-29T07:41:31.000Z,37.91,-1.82,5,4.4,mb,128,41.7,,0.95,us,usp000df32,2021-10-20T18:08:31.477Z,"19 km SW of Bullas, Spain",earthquake,,0,,8,reviewed,us,us
+2005-01-28T09:40:42.840Z,37.253,4.059,0,4.1,m,5,319.9,,,us,usp000dewp,2014-11-07T01:24:48.130Z,"39 km NNE of Dellys, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2005-01-20T05:51:33.780Z,39.753,6.998,10,4.3,ml,87,158.9,,0.83,us,usp000ddup,2014-11-07T01:24:42.133Z,"126 km WNW of Buggerru, Italy",earthquake,,,,,reviewed,us,str
+2005-01-16T22:42:32.860Z,36.711,-11.758,0,4.2,m,25,291.8,,,us,usp000ddh3,2014-11-07T01:24:40.059Z,"253 km W of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2005-01-16T00:43:38.990Z,36.142,-10.161,0,4.2,m,32,284.4,,,us,usp000dddz,2014-11-07T01:24:39.689Z,"145 km SW of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2005-01-12T09:54:26.020Z,34.854,-2.947,0,4.1,m,17,273,,,us,usp000dd5c,2014-11-07T01:24:37.850Z,"18 km SSE of Al Aaroui, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2005-01-04T07:26:24.730Z,36.682,-9.749,14.7,4,m,21,275,,,us,usp000dchd,2014-11-07T01:24:33.779Z,"80 km WSW of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2005-01-04T00:50:51.900Z,35.895,-4.864,36.1,4,md,62,236.5,,,us,usp000dcgt,2014-11-07T01:24:33.691Z,"41 km E of Ceuta, Spain",earthquake,,,,,reviewed,mdd,ldg
+2005-01-03T11:34:16.100Z,36.678,-7.555,60,4.7,m,74,212.6,,,us,usp000dcft,2014-11-07T01:24:32.702Z,"45 km SSE of Fuzeta, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2004-12-29T06:54:06.150Z,37.255,-9.42,0,4.1,m,19,267.2,,,us,usp000dc3x,2014-11-07T01:24:26.934Z,"49 km WNW of Vila do Bispo, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2004-12-29T05:33:54.160Z,35,-3.08,0,4.4,m,43,258.9,,,us,usp000dc3n,2014-11-07T01:24:26.834Z,"6 km W of Al Aaroui, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-12-15T00:38:07.710Z,36.711,4.211,10,4.4,m,51,243.1,,0.63,us,usp000dar0,2014-11-07T01:24:17.448Z,"4 km NNE of Tizi Rached, Algeria",earthquake,,,,,reviewed,us,mdd
+2004-12-13T22:10:15.700Z,36.691,3.178,0,4.4,m,29,248.7,,,us,usp000dan2,2014-11-07T01:24:16.521Z,"3 km S of Bab Ezzouar, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2004-12-13T14:16:08.590Z,36.255,-10.001,10,5,mwc,393,32.4,,1.09,us,usp000dam9,2022-07-14T19:16:06.335Z,"126 km SW of Sagres, Portugal",earthquake,,,,,reviewed,us,hrv
+2004-12-12T09:07:18.260Z,34.887,-3.018,10,4,m,31,262.6,,0.96,us,usp000dahd,2014-11-07T01:24:16.016Z,"13 km S of Al Aaroui, Morocco",earthquake,,,,,reviewed,us,mdd
+2004-12-09T07:46:02.180Z,34.968,-3.077,1.8,4.3,mb,81,220.2,,,us,usp000dabu,2014-11-07T01:24:15.279Z,"7 km SW of Al Aaroui, Morocco",earthquake,,,,8,reviewed,mdd,us
+2004-12-08T14:02:39.640Z,36.287,-10.625,10,4.1,m,15,285.4,,0.58,us,usp000daaq,2014-11-07T01:24:15.115Z,"170 km WSW of Sagres, Portugal",earthquake,,,,,reviewed,us,mdd
+2004-12-05T08:30:59.590Z,36.865,3.421,10,4.5,mb,174,73.7,,1.02,us,usp000da30,2020-09-18T20:14:23.862Z,"12 km NNW of Boumerdas, Algeria",earthquake,,,,10,reviewed,us,us
+2004-12-05T03:20:39.370Z,34.932,-3.042,10,4.3,m,31,271.7,,1.07,us,usp000da25,2014-11-07T01:24:13.846Z,"9 km SSW of Al Aaroui, Morocco",earthquake,,,,,reviewed,us,mdd
+2004-12-04T15:42:09.490Z,34.959,-3.007,0,4.6,m,35,262.9,,,us,usp000da0d,2014-11-07T01:24:13.486Z,"5 km S of Al Aaroui, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-12-04T15:04:30.310Z,35.002,-3.104,0,4.3,m,23,279.5,,,us,usp000da08,2014-11-07T01:24:13.470Z,"8 km W of Al Aaroui, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-12-04T13:16:28.680Z,34.925,-2.969,0,4.3,m,28,271.6,,,us,usp000d9zx,2014-11-07T01:24:13.389Z,"10 km SSE of Al Aaroui, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-12-04T12:09:35.450Z,34.972,-3.053,0,4,m,15,284.1,,,us,usp000d9zg,2014-11-07T01:24:13.341Z,"5 km SW of Al Aaroui, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-12-04T10:30:00.520Z,35.036,-3.145,10,5.1,mwc,320,44.5,,1.06,us,usp000d9yv,2022-05-02T17:35:52.930Z,"12 km WNW of Al Aaroui, Morocco",earthquake,,,,,reviewed,us,hrv
+2004-12-03T10:14:35.330Z,34.934,-3.022,0,4.4,m,29,271.5,,,us,usp000d9wu,2014-11-07T01:24:12.800Z,"8 km S of Al Aaroui, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-12-03T07:33:02.590Z,34.977,-3.048,0.3,4,m,19,270.7,,,us,usp000d9wh,2014-11-07T01:24:12.711Z,"5 km SW of Al Aaroui, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-12-02T18:21:36.420Z,34.961,-2.986,5.7,4.1,m,23,270.9,,,us,usp000d9uc,2014-11-07T01:24:12.244Z,"5 km SSE of Al Aaroui, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-12-02T17:50:45.030Z,35.028,-3.033,13.5,4.9,mwc,212,69,,1.12,us,usp000d9u6,2016-11-10T00:53:55.492Z,"2 km NW of Al Aaroui, Morocco",earthquake,,11,,,reviewed,us,hrv
+2004-12-01T17:42:24.790Z,36.848,3.448,10,4.5,mb,120,151.7,,0.88,us,usp000d9r7,2020-09-18T20:13:38.711Z,"9 km NNW of Boumerdas, Algeria",earthquake,,,,5,reviewed,us,us
+2004-11-27T09:23:51.310Z,36.23,3.09,10,4.4,m,36,245.5,,1.22,us,usp000d9d1,2014-11-07T01:24:06.231Z,"19 km ENE of Berrouaghia, Algeria",earthquake,,,,,reviewed,us,mdd
+2004-11-27T08:33:38.700Z,39.201,-12.701,10,4.6,m,31,282.4,,0.87,us,usp000d9cv,2014-11-07T01:24:06.208Z,"285 km W of Fontanelas, Portugal",earthquake,,,,,reviewed,us,mdd
+2004-11-26T02:40:04.140Z,35.002,-4.585,33.1,4.2,m,35,260.4,,,us,usp000d977,2014-11-07T01:24:05.327Z,"25 km WNW of Targuist, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-11-24T05:16:00.300Z,34.9,-5.767,19,4,m,22,282.2,,,us,usp000d92y,2014-11-07T01:24:04.672Z,"16 km SE of Ksar El Kebir, Morocco",earthquake,,,,,reviewed,inmg,mdd
+2004-11-14T01:48:30.810Z,36.88,3.935,10,4.4,m,61,250.2,,0.79,us,usp000d8dd,2014-11-07T01:24:00.299Z,"4 km SSE of Dellys, Algeria",earthquake,,,,,reviewed,us,mdd
+2004-10-25T16:16:20.980Z,36.26,3.844,0,4.2,m,24,247.8,,,us,usp000d724,2014-11-07T01:23:49.096Z,"13 km SSW of Bouïra, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2004-10-24T22:55:04.780Z,36.866,-11.167,0,4.4,m,53,283.4,,,us,usp000d70m,2014-11-07T01:23:48.826Z,"198 km W of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2004-10-20T19:22:19.700Z,37.017,3.174,10,4,m,34,209.2,,,us,usp000d6rh,2014-11-07T01:23:47.377Z,"26 km NNW of Aïn Taya, Algeria",earthquake,,,,,reviewed,ldg,mdd
+2004-10-19T02:05:53.170Z,36.879,-9.479,22,4.1,m,10,270.2,,,us,usp000d6n0,2014-11-07T01:23:47.031Z,"49 km WSW of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2004-10-10T08:13:59.610Z,35.11,-4.094,10,4.5,mb,39,254.3,,0.86,us,usp000d64e,2014-11-07T01:23:44.159Z,"18 km SW of Tirhanimîne, Morocco",earthquake,,,,1,reviewed,us,us
+2004-10-10T08:08:58.680Z,35.418,-11.465,24.3,4.5,m,11,311.3,,,us,usp000d64d,2014-11-07T01:23:44.157Z,"287 km SW of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2004-10-07T06:16:29.200Z,42.83,-1.45,5,4.1,ml,93,66.3,,,us,usp000d5xt,2014-11-07T01:23:42.975Z,"3 km NNE of Lizoáin, Spain",earthquake,,,,,reviewed,str,str
+2004-10-04T12:27:56.430Z,36.844,-11.455,10,4.6,m,46,128.2,,0.72,us,usp000d5rk,2014-11-07T01:23:41.825Z,"224 km W of Sagres, Portugal",earthquake,,,,,reviewed,us,mdd
+2004-09-30T13:09:05.990Z,42.867,-1.531,2.3,4.3,mb,172,26.7,,1.31,us,usp000d5dr,2014-11-07T01:23:35.488Z,"6 km NE of Huarte-Uharte, Spain",earthquake,,5,,6,reviewed,us,us
+2004-09-27T05:53:46.810Z,36.828,-12.215,0,4.1,m,15,293.5,,,us,usp000d54t,2014-11-07T01:23:33.847Z,"292 km W of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2004-09-24T02:21:14.170Z,36.729,3.145,0,4,m,7,286,,,us,usp000d4yh,2014-11-07T01:23:33.103Z,"3 km W of Bab Ezzouar, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2004-09-23T09:58:05.700Z,42.34,2.147,4,4,ml,108,70.4,,,us,usp000d4wu,2014-11-07T01:23:32.832Z,"4 km NNW of Ribes de Freser, Spain",earthquake,,,,,reviewed,mrb,ldg
+2004-09-21T15:48:04.800Z,42.3,2.46,2,4.5,mb,244,56.1,,,us,usp000d4t5,2014-11-07T01:23:32.243Z,"7 km E of Camprodon, Spain",earthquake,,,,8,reviewed,csem,us
+2004-09-18T12:55:07.500Z,42.847,-1.424,5.5,4,ml,29,65.4,,,us,usp000d4jc,2014-11-07T01:23:30.595Z,"6 km NNE of Lizoáin, Spain",earthquake,,,,,reviewed,mdd,ldg
+2004-09-18T12:52:16.470Z,42.875,-1.516,1,4.7,mwc,289,15.8,,1.39,us,usp000d4jb,2016-11-10T00:46:13.522Z,"7 km NE of Huarte-Uharte, Spain",earthquake,,4.4,,,reviewed,us,hrv
+2004-09-13T13:33:56.160Z,36.67,2.363,0,4,m,11,282.4,,,us,usp000d471,2014-11-07T01:23:28.848Z,"11 km NW of Tipasa, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2004-08-28T14:28:00.220Z,36.616,3.055,10,4,m,7,286.7,,0.3,us,usp000d30r,2014-11-07T01:23:16.646Z,"3 km WNW of Sidi Moussa, Algeria",earthquake,,,,,reviewed,us,mdd
+2004-08-14T01:55:42.380Z,34.866,-3.887,0,4.5,mb,43,263.1,,,us,usp000d23t,2014-11-07T01:23:12.434Z,"26 km S of Bni Bouayach, Morocco",earthquake,,,,4,reviewed,mdd,us
+2004-08-10T16:22:14.030Z,36.792,-7.115,57.5,4,m,30,234.5,,,us,usp000d1wp,2014-11-07T01:23:10.868Z,"45 km SSW of Punta Umbría, Spain",earthquake,,,,,reviewed,mdd,mdd
+2004-08-07T02:50:20.550Z,35.156,-4.052,0,4.2,m,38,261.5,,,us,usp000d1np,2014-11-07T01:23:09.724Z,"12 km SW of Tirhanimîne, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-08-03T17:19:22.440Z,36.399,-7.821,0,4,m,31,265.8,,,us,usp000d1d8,2014-11-07T01:23:08.108Z,"69 km S of Faro, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2004-07-28T22:42:09.000Z,36.525,-5.166,41.4,4.3,m,50,185.2,,,us,usp000d11a,2014-11-07T01:23:01.188Z,"6 km SE of Jubrique, Spain",earthquake,,,,,reviewed,mdd,mdd
+2004-07-13T23:51:24.020Z,36.897,-12.176,0,4.4,m,37,297.7,,,us,usp000d04d,2014-11-07T01:22:53.777Z,"288 km W of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2004-07-10T18:01:39.550Z,34.838,-4.115,34.2,4,m,12,287.9,,,us,usp000czxj,2014-11-07T01:22:52.864Z,"21 km ESE of Targuist, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-07-10T17:57:16.300Z,35.161,-4.065,0,4.4,m,53,227.4,,,us,usp000czxh,2014-11-07T01:22:52.858Z,"13 km SW of Tirhanimîne, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-07-10T02:40:00.340Z,36.655,3.663,0,4,m,7,289.7,,,us,usp000czvy,2014-11-07T01:22:52.594Z,"3 km NW of Chabet el Ameur, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2004-07-09T16:26:53.190Z,36.197,3.869,10,4.4,m,53,244.4,,0.76,us,usp000czv1,2014-11-07T01:22:52.456Z,"16 km ENE of Sour el Ghozlane, Algeria",earthquake,,,,,reviewed,us,mdd
+2004-07-02T15:43:01.610Z,36.961,-10.421,10,4.4,m,36,277.3,,0.57,us,usp000czdz,2014-11-07T01:22:49.353Z,"131 km W of Sagres, Portugal",earthquake,,,,,reviewed,us,mdd
+2004-06-26T09:19:29.950Z,36.741,-7.218,17.6,4,m,11,261.9,,,us,usp000cyup,2014-11-07T01:22:41.657Z,"51 km S of Islantilla, Spain",earthquake,,,,,reviewed,mdd,mdd
+2004-06-23T20:27:17.050Z,36.505,4.475,10,4,ml,52,136.7,,0.81,us,usp000cykp,2014-11-07T01:22:40.771Z,"5 km NNW of Ighram, Algeria",earthquake,,,,,reviewed,us,alg
+2004-06-20T22:47:05.410Z,34.936,-3.876,3.9,4.1,mb,111,144.8,,,us,usp000cyc8,2014-11-07T01:22:39.682Z,"19 km S of Bni Bouayach, Morocco",earthquake,,,,7,reviewed,mdd,us
+2004-06-20T03:01:08.420Z,35.593,-10.262,10,4.6,m,67,146.9,,0.76,us,usp000cya4,2014-11-07T01:22:39.193Z,"196 km SW of Sagres, Portugal",earthquake,,,,,reviewed,us,mdd
+2004-06-15T12:00:05.850Z,35.157,-3.971,0,4.1,m,29,261,,,us,usp000cxyp,2014-11-07T01:22:38.001Z,"8 km S of Tirhanimîne, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-06-12T17:13:05.050Z,36.124,2.795,10,4.4,ml,40,168.6,,1.16,us,usp000cxss,2014-11-07T01:22:37.212Z,"10 km W of Berrouaghia, Algeria",earthquake,,,,,reviewed,us,alg
+2004-06-07T15:39:36.100Z,34.779,-9.601,10,4.2,m,13,300.8,,0.61,us,usp000cxby,2014-11-07T01:22:34.859Z,"196 km NNW of El Jadid, Morocco",earthquake,,,,,reviewed,us,mdd
+2004-06-01T16:50:18.830Z,42.269,2.237,4.8,4.2,ml,80,94.2,,,us,usp000cwuv,2014-11-07T01:22:29.819Z,"5 km NW of Sant Joan de les Abadesses, Spain",earthquake,,,,,reviewed,mdd,ldg
+2004-06-01T16:49:55.200Z,39.209,6.504,10,4.4,ml,82,46.9,,1.09,us,usp000cwuu,2014-11-07T01:22:29.794Z,"155 km W of Carloforte, Italy",earthquake,,,,,reviewed,us,ldg
+2004-05-23T00:29:45.030Z,35.157,-4.015,0,4.4,m,44,261.2,,,us,usp000cvy0,2014-11-07T01:22:23.058Z,"10 km SSW of Tirhanimîne, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-05-21T12:58:05.430Z,35.083,-3.99,0,4,m,33,228.6,,,us,usp000cvsj,2014-11-07T01:22:22.060Z,"13 km W of Bni Bouayach, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-05-14T00:30:35.010Z,45.101,7.329,9.7,4.2,ml,141,22.1,,,us,usp000cuz7,2014-11-07T01:22:18.413Z,"0 km SSE of Chiusa di San Michele, Italy",earthquake,,,,,reviewed,gen,grf
+2004-05-09T18:11:48.720Z,35.063,-3.902,0,4,m,38,262,,,us,usp000cujv,2014-11-07T01:22:16.291Z,"Strait of Gibraltar",earthquake,,,,,reviewed,mdd,mdd
+2004-04-24T02:22:30.640Z,35.177,-3.949,0,4,m,35,260.2,,,us,usp000ct8f,2014-11-07T01:22:04.824Z,"Strait of Gibraltar",earthquake,,,,,reviewed,mdd,mdd
+2004-04-20T05:00:33.440Z,35.725,-2.264,0,4,m,31,246.5,,,us,usp000csyw,2014-11-07T01:22:03.535Z,"71 km N of Saidia, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-04-16T19:23:25.190Z,37.673,-1.384,0,4,ml,102,54.8,,,us,usp000cspb,2014-11-07T01:22:00.646Z,"10 km NW of Mazarrón, Spain",earthquake,,,,,reviewed,mdd,ldg
+2004-04-16T08:32:56.780Z,35.095,-4.123,0,4.3,m,53,219.5,,,us,usp000csn4,2014-11-07T01:22:00.487Z,"21 km SW of Tirhanimîne, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-04-11T15:34:58.880Z,35.059,-3.983,0,4.1,m,44,262.5,,,us,usp000cs8r,2014-11-07T01:21:57.744Z,"13 km WSW of Bni Bouayach, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-04-09T07:23:55.070Z,34.832,-4.037,10,4,m,28,278.9,,0.52,us,usp000cs27,2014-11-07T01:21:56.187Z,"28 km ESE of Targuist, Morocco",earthquake,,,,,reviewed,us,mdd
+2004-04-06T01:53:09.280Z,35.059,-4.108,0,4.5,m,90,218.3,,,us,usp000crtr,2014-11-07T01:21:55.204Z,"23 km NE of Targuist, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-04-01T00:25:35.820Z,35.093,-4.099,0,4.1,mb,73,218.2,,,us,usp000crdb,2014-11-07T01:21:50.972Z,"20 km SW of Tirhanimîne, Morocco",earthquake,,,,5,reviewed,mdd,us
+2004-03-31T09:27:32.050Z,37.136,3.536,0,4.1,m,18,231.9,,,us,usp000crbs,2014-11-07T01:21:49.026Z,"41 km N of Boumerdas, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2004-03-25T22:38:39.140Z,35.052,-4.03,0,4.2,m,32,266.9,,,us,usp000cqw6,2014-11-07T01:21:47.032Z,"18 km WSW of Bni Bouayach, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-03-22T05:18:03.250Z,35.044,-3.988,11.5,4.1,m,31,265.4,,,us,usp000cqkn,2014-11-07T01:21:45.991Z,"15 km WSW of Bni Bouayach, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-03-22T02:28:47.540Z,34.914,-4.009,0,4,m,44,263.8,,,us,usp000cqkd,2014-11-07T01:21:45.948Z,"26 km SW of Bni Bouayach, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-03-20T09:37:26.460Z,35.007,-4.148,0,4.4,mb,125,225.5,,,us,usp000cqeq,2014-11-07T01:21:45.104Z,"17 km ENE of Targuist, Morocco",earthquake,,,,8,reviewed,mdd,us
+2004-03-16T02:58:16.450Z,34.941,-4.052,0,4,m,36,264.6,,,us,usp000cq2c,2014-11-07T01:21:43.126Z,"24 km E of Targuist, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-03-15T22:18:29.190Z,34.908,-4.066,0,4.5,m,50,265.2,,,us,usp000cq1p,2014-11-07T01:21:43.079Z,"23 km E of Targuist, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-03-15T12:39:13.160Z,35.119,-4.2,11.4,4.4,m,39,265,,,us,usp000cq0n,2014-11-07T01:21:42.453Z,"22 km NNE of Targuist, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-03-14T22:40:05.950Z,36.337,-8.419,10.6,4.2,m,44,270.1,,,us,usp000cpyz,2014-11-07T01:21:42.290Z,"84 km S of Carvoeiro, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2004-03-12T17:31:07.550Z,35.116,-3.96,0,4.4,m,39,261.5,,,us,usp000cps7,2014-11-07T01:21:41.290Z,"10 km WSW of Imzouren, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-03-12T17:21:51.820Z,34.935,-4.041,0,4.7,mb,199,59.1,,,us,usp000cps6,2022-05-02T17:05:34.801Z,"25 km E of Targuist, Morocco",earthquake,,,,42,reviewed,mdd,us
+2004-03-10T04:22:18.510Z,35.043,-4.103,0,4,mb,89,215.1,,,us,usp000cpj6,2014-11-07T01:21:40.464Z,"22 km ENE of Targuist, Morocco",earthquake,,,,3,reviewed,mdd,us
+2004-03-09T02:27:16.020Z,39.505,-12.818,0,4.1,m,13,285.3,,,us,usp000cpfe,2014-11-07T01:21:40.050Z,"296 km W of Peniche, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2004-03-07T15:38:56.670Z,34.95,-4.005,0,4.1,m,45,263.3,,,us,usp000cpbz,2014-11-07T01:21:39.574Z,"22 km SW of Bni Bouayach, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-03-07T06:37:52.270Z,35.036,-4.022,0,5.1,mwc,274,45,,,us,usp000cpa6,2022-05-02T17:04:52.903Z,"18 km WSW of Bni Bouayach, Morocco",earthquake,,,,,reviewed,mdd,hrv
+2004-03-06T09:11:00.780Z,35.133,-3.943,0,4,m,27,268.6,,,us,usp000cp7m,2014-11-07T01:21:38.935Z,"8 km W of Imzouren, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-03-05T15:52:49.810Z,35.139,-3.942,0,4,m,29,265.1,,,us,usp000cp5k,2014-11-07T01:21:38.655Z,"8 km W of Imzouren, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-03-04T22:24:29.010Z,35.175,-3.952,0,4,m,43,260.6,,,us,usp000cp3n,2014-11-07T01:21:38.386Z,"6 km S of Tirhanimîne, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-03-04T14:16:30.350Z,35.236,-3.891,0,4.2,m,20,263.1,,,us,usp000cp2p,2014-11-07T01:21:38.206Z,"4 km ESE of Al Hoceïma, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-03-04T11:44:14.200Z,35.174,-3.993,0,4.3,m,41,260.8,,,us,usp000cp2a,2014-11-07T01:21:38.158Z,"7 km SSW of Tirhanimîne, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-03-03T01:45:22.280Z,35.136,-4.042,10,4.5,m,40,261.7,,1.01,us,usp000cnyn,2014-11-07T01:21:37.379Z,"13 km SW of Tirhanimîne, Morocco",earthquake,,,,,reviewed,us,mdd
+2004-03-02T20:36:26.810Z,35.148,-3.867,0,4.5,mb,90,138.3,,,us,usp000cnxz,2014-11-07T01:21:37.211Z,"1 km W of Imzouren, Morocco",earthquake,,,,3,reviewed,mdd,us
+2004-03-02T14:56:18.350Z,35.083,-3.962,5.2,4.2,m,26,270.5,,,us,usp000cnxh,2014-11-07T01:21:36.992Z,"11 km WSW of Bni Bouayach, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-03-01T04:59:25.700Z,35.157,-3.954,0,4,m,31,264.7,,,us,usp000cnt2,2014-11-07T01:21:35.194Z,"8 km S of Tirhanimîne, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-03-01T02:18:10.710Z,35.156,-3.956,0,4,m,28,267.3,,,us,usp000cnsv,2014-11-07T01:21:35.139Z,"8 km S of Tirhanimîne, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-29T10:14:06.910Z,35.087,-3.953,6.7,4,m,33,261.9,,,us,usp000cnqs,2014-11-07T01:21:32.278Z,"10 km W of Bni Bouayach, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-28T16:29:25.250Z,35.023,-4.013,23.8,4.2,mb,89,225.2,,,us,usp000cnn2,2014-11-07T01:21:32.027Z,"18 km WSW of Bni Bouayach, Morocco",earthquake,,,,4,reviewed,mdd,us
+2004-02-27T16:53:44.710Z,35.247,-3.86,13.3,4,m,15,265,,,us,usp000cnhh,2014-11-07T01:21:31.408Z,"7 km E of Al Hoceïma, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-27T16:50:42.660Z,35.194,-3.927,0,4.6,mblg,56,260.1,,,us,usp000cnhg,2014-11-07T01:21:31.402Z,"5 km SSE of Tirhanimîne, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-27T00:59:01.020Z,35.098,-4.02,18.5,4.4,mb,85,219.9,,1.07,us,usp000cnem,2014-11-07T01:21:30.190Z,"16 km WSW of Imzouren, Morocco",earthquake,,25.8,,4,reviewed,us,us
+2004-02-26T21:14:08.950Z,34.902,-3.95,22.5,4,m,29,278.1,,,us,usp000cndp,2014-11-07T01:21:29.591Z,"24 km SSW of Bni Bouayach, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-26T12:07:04.260Z,35.233,-4.182,10.8,5,mwc,272,45.6,,1.06,us,usp000cncf,2020-07-08T01:33:16.938Z,"20 km W of Tirhanimîne, Morocco",earthquake,,,,,reviewed,us,hrv
+2004-02-26T09:29:58.870Z,35.086,-4.041,0,4.2,m,41,236.8,,,us,usp000cnc1,2014-11-07T01:21:29.378Z,"18 km W of Bni Bouayach, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-26T06:08:33.740Z,35.252,-4.103,0,4.2,m,37,246.4,,,us,usp000cnbf,2014-11-07T01:21:29.303Z,"Strait of Gibraltar",earthquake,,,,,reviewed,mdd,mdd
+2004-02-25T16:33:28.810Z,35.17,-3.941,0,4.5,m,64,145.8,,,us,usp000cn89,2014-11-07T01:21:28.629Z,"7 km S of Tirhanimîne, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-25T12:44:57.450Z,35.278,-4.113,10.1,5.3,mwc,283,45.1,,1.14,us,usp000cn7h,2022-05-02T17:03:54.926Z,"15 km WNW of Tirhanimîne, Morocco",earthquake,,,,,reviewed,us,hrv
+2004-02-25T10:05:19.420Z,35.171,-4.047,0,4.4,m,38,263.5,,,us,usp000cn72,2014-11-07T01:21:28.116Z,"11 km SW of Tirhanimîne, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-25T07:34:01.700Z,35.285,-3.94,0,4.1,m,29,258.8,,,us,usp000cn6r,2014-11-07T01:21:28.068Z,"3 km N of Al Hoceïma, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-25T07:24:53.800Z,35.222,-3.977,0,4.1,m,25,263.5,,,us,usp000cn6q,2014-11-07T01:21:28.064Z,"2 km SW of Tirhanimîne, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-25T05:21:14.310Z,35.122,-3.931,0,4.5,mb,205,44.9,,,us,usp000cn6f,2014-11-07T01:21:28.033Z,"7 km WSW of Imzouren, Morocco",earthquake,,,,36,reviewed,mdd,us
+2004-02-25T04:11:31.590Z,35.108,-3.984,0,4,m,40,264.2,,,us,usp000cn61,2014-11-07T01:21:27.694Z,"12 km WSW of Imzouren, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-25T00:13:31.480Z,35.178,-3.97,0.9,4,m,29,264.4,,,us,usp000cn53,2014-11-07T01:21:27.631Z,"6 km SSW of Tirhanimîne, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-25T00:11:14.210Z,35.157,-4.065,5.6,4.1,m,37,261.5,,,us,usp000cn52,2014-11-07T01:21:27.614Z,"13 km SW of Tirhanimîne, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-24T23:58:47.090Z,35.177,-3.836,14.4,4,m,38,259.4,,,us,usp000cn4z,2014-11-07T01:21:27.607Z,"3 km NNE of Imzouren, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-24T20:37:02.250Z,35.115,-3.952,6,4.7,m,59,230.1,,,us,usp000cn44,2014-11-07T01:21:27.065Z,"9 km WSW of Imzouren, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-24T18:53:02.480Z,35.077,-3.905,9.5,4.8,mb,52,243.1,,,us,usp000cn3v,2014-11-07T01:21:27.032Z,"6 km WSW of Bni Bouayach, Morocco",earthquake,,,,1,reviewed,mdd,us
+2004-02-24T16:42:12.290Z,35.055,-4.078,26,4.3,mb,93,225.1,,,us,usp000cn39,2014-11-07T01:21:26.981Z,"22 km WSW of Bni Bouayach, Morocco",earthquake,,,,11,reviewed,mdd,us
+2004-02-24T15:42:16.510Z,35.201,-3.995,0,4,m,21,264.2,,,us,usp000cn2y,2014-11-07T01:21:26.961Z,"5 km SW of Tirhanimîne, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-24T14:10:58.500Z,35.127,-3.983,0,4.1,m,40,265.2,,,us,usp000cn2j,2014-11-07T01:21:26.926Z,"12 km W of Imzouren, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-24T11:04:44.400Z,35.176,-4.083,0,4.4,mb,114,146.5,,,us,usp000cn1s,2014-11-07T01:21:26.853Z,"13 km WSW of Tirhanimîne, Morocco",earthquake,,,,21,reviewed,mdd,us
+2004-02-24T10:10:22.230Z,35.159,-3.9,0,4,m,39,260.1,,,us,usp000cn1k,2014-11-07T01:21:26.836Z,"4 km WNW of Imzouren, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-24T09:34:32.100Z,35.238,-3.948,7,4.1,m,39,259.5,,,us,usp000cn1c,2014-11-07T01:21:26.813Z,"0 km ENE of Tirhanimîne, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-24T09:01:51.060Z,35.174,-3.976,0,4.6,m,47,260.3,,,us,usp000cn15,2014-11-07T01:21:26.793Z,"7 km SSW of Tirhanimîne, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-24T07:38:49.160Z,35.045,-3.9,26.1,4.4,m,27,273.6,,,us,usp000cn0m,2014-11-07T01:21:26.254Z,"8 km SW of Bni Bouayach, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-24T07:07:59.770Z,35.244,-4.002,0,4,m,21,261.8,,,us,usp000cn0f,2014-11-07T01:21:26.220Z,"4 km WNW of Tirhanimîne, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-24T06:20:19.420Z,35.291,-3.894,0,4.3,m,39,260.7,,,us,usp000cn02,2014-11-07T01:21:26.181Z,"5 km NE of Al Hoceïma, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-24T04:55:36.120Z,35.201,-3.952,0,4.2,m,40,260,,,us,usp000cmyz,2014-11-07T01:21:26.049Z,"3 km S of Tirhanimîne, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-24T04:16:52.680Z,35.273,-4.009,11.8,4.1,m,10,259.9,,,us,usp000cmyf,2014-11-07T01:21:26.007Z,"6 km NW of Tirhanimîne, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-24T04:13:52.680Z,35.082,-3.928,0,4.1,mb,58,236,,,us,usp000cmyd,2014-11-07T01:21:25.998Z,"8 km WSW of Bni Bouayach, Morocco",earthquake,,,,1,reviewed,mdd,us
+2004-02-24T03:43:23.900Z,35.144,-4.051,0,4.3,m,33,264,,,us,usp000cmy5,2014-11-07T01:21:25.974Z,"13 km SW of Tirhanimîne, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-24T03:37:45.280Z,35.344,-3.578,23,4,m,29,258.8,,,us,usp000cmy4,2014-11-07T01:21:25.970Z,"33 km NE of Imzouren, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-24T03:27:14.950Z,35.194,-3.979,2.3,4.4,m,54,260.3,,,us,usp000cmy1,2014-11-07T01:21:25.960Z,"5 km SSW of Tirhanimîne, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-24T03:17:40.790Z,34.683,-4.051,16.7,4.7,m,54,263.2,,,us,usp000cmxz,2014-11-07T01:21:25.950Z,"37 km SE of Targuist, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-24T03:06:22.040Z,35.322,-3.934,0,4.2,m,34,259,,,us,usp000cmxv,2014-11-07T01:21:25.938Z,"7 km N of Al Hoceïma, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-24T02:59:03.120Z,35.25,-3.984,0,4.2,mb,88,220.2,,,us,usp000cmxu,2014-11-07T01:21:25.930Z,"3 km WNW of Tirhanimîne, Morocco",earthquake,,,,2,reviewed,mdd,us
+2004-02-24T02:48:02.170Z,35.084,-3.941,0.5,4.7,m,60,261.3,,,us,usp000cmxr,2014-11-07T01:21:25.918Z,"9 km WSW of Bni Bouayach, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-24T02:39:00.610Z,35.18,-3.921,10.6,4.4,m,18,264.2,,,us,usp000cmxn,2014-11-07T01:21:25.909Z,"6 km SSE of Tirhanimîne, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-24T02:37:56.540Z,35.274,-4.098,2.8,4.3,m,4,297.6,,,us,usp000cmxm,2014-11-07T01:21:25.907Z,"13 km WNW of Tirhanimîne, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-24T02:32:18.300Z,35.173,-3.955,0,4.7,m,18,266.3,,,us,usp000cmxg,2014-11-07T01:21:25.895Z,"7 km S of Tirhanimîne, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-24T02:31:19.280Z,35.277,-3.936,0,4.5,m,7,266,,,us,usp000cmxf,2014-11-07T01:21:25.893Z,"2 km N of Al Hoceïma, Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-02-24T02:27:46.230Z,35.142,-3.997,0,6.4,mwb,786,19.8,,,us,usp000cmxe,2022-05-02T17:03:33.687Z,"11 km SSW of Tirhanimîne, Morocco",earthquake,,,,,reviewed,mdd,us
+2004-02-23T17:31:21.100Z,47.272,6.271,17.4,4.4,mb,281,9,,,us,usp000cmwa,2014-11-07T01:21:25.239Z,"5 km SSE of Roulans, France",earthquake,,,,6,reviewed,ldg,us
+2004-02-03T21:16:13.500Z,42.576,0.83,3,4,ml,90,32.4,,,us,usp000ckbv,2014-11-07T01:21:16.871Z,"14 km SSE of Vielha, Spain",earthquake,,,,,reviewed,ldg,str
+2004-01-10T18:38:14.810Z,36.852,3.418,10,4.5,mb,190,38.5,,0.99,us,usp000chm5,2021-10-20T17:32:49.083Z,"10 km NNW of Boumerdas, Algeria",earthquake,,,,21,reviewed,us,us
+2003-11-16T21:36:13.150Z,37.571,-2.712,0,4.5,mb,101,57.1,,,us,usp000cd0c,2014-11-07T01:20:29.902Z,"4 km SSW of Benamaurel, Spain",earthquake,,,,2,reviewed,mdd,us
+2003-11-09T10:20:10.120Z,37.06,-5.342,8.2,4,ml,46,69.2,,,us,usp000cce8,2014-11-07T01:20:26.007Z,"12 km SE of Morón de la Frontera, Spain",earthquake,,,,,reviewed,mdd,ldg
+2003-10-13T03:28:18.700Z,43.413,-0.598,5,4,ml,87,67.9,,,us,usp000ca9g,2014-11-07T01:20:11.543Z,"2 km NW of Artix, France",earthquake,,,,,reviewed,ldg,ldg
+2003-09-21T10:34:16.320Z,39.412,0.007,10.3,4.1,mb,163,49.4,,,us,usp000c865,2014-11-07T01:19:53.633Z,"28 km ENE of El Perelló, Spain",earthquake,,,,9,reviewed,mdd,us
+2003-09-21T09:58:55.110Z,39.393,0.035,9.3,4.6,ml,111,87.1,,,us,usp000c85z,2014-11-07T01:19:53.608Z,"29 km ENE of El Perelló, Spain",earthquake,,,,,reviewed,mdd,ldg
+2003-09-20T11:50:49.870Z,36.787,7.241,10,4.6,mb,146,135.1,,1.18,us,usp000c834,2014-11-07T01:19:52.587Z,"13 km ENE of Azzaba, Algeria",earthquake,,,,4,reviewed,us,us
+2003-09-16T20:19:48.920Z,39.39,0.015,5.6,4.1,ml,85,86.4,,,us,usp000c7rn,2014-11-07T01:19:50.250Z,"28 km ENE of El Perelló, Spain",earthquake,,,,,reviewed,mdd,str
+2003-09-16T11:02:47.860Z,39.394,0.014,9.6,4.6,ml,120,70.8,,,us,usp000c7q1,2014-11-07T01:19:49.960Z,"28 km ENE of El Perelló, Spain",earthquake,,,,,reviewed,mdd,ldg
+2003-09-01T19:28:11.490Z,44.27,7.42,1.9,4,ml,120,25,,,us,usp000c6fk,2014-11-07T01:19:40.552Z,"1 km ESE of Valdieri, Italy",earthquake,,,,,reviewed,gen,gen
+2003-08-22T09:30:09.200Z,46.3,7.3,4,4,ml,141,24,,,us,usp000c5m0,2014-11-07T01:19:34.336Z,"6 km NNW of Savièse, Switzerland",earthquake,,,,,reviewed,zur,ldg
+2003-08-22T09:21:31.100Z,46.3,7.3,4,4.2,ml,162,24,,,us,usp000c5kx,2014-11-07T01:19:34.316Z,"6 km NNW of Savièse, Switzerland",earthquake,,,,,reviewed,zur,grf
+2003-07-29T05:31:26.740Z,35.694,-10.565,10,5.4,mwc,452,28.6,,1.15,us,usp000c3mp,2016-11-09T23:05:50.345Z,"206 km SW of Sagres, Portugal",earthquake,,,,,reviewed,us,hrv
+2003-07-20T13:12:05.380Z,38.002,0.631,16.1,4.1,ml,90,175.8,,,us,usp000c2yh,2014-11-07T01:19:16.069Z,"87 km SSE of Moraira, Spain",earthquake,,,,,reviewed,mdd,str
+2003-07-14T22:52:21.360Z,36.746,3.529,10,4.1,ml,77,220.4,,0.76,us,usp000c2gx,2014-11-07T01:19:12.556Z,"3 km NW of Thenia, Algeria",earthquake,,,,,reviewed,us,str
+2003-07-05T20:03:33.520Z,37.239,3.649,10,4.5,mb,115,178.2,,1.26,us,usp000c1r6,2014-11-07T01:19:08.504Z,"42 km NNW of Dellys, Algeria",earthquake,,,,11,reviewed,us,us
+2003-06-20T14:43:52.870Z,37.984,-0.56,7.7,4.4,ml,120,95.7,,,us,usp000c0bk,2014-11-07T01:18:57.981Z,"10 km E of Torrevieja, Spain",earthquake,,,,,reviewed,mdd,ldg
+2003-06-10T22:59:49.320Z,44.783,7.627,19.9,4.2,mb,166,28.7,,,us,usp000bzke,2014-11-07T01:18:54.280Z,"1 km NNE of Piobesi Torinese, Italy",earthquake,,,,1,reviewed,gen,us
+2003-06-02T22:30:55.960Z,36.841,3.46,10,4.1,mb,127,114.7,,0.94,us,usp000bywb,2014-11-07T01:18:49.381Z,"8 km N of Boumerdas, Algeria",earthquake,,,,11,reviewed,us,us
+2003-06-01T06:07:18.790Z,36.969,4.006,10,4,mb,118,176.9,,0.98,us,usp000bypx,2014-11-07T01:18:47.502Z,"10 km NE of Dellys, Algeria",earthquake,,,,1,reviewed,us,us
+2003-06-01T02:54:16.360Z,36.842,4.186,10,4.1,mb,110,217.2,,0.9,us,usp000bypd,2014-11-07T01:18:47.207Z,"5 km NE of Boudjima, Algeria",earthquake,,,,1,reviewed,us,us
+2003-05-29T02:14:59.830Z,36.817,3.36,10,5.2,mwc,296,50,,1.18,us,usp000byej,2022-05-02T16:35:35.299Z,"7 km ENE of Aïn Taya, Algeria",earthquake,,,,,reviewed,us,hrv
+2003-05-28T19:05:20.070Z,37.058,3.649,10,4.3,mb,165,110,,1.25,us,usp000byds,2014-11-07T01:18:44.054Z,"28 km WNW of Dellys, Algeria",earthquake,,,,11,reviewed,us,us
+2003-05-28T06:58:37.650Z,36.877,3.274,10,5,mb,237,92.1,,1.16,us,usp000byck,2014-11-07T01:18:43.890Z,"9 km N of Aïn Taya, Algeria",earthquake,,,,22,reviewed,us,us
+2003-05-27T17:19:36.130Z,36.894,3.739,10,4.2,ml,44,228.2,,0.93,us,usp000byag,2014-11-07T01:18:43.663Z,"15 km W of Dellys, Algeria",earthquake,,,,,reviewed,us,ldg
+2003-05-27T17:11:28.820Z,36.939,3.578,8,5.8,mwb,468,44.2,,1.15,us,usp000byae,2022-05-02T16:35:15.191Z,"northern Algeria",earthquake,,,,,reviewed,us,us
+2003-05-26T20:31:31.190Z,37.023,3.719,10,4,mb,132,174.1,,1.23,us,usp000by7q,2014-11-07T01:18:43.081Z,"20 km NW of Dellys, Algeria",earthquake,,,,3,reviewed,us,us
+2003-05-25T23:03:32.400Z,45.144,6.477,6,4,ml,146,23.8,,,us,usp000by5b,2014-11-07T01:18:42.664Z,"4 km ESE of Valloire, France",earthquake,,,,,reviewed,ldg,pdg
+2003-05-24T19:21:24.770Z,37.04,3.967,10,4.7,mb,175,90.6,,1.18,us,usp000by26,2014-11-07T01:18:41.982Z,"14 km NNE of Dellys, Algeria",earthquake,,,,25,reviewed,us,us
+2003-05-24T15:51:42.780Z,37.096,3.762,10,4.6,mb,143,136.8,,1.01,us,usp000by1p,2014-11-07T01:18:41.911Z,"23 km NW of Dellys, Algeria",earthquake,,,,13,reviewed,us,us
+2003-05-24T03:10:35.250Z,37.028,3.955,10,4.5,mb,121,130.4,,1.02,us,usp000by07,2014-11-07T01:18:41.762Z,"12 km NNE of Dellys, Algeria",earthquake,,,,7,reviewed,us,us
+2003-05-23T00:08:55.540Z,36.941,3.746,10,4.4,mb,167,175.1,,1.03,us,usp000bxwc,2014-11-07T01:18:41.178Z,"15 km W of Dellys, Algeria",earthquake,,,,9,reviewed,us,us
+2003-05-22T13:57:20.630Z,37.03,3.93,10,5.2,mwc,245,71.1,,1.14,us,usp000bxv0,2022-05-02T16:33:42.490Z,"12 km N of Dellys, Algeria",earthquake,,,,,reviewed,us,hrv
+2003-05-22T13:56:50.260Z,36.984,3.955,10,4.3,ml,61,213.2,,0.9,us,usp000bxuz,2014-11-07T01:18:40.960Z,"8 km NNE of Dellys, Algeria",earthquake,,,,,reviewed,us,ldg
+2003-05-22T12:51:30.180Z,36.911,3.835,10,4.3,mb,140,107,,1.05,us,usp000bxuq,2014-11-07T01:18:40.928Z,"6 km W of Dellys, Algeria",earthquake,,,,11,reviewed,us,us
+2003-05-22T11:11:05.310Z,37.139,3.847,10,4.8,mb,180,90.9,,1.25,us,usp000bxue,2014-11-07T01:18:40.877Z,"25 km NNW of Dellys, Algeria",earthquake,,,,30,reviewed,us,us
+2003-05-22T06:27:08.270Z,37.168,3.887,10,4.4,mb,150,136.2,,1.22,us,usp000bxtn,2014-11-07T01:18:40.791Z,"27 km N of Dellys, Algeria",earthquake,,,,18,reviewed,us,us
+2003-05-22T04:45:58.900Z,37.068,3.561,10,4.6,mb,100,81.4,,1.1,us,usp000bxtf,2014-11-07T01:18:40.735Z,"34 km NNE of Boumerdas, Algeria",earthquake,,,,8,reviewed,us,us
+2003-05-22T04:19:24.290Z,36.989,3.687,10,4.6,mb,88,211.9,,0.93,us,usp000bxtb,2014-11-07T01:18:40.706Z,"21 km WNW of Dellys, Algeria",earthquake,,,,3,reviewed,us,us
+2003-05-22T03:14:03.850Z,37.08,3.635,10,5.1,mwc,377,61.8,,1.11,us,usp000bxt4,2022-05-02T16:33:41.161Z,"30 km NW of Dellys, Algeria",earthquake,,,,,reviewed,us,hrv
+2003-05-22T01:55:11.570Z,36.763,3.444,10,4.3,mb,84,215.4,,0.93,us,usp000bxsx,2014-11-07T01:18:40.465Z,"2 km W of Boumerdas, Algeria",earthquake,,,,2,reviewed,us,us
+2003-05-22T01:39:13.620Z,36.879,3.628,10,4.4,mb,131,132.3,,1.08,us,usp000bxst,2014-11-07T01:18:40.444Z,"18 km NNE of Thenia, Algeria",earthquake,,,,16,reviewed,us,us
+2003-05-22T01:37:43.550Z,36.861,3.461,10,4.3,mb,74,213.5,,1.03,us,usp000bxss,2014-11-07T01:18:40.437Z,"10 km N of Boumerdas, Algeria",earthquake,,,,1,reviewed,us,us
+2003-05-21T23:23:43.890Z,36.925,3.499,10,4.9,mb,200,56.2,,1.15,us,usp000bxs4,2014-11-07T01:18:40.316Z,"17 km N of Boumerdas, Algeria",earthquake,,,,29,reviewed,us,us
+2003-05-21T23:18:27.630Z,36.964,3.818,10,4.5,mb,159,83.7,,1.1,us,usp000bxs3,2014-11-07T01:18:40.301Z,"9 km WNW of Dellys, Algeria",earthquake,,,,26,reviewed,us,us
+2003-05-21T22:18:47.650Z,37.066,3.604,10,4.6,mb,113,137.2,,1.11,us,usp000bxrq,2014-11-07T01:18:40.246Z,"32 km WNW of Dellys, Algeria",earthquake,,,,3,reviewed,us,us
+2003-05-21T22:04:10.220Z,37.065,3.93,10,4.7,mb,217,44.7,,1.12,us,usp000bxrp,2014-11-07T01:18:40.219Z,"16 km N of Dellys, Algeria",earthquake,,,,22,reviewed,us,us
+2003-05-21T21:53:29.320Z,36.798,3.495,10,4,mb,82,178.6,,1.12,us,usp000bxrj,2014-11-07T01:18:40.198Z,"3 km NNE of Boumerdas, Algeria",earthquake,,,,1,reviewed,us,us
+2003-05-21T21:10:55.470Z,36.827,3.614,10,4,ml,66,217,,1.03,us,usp000bxqw,2014-11-07T01:18:40.135Z,"12 km NNE of Thenia, Algeria",earthquake,,,,,reviewed,us,ldg
+2003-05-21T20:30:22.890Z,36.923,3.583,10,4.4,mb,128,138.9,,1.09,us,usp000bxqe,2014-11-07T01:18:40.069Z,"19 km NNE of Boumerdas, Algeria",earthquake,,,,12,reviewed,us,us
+2003-05-21T20:07:07.290Z,36.926,3.633,10,4.4,mb,129,77.2,,1.03,us,usp000bxq7,2014-11-07T01:18:39.890Z,"22 km NE of Boumerdas, Algeria",earthquake,,,,16,reviewed,us,us
+2003-05-21T19:57:11.310Z,36.893,3.525,10,4.1,mb,87,177.7,,1.19,us,usp000bxq3,2014-11-07T01:18:39.848Z,"14 km NNE of Boumerdas, Algeria",earthquake,,,,3,reviewed,us,us
+2003-05-21T19:37:32.520Z,36.635,3.461,10,4.1,ml,85,218.1,,1.14,us,usp000bxpz,2014-11-07T01:18:39.826Z,"8 km E of Arbatache, Algeria",earthquake,,,,,reviewed,us,ldg
+2003-05-21T19:29:19.470Z,36.906,3.86,10,4.4,mb,77,214.4,,1.18,us,usp000bxpv,2014-11-07T01:18:39.799Z,"4 km WSW of Dellys, Algeria",earthquake,,,,1,reviewed,us,us
+2003-05-21T19:17:10.740Z,36.953,3.894,10,4.1,ml,79,174.6,,1.05,us,usp000bxpr,2014-11-07T01:18:39.783Z,"4 km NNW of Dellys, Algeria",earthquake,,,,,reviewed,us,ldg
+2003-05-21T19:13:07.610Z,36.981,3.929,10,4.5,mb,152,44.7,,1.12,us,usp000bxpq,2014-11-07T01:18:39.769Z,"7 km NNE of Dellys, Algeria",earthquake,,,,17,reviewed,us,us
+2003-05-21T19:09:18.280Z,36.938,3.793,10,4.2,mb,46,186.6,,1,us,usp000bxpn,2014-11-07T01:18:39.763Z,"northern Algeria",earthquake,,,,1,reviewed,us,us
+2003-05-21T19:02:07.400Z,36.999,3.676,10,5.1,mb,176,66.2,,1.05,us,usp000bxpm,2014-11-07T01:18:39.747Z,"22 km WNW of Dellys, Algeria",earthquake,,,,31,reviewed,us,us
+2003-05-21T18:51:10.300Z,36.97,3.813,10,5.7,mb,197,66.3,,1.15,us,usp000bxph,2022-05-02T16:33:40.304Z,"10 km WNW of Dellys, Algeria",earthquake,,,,59,reviewed,us,us
+2003-05-21T18:44:20.100Z,36.964,3.634,12,6.8,mwc,534,19.4,,1.13,us,usp000bxpg,2022-05-02T16:33:38.890Z,"25 km WNW of Dellys, Algeria",earthquake,,,,,reviewed,us,hrv
+2003-04-29T04:55:09.100Z,46.3,7.6,8,4.3,ml,172,16.5,,,us,usp000bw69,2014-11-07T01:18:27.123Z,"2 km SSW of Varen, Switzerland",earthquake,,,,,reviewed,zur,grf
+2003-02-26T03:32:57.200Z,42.303,2.224,7.5,4.4,ml,152,,,,us,usp000brgj,2014-11-07T01:17:52.228Z,"4 km E of Ribes de Freser, Spain",earthquake,,,,,reviewed,mrb,ldg
+2003-02-18T13:09:36.120Z,35.836,-3.487,10,4.7,mb,187,,,1.07,us,usp000bqy4,2014-11-07T01:17:49.382Z,"76 km NNE of Al Hoceïma, Morocco",earthquake,,,,52,reviewed,us,us
+2003-02-14T04:49:17.200Z,46.4,-0.81,10,4.1,ml,68,,,,us,usp000bqn0,2014-11-07T01:17:48.198Z,"5 km NE of Vix, France",earthquake,,,,,reviewed,str,ldg
+2003-01-24T20:35:01.810Z,37.775,-4.63,6.4,4,mb,86,,,,us,usp000bp46,2020-04-16T17:48:57.424Z,"12 km NNW of Espejo, Spain",earthquake,,,,1,reviewed,mdd,us
+2003-01-23T10:13:18.240Z,41.541,-6.005,6.2,4.5,mb,114,,,,us,usp000bp1r,2014-11-07T01:17:37.416Z,"4 km ENE of Villalcampo, Spain",earthquake,,,,1,reviewed,mdd,us
+2003-01-21T18:01:01.400Z,43.12,-0.362,5,4.6,ml,109,,,,us,usp000bny7,2014-11-07T01:17:37.006Z,"5 km NE of Louvie-Juzon, France",earthquake,,,,,reviewed,ldg,ldg
+2003-01-12T15:56:35.600Z,41.532,-6.001,3.1,4.3,mblg,78,,,,us,usp000bnew,2014-11-07T01:17:35.001Z,"4 km ENE of Villalcampo, Spain",earthquake,,,,,reviewed,mdd,mdd
+2003-01-01T00:55:55.880Z,36.132,2.911,10,4.8,mb,132,,,1.04,us,usp000bmuh,2014-11-07T01:17:29.038Z,"0 km S of Berrouaghia, Algeria",earthquake,,,,50,reviewed,us,us
+2002-12-12T17:59:51.950Z,43.024,-0.357,0,4.8,mb,161,,,,us,usp000bkk0,2014-11-07T01:17:20.507Z,"6 km NE of Laruns, France",earthquake,,,,4,reviewed,str,us
+2002-12-11T20:09:51.500Z,43.05,-0.32,10,4.3,ml,105,,,,us,usp000bkhr,2014-11-07T01:17:20.293Z,"9 km ESE of Louvie-Juzon, France",earthquake,,,,,reviewed,str,ldg
+2002-12-10T13:51:26.700Z,36.195,-7.472,10,5.2,mwc,244,,,1.16,us,usp000bkey,2016-11-10T00:10:11.885Z,"98 km SSE of Olhão, Portugal",earthquake,,,,,reviewed,us,hrv
+2002-11-21T19:01:11.500Z,36.587,-4.441,98.6,4.3,mb,120,,,0.84,us,usp000bj4j,2014-11-07T01:17:10.181Z,"6 km SE of Torremolinos, Spain",earthquake,,2.5,,2,reviewed,us,us
+2002-09-15T20:54:19.080Z,37.163,-5.271,3.8,4.1,mblg,82,,,,us,usp000bcav,2014-11-07T01:16:31.509Z,"7 km SSE of La Puebla de Cazalla, Spain",earthquake,,,,,reviewed,mdd,mdd
+2002-09-05T20:42:15.400Z,43.13,-0.4,4,4.1,ml,56,,,,us,usp000bbam,2014-11-07T01:16:26.979Z,"3 km NE of Arudy, France",earthquake,,,,,reviewed,str,ldg
+2002-08-24T10:08:07.250Z,36.457,-4.563,73,4.2,mb,110,,,1.11,us,usp000baht,2014-11-07T01:16:19.919Z,"10 km SSE of Fuengirola, Spain",earthquake,,3.8,,12,reviewed,us,us
+2002-08-06T11:55:16.350Z,37.945,-1.81,0,4.1,ml,75,,,,us,usp000b9dm,2014-11-07T01:16:13.780Z,"16 km S of Cehegín, Spain",earthquake,,,,,reviewed,mdd,ldg
+2002-08-06T06:16:18.850Z,37.98,-1.891,10,4.7,mb,159,,,1.13,us,usp000b9d8,2014-11-07T01:16:13.713Z,"14 km S of Caravaca, Spain",earthquake,,,,50,reviewed,us,us
+2002-07-24T04:13:39.090Z,39.157,-11.83,10,4.4,mb,76,,,0.87,us,usp000b8p2,2014-11-07T01:16:06.400Z,"209 km W of Fontanelas, Portugal",earthquake,,,,24,reviewed,us,us
+2002-07-06T17:24:19.190Z,35.628,-3.925,10,4.4,mb,81,,,1.17,us,usp000b7md,2014-11-07T01:16:01.502Z,"41 km N of Al Hoceïma, Morocco",earthquake,,,,10,reviewed,us,us
+2002-05-16T15:14:46.100Z,42.955,-0.159,4,4.4,ml,108,,,,us,usp000b4eb,2014-11-07T01:15:37.946Z,"6 km W of Pierrefitte-Nestalas, France",earthquake,,,,,reviewed,ldg,ldg
+2002-05-16T14:56:34.700Z,42.929,-0.17,3,4.8,ml,160,,,,us,usp000b4e9,2014-11-07T01:15:37.923Z,"6 km NW of Cauterets, France",earthquake,,,,,reviewed,ldg,ldg
+2002-04-05T15:27:31.270Z,36.653,7.076,10,5,mb,25,,,0.93,us,usp000b1sw,2014-11-07T01:15:21.578Z,"9 km SSW of Azzaba, Algeria",earthquake,,,,5,reviewed,us,us
+2002-03-18T15:18:54.900Z,42.987,-1.94,5,4.1,ml,81,,,,us,usp000b0jz,2014-11-07T01:15:11.949Z,"5 km SE of Betelu, Spain",earthquake,,,,,reviewed,ldg,ldg
+2002-03-14T13:32:46.900Z,46.674,-1.082,5,4.1,ml,46,,,,us,usp000b09s,2014-11-07T01:15:08.846Z,"2 km WSW of Chantonnay, France",earthquake,,,,,reviewed,ldg,ldg
+2002-02-21T10:21:48.200Z,42.992,-1.991,10,4.4,ml,101,,,1.23,us,usp000ayw3,2014-11-07T01:14:56.999Z,"3 km SSW of Betelu, Spain",earthquake,,,,,reviewed,us,ldg
+2002-02-04T20:09:30.740Z,37.103,-2.609,20.9,5,mwc,256,,,1.19,us,usp000axsy,2016-11-09T21:48:20.492Z,"6 km WSW of Gérgal, Spain",earthquake,,2.7,,,reviewed,us,hrv
+2002-01-31T08:48:38.900Z,35.308,6.357,33,4.6,mb,51,,,0.96,us,usp000axh3,2014-11-07T01:14:47.144Z,"5 km N of Arris, Algeria",earthquake,,,,5,reviewed,us,us
+2001-12-13T01:53:41.650Z,35.085,7.47,10,4.6,mb,31,,,1.19,us,usp000auh4,2014-11-07T01:14:28.301Z,"33 km SW of Cheria, Algeria",earthquake,,,,1,reviewed,us,us
+2001-09-23T04:33:48.630Z,38.826,-0.076,5.5,4.2,ml,84,,,,us,usp000apn2,2014-11-07T01:13:50.025Z,"1 km NNW of Sagra, Spain",earthquake,,,,,reviewed,mdd,ldg
+2001-09-22T19:18:44.590Z,36.678,5.271,10,4.2,mb,106,,,0.99,us,usp000apma,2014-11-07T01:13:49.924Z,"18 km ESE of Bejaïa, Algeria",earthquake,,,,5,reviewed,us,us
+2001-08-09T12:25:06.100Z,40.219,-2.349,5.1,4.2,ml,49,,,,us,usp000am3k,2014-11-07T01:13:30.960Z,"5 km WSW of Villar de Domingo García, Spain",earthquake,,,,,reviewed,mdd,str
+2001-06-28T15:21:40.800Z,34.114,-6.522,22.7,4.6,mb,114,,,1.1,us,usp000ahn1,2014-11-07T01:13:08.729Z,"17 km SSE of Kenitra, Morocco",earthquake,,5.1,,17,reviewed,us,us
+2001-06-25T06:49:18.000Z,45.897,-1.418,2,4.2,ml,85,,,,us,usp000ahdf,2014-11-07T01:13:07.802Z,"10 km WSW of Saint-Pierre-d'Oléron, France",earthquake,,,,,reviewed,ldg,str
+2001-06-08T13:26:52.820Z,46.69,-0.99,12,5,mb,188,,,,us,usp000ag8y,2020-09-18T18:23:40.256Z,"France",earthquake,,,,2,reviewed,str,us
+2001-05-30T22:43:52.820Z,45.776,6.583,2.1,4.1,mb,101,,,,us,usp000aftj,2014-11-07T01:12:52.338Z,"6 km N of Beaufort, France",earthquake,,,,1,reviewed,gen,us
+2001-05-20T01:39:10.440Z,42.713,-7.701,9.7,4,ml,71,,,,us,usp000af7a,2014-11-07T01:12:49.130Z,"10 km E of Taboada, Spain",earthquake,,,,,reviewed,mdd,ldg
+2001-02-25T18:34:42.190Z,43.455,7.466,8.7,4.6,mb,196,,,,us,usp000aac3,2014-11-07T01:12:11.916Z,"28 km SSE of Saint-Jean-Cap-Ferrat, France",earthquake,,,,21,reviewed,gen,us
+2000-12-13T08:09:03.990Z,36.148,-5.571,71.6,4.3,mb,108,,,0.96,us,usp000a602,2014-11-07T01:11:43.669Z,"8 km WSW of Los Barrios, Spain",earthquake,,4.2,,4,reviewed,us,us
+2000-12-11T17:52:10.530Z,36.463,4.78,10,4.4,mb,96,,,1.15,us,usp000a5wy,2014-11-07T01:11:43.229Z,"12 km SE of Seddouk, Algeria",earthquake,,,,4,reviewed,us,us
+2000-11-20T20:49:11.780Z,35.644,5.848,33,4.4,mb,62,,,1.3,us,usp000a4hn,2014-11-07T01:11:32.160Z,"5 km WNW of Merouana, Algeria",earthquake,,,,2,reviewed,us,us
+2000-11-16T11:33:09.300Z,36.658,4.759,10,4.9,mb,190,,,1.14,us,usp000a3v4,2022-04-29T18:58:32.476Z,"northern Algeria",earthquake,,,,19,reviewed,us,us
+2000-11-10T23:16:28.380Z,36.47,4.842,10,4.5,mb,114,,,1.06,us,usp000a3cn,2014-11-07T01:11:27.389Z,"10 km S of Feraoun, Algeria",earthquake,,,,9,reviewed,us,us
+2000-11-10T22:09:20.740Z,36.618,4.725,10,4.4,mb,127,,,1.29,us,usp000a3cm,2014-11-07T01:11:27.378Z,"5 km SW of el hed, Algeria",earthquake,,,,7,reviewed,us,us
+2000-11-10T20:10:53.370Z,36.601,4.773,10,5.7,mwc,426,,,1.14,us,usp000a3cc,2022-04-29T19:16:46.843Z,"5 km S of el hed, Algeria",earthquake,,,,,reviewed,us,hrv
+2000-09-27T03:07:45.550Z,34.377,-5.121,10,4.6,mb,96,,,1.08,us,usp000a0vw,2014-11-07T01:11:07.818Z,"37 km NNW of Fès al Bali, Morocco",earthquake,,,,44,reviewed,us,us
+2000-08-18T18:15:06.490Z,36.196,4.972,10,5.2,mwc,215,,,1.29,us,usp0009yr6,2022-04-29T18:49:54.241Z,"13 km SE of Bordj Zemoura, Algeria",earthquake,,,,,reviewed,us,hrv
+2000-07-05T09:26:45.790Z,36.435,-7.917,10,4.5,mb,41,,,0.78,us,usp0009vtq,2014-11-07T01:10:32.201Z,"64 km S of Faro, Portugal",earthquake,,,,3,reviewed,us,us
+2000-07-02T05:36:24.360Z,36.022,1.372,10,4.3,mb,108,,,0.94,us,usp0009vk8,2014-11-07T01:10:29.972Z,"16 km SSE of Chlef, Algeria",earthquake,,,,13,reviewed,us,us
+2000-05-16T13:52:45.570Z,36.497,-10.901,10,4,mb,,,,1.14,us,usp0009t23,2014-11-07T01:10:08.676Z,"183 km WSW of Sagres, Portugal",earthquake,,,,1,reviewed,us,us
+2000-03-26T12:57:28.070Z,36.624,-9.563,15.5,4,mblg,,,,,us,usp0009q7z,2014-11-07T01:09:45.131Z,"69 km SW of Sagres, Portugal",earthquake,,,,,reviewed,mdd,mdd
+2000-03-18T01:29:10.490Z,35.325,-1.403,13.9,4,mblg,,,,,us,usp0009pur,2014-11-07T01:09:42.849Z,"3 km NW of Beni Saf, Algeria",earthquake,,,,,reviewed,mdd,mdd
+2000-03-13T04:16:07.700Z,43.297,-0.946,13.2,4.2,ml,,,,,us,usp0009pn3,2014-11-07T01:09:41.096Z,"7 km ESE of Saint-Palais, France",earthquake,,,,,reviewed,ldg,str
+2000-03-08T18:26:23.240Z,37.083,-12.21,10,4,mb,,,,1.02,us,usp0009pev,2014-11-07T01:09:40.175Z,"290 km W of Sagres, Portugal",earthquake,,,,2,reviewed,us,us
+2000-03-07T15:16:02.480Z,33.59,-12.629,10,4.5,mblg,,,,0.95,us,usp0009pd7,2014-11-07T01:09:39.946Z,"Madeira Islands, Portugal region",earthquake,,,,,reviewed,us,mdd
+2000-02-23T15:46:38.050Z,45.41,0.41,10,4.1,ml,,,,1.03,us,usp0009nve,2014-11-07T01:09:33.295Z,"5 km SW of Mareuil, France",earthquake,,,,,reviewed,us,ldg
+1999-12-22T17:57:13.920Z,35.293,-1.374,10,4.6,mblg,,,,1.18,us,usp0009k5n,2014-11-07T01:09:10.852Z,"1 km SE of Beni Saf, Algeria",earthquake,,,,,reviewed,us,mdd
+1999-12-22T17:36:56.240Z,35.321,-1.281,10,5.6,mwc,,,,1.19,us,usp0009k5j,2022-04-29T18:21:41.284Z,"9 km ENE of Beni Saf, Algeria",earthquake,,,,,reviewed,us,hrv
+1999-11-10T13:10:12.280Z,35.68,-4.634,110.2,4.7,mb,,,,1.05,us,usp0009hbp,2014-11-07T01:08:56.796Z,"58 km E of Martil, Morocco",earthquake,,5.1,,12,reviewed,us,us
+1999-10-30T09:22:12.090Z,36.949,-11.759,10,4.5,mblg,,,,0.71,us,usp0009gtu,2014-11-07T01:08:47.286Z,"250 km W of Sagres, Portugal",earthquake,,,,,reviewed,us,mdd
+1999-10-04T18:14:26.500Z,42.9,0.6,10,4.4,mb,,,,,us,usp0009few,2014-11-07T01:08:39.851Z,"12 km N of Bagnères-de-Luchon, France",earthquake,,,,3,reviewed,ldg,us
+1999-09-13T23:27:11.000Z,45.5,5.4,2,4,ml,,,,,us,usp0009edu,2014-11-07T01:08:28.589Z,"1 km NE of Biol, France",earthquake,,,,,reviewed,ldg,ldg
+1999-09-10T17:18:26.270Z,34.949,5.391,10,4.5,mblg,,,,0.98,us,usp0009e9r,2014-11-07T01:08:27.999Z,"25 km N of Tolga, Algeria",earthquake,,,,,reviewed,us,mdd
+1999-08-14T06:57:02.300Z,38.18,-1.69,2.4,4,ml,,,,,us,usp0009d0v,2014-11-07T01:08:16.336Z,"5 km S of Calasparra, Spain",earthquake,,,,,reviewed,mdd,ldg
+1999-08-04T09:02:54.890Z,35.575,-5.169,10,4.2,mb,,,,1.07,us,usp0009cke,2014-11-07T01:08:14.111Z,"10 km ESE of Martil, Morocco",earthquake,,,,6,reviewed,us,us
+1999-07-18T23:15:06.220Z,36.614,5.457,10,4,mblg,,,,1.16,us,usp0009btu,2014-11-07T01:08:06.948Z,"15 km NNW of BABOR - VILLE, Algeria",earthquake,,,,,reviewed,us,mdd
+1999-05-31T13:24:40.900Z,36.754,5.29,10,4.2,mb,,,,1.15,us,usp000992w,2014-11-07T01:07:44.989Z,"18 km E of Bejaïa, Algeria",earthquake,,,,4,reviewed,us,us
+1999-05-20T13:11:36.400Z,46.7,7.3,2,4.2,ml,,,,,us,usp00098cs,2014-11-07T01:07:41.892Z,"4 km SSE of Plaffeien, Switzerland",earthquake,,,,,reviewed,ldg,grf
+1999-03-17T06:04:34.320Z,35.827,6.078,10,4.4,mb,,,,1.16,us,usp00094nh,2014-11-07T01:07:14.193Z,"9 km ENE of Draa Klalouche, Algeria",earthquake,,,,15,reviewed,us,us
+1999-02-27T03:21:44.770Z,36.423,-12.331,10,4,mb,,,,1.04,us,usp00093he,2014-11-07T01:07:05.361Z,"Azores-Cape St. Vincent Ridge",earthquake,,,,3,reviewed,us,us
+1999-02-16T01:49:58.300Z,43.187,-1.347,10,4.3,ml,,,,1.21,us,usp00092wh,2014-11-07T01:07:01.971Z,"1 km N of Saint-Étienne-de-Baïgorry, France",earthquake,,,,,reviewed,us,str
+1999-02-14T05:57:53.750Z,46.852,7.132,10,4.7,ml,,,,1.28,us,usp00092sj,2020-09-15T20:35:58.536Z,"3 km NNE of Belfaux, Switzerland",earthquake,,,,,reviewed,us,ldg
+1999-02-02T13:45:16.860Z,38.193,-1.566,10,4.8,mb,,,,1.39,us,usp000924t,2020-07-08T00:45:45.372Z,"12 km ESE of Calasparra, Spain",earthquake,,,,35,reviewed,us,us
+1999-01-11T03:36:35.710Z,45.076,5.612,10,4.2,ml,,,,1.33,us,usp00090xk,2014-11-07T01:06:48.343Z,"2 km W of Saint-Paul-de-Varces, France",earthquake,,,,,reviewed,us,ldg
+1998-12-22T05:59:52.590Z,36.326,0.252,10,4,ml,,,,1.02,us,usp0009004,2014-11-07T01:06:41.179Z,"46 km NNE of Mostaganem, Algeria",earthquake,,,,,reviewed,us,ldg
+1998-12-14T00:39:13.930Z,35.078,6.156,10,4.2,mb,,,,0.99,us,usp0008zka,2014-11-07T01:06:39.060Z,"26 km SW of Arris, Algeria",earthquake,,,,6,reviewed,us,us
+1998-12-10T17:01:09.740Z,35.461,-0.097,10,4.5,mb,,,,0.72,us,usp0008ze8,2014-11-07T01:06:38.212Z,"11 km SE of Sig, Algeria",earthquake,,,,3,reviewed,us,us
+1998-12-08T02:41:47.760Z,37.05,-10.852,10,4.3,mblg,,,,0.68,us,usp0008zak,2014-11-07T01:06:37.173Z,"169 km W of Sagres, Portugal",earthquake,,,,,reviewed,us,mdd
+1998-11-18T23:18:09.710Z,37.004,-3.789,10,4,mblg,,,,0.92,us,usp0008ydg,2014-11-07T01:06:27.883Z,"4 km SE of Agrón, Spain",earthquake,,,,,reviewed,us,mdd
+1998-10-27T23:23:06.200Z,42.87,-1.97,15.6,4.6,mb,,,,,us,usp0008x5k,2020-07-08T00:45:08.895Z,"5 km WNW of Goñi, Spain",earthquake,,,,5,reviewed,mdd,us
+1998-10-27T20:16:48.190Z,35.702,5.996,10,4.7,mb,,,,0.93,us,usp0008x5f,2014-11-07T01:06:18.099Z,"10 km S of Draa Klalouche, Algeria",earthquake,,,,16,reviewed,us,us
+1998-10-20T23:47:03.790Z,34.844,-3.776,10,4.7,mblg,,,,1.06,us,usp0008wtv,2014-11-07T01:06:16.425Z,"24 km WSW of Midar, Morocco",earthquake,,,,,reviewed,us,mdd
+1998-08-03T15:25:31.440Z,35.056,-4.748,10,4,mb,,,,1.02,us,usp0008spw,2014-11-07T01:05:44.222Z,"41 km WNW of Targuist, Morocco",earthquake,,,,1,reviewed,us,us
+1998-07-30T16:07:37.080Z,36.626,7.296,10,4.5,mb,,,,1.14,us,usp0008sfs,2014-11-07T01:05:39.663Z,"18 km NW of Héliopolis, Algeria",earthquake,,,,4,reviewed,us,us
+1998-07-25T00:11:49.450Z,40.541,-1.691,10,4.3,mb,,,,1.38,us,usp0008s4h,2014-11-07T01:05:38.088Z,"3 km ESE of Orea, Spain",earthquake,,,,1,reviewed,us,us
+1998-07-17T08:29:04.780Z,43.201,-7.066,5,4.4,ml,,,,0.86,us,usp0008rp7,2014-11-07T01:05:36.446Z,"7 km SSW of Santa Eulalia de Oscos, Spain",earthquake,,,,,reviewed,us,ldg
+1998-05-30T06:00:45.000Z,41.73,-7.23,0,4,mblg,,,,,us,usp0008nzc,2014-11-07T01:05:17.008Z,"15 km NNE of Valpaços, Portugal",earthquake,,,,,reviewed,mdd,mdd
+1998-05-28T21:42:18.100Z,42.04,-8.08,9.2,4.1,ml,,,,,us,usp0008nwa,2014-11-07T01:05:16.660Z,"8 km W of Bande, Spain",earthquake,,,,,reviewed,mdd,ldg
+1998-04-11T11:05:01.320Z,44.668,7.182,13.2,4.1,ml,,,,,us,usp0008jvj,2014-11-07T01:04:58.436Z,"1 km SW of Oncino, Italy",earthquake,,,,,reviewed,gen,gen
+1998-03-31T00:01:23.800Z,42.82,-7.28,8.6,4.1,mb,,,,,us,usp0008j9y,2014-11-07T01:04:52.278Z,"6 km SE of Láncara, Spain",earthquake,,,,3,reviewed,mdd,us
+1997-12-19T15:32:37.380Z,36.909,-3.369,10,4.1,mb,,,,0.88,us,usp0008cxm,2014-11-07T01:04:08.790Z,"3 km SSW of Pampaneira, Spain",earthquake,,,,2,reviewed,us,us
+1997-12-04T22:51:44.840Z,43.541,-0.675,5,4.1,ml,,,,1.01,us,usp0008bs8,2014-11-07T01:04:03.037Z,"8 km SE of Amou, France",earthquake,,,,,reviewed,us,ldg
+1997-12-01T22:47:26.750Z,35.882,-0.252,10,4.3,mb,,,,1.05,us,usp0008bm9,2014-11-07T01:04:01.218Z,"9 km NNE of Aïn el Bya, Algeria",earthquake,,,,2,reviewed,us,us
+1997-10-31T04:23:42.480Z,44.278,6.475,10,4.8,ml,,,,1.02,us,usp00089tw,2014-11-07T01:03:47.085Z,"12 km SE of Seyne-les-Alpes, France",earthquake,,,,,reviewed,us,str
+1997-10-13T21:50:16.530Z,35.971,-3.146,10,4.1,mblg,,,,1.04,us,usp00088zy,2014-11-07T01:03:41.659Z,"77 km NNW of Melilla, Spain",earthquake,,,,,reviewed,us,mdd
+1997-10-09T18:13:53.340Z,44.168,-9.172,10,4.1,mblg,,,,0.93,us,usp00088t3,2014-11-07T01:03:40.770Z,"98 km NNW of Malpica, Spain",earthquake,,,,,reviewed,us,mdd
+1997-08-30T04:01:06.970Z,43.247,-2.33,10,4.2,ml,,,,0.9,us,usp00086vu,2014-11-07T01:03:21.454Z,"4 km E of Mendaro, Spain",earthquake,,,,,reviewed,us,str
+1997-08-20T02:43:59.670Z,36.381,-4.737,97.4,4.1,mb,,,,0.91,us,usp00086ft,2014-11-07T01:03:19.588Z,"20 km SE of Marbella, Spain",earthquake,,3.8,,5,reviewed,us,us
+1997-07-20T14:26:37.300Z,35.875,3.803,10,4.1,md,,,,1.34,us,usp000853k,2014-11-07T01:03:09.656Z,"3 km ESE of Sidi Aïssa, Algeria",earthquake,,,,,reviewed,us,mdd
+1997-07-14T15:49:51.460Z,35.944,1.167,10,4.7,mb,,,,1.05,us,usp00084v9,2014-11-07T01:03:08.524Z,"9 km NNE of Ammi Moussa, Algeria",earthquake,,,,16,reviewed,us,us
+1997-07-14T11:24:57.920Z,33.619,-4.156,10,4.3,mb,,,,1.29,us,usp00084uv,2014-11-07T01:03:08.490Z,"34 km SSW of Tmourghout, Morocco",earthquake,,,,2,reviewed,us,us
+1997-07-03T20:23:15.350Z,36.635,-3.287,33,4.5,mb,,,,1.53,us,usp00084ac,2014-11-07T01:03:04.913Z,"11 km SSE of Castell de Ferro, Spain",earthquake,,,,1,reviewed,us,us
+1997-07-02T17:33:05.700Z,36.445,-3.18,10,4,mb,,,,1.21,us,usp000848u,2014-11-07T01:03:04.562Z,"34 km SSE of Castell de Ferro, Spain",earthquake,,,,1,reviewed,us,us
+1997-07-02T12:53:05.190Z,36.383,-3.224,10,4,mb,,,,1.28,us,usp000848k,2014-11-07T01:03:04.487Z,"39 km SSE of Castell de Ferro, Spain",earthquake,,,,5,reviewed,us,us
+1997-07-02T09:38:40.700Z,36.443,-3.104,10,4.6,mb,,,,1.32,us,usp0008484,2014-11-07T01:03:04.341Z,"34 km SSW of Adra, Spain",earthquake,,,,23,reviewed,us,us
+1997-07-02T03:20:02.080Z,42.707,0.726,10,4,ml,,,,1.11,us,usp000847r,2014-11-07T01:03:04.204Z,"5 km W of Vielha, Spain",earthquake,,,,,reviewed,us,ldg
+1997-05-23T18:14:39.520Z,42.897,-7.071,10,4.7,mb,,,,1.23,us,usp00082ru,2020-07-08T00:35:16.325Z,"3 km NNW of San Román, Spain",earthquake,,,,21,reviewed,us,us
+1997-05-23T00:39:07.640Z,42.922,-7.217,10,4.1,ml,,,,1.1,us,usp00082qt,2014-11-07T01:02:48.953Z,"4 km NE of Baralla, Spain",earthquake,,,,,reviewed,us,ldg
+1997-05-22T05:06:50.370Z,42.894,-7.166,10,4.1,mb,,,,1.05,us,usp00082pm,2014-11-07T01:02:48.697Z,"4 km N of Becerreá, Spain",earthquake,,,,3,reviewed,us,us
+1997-05-22T01:32:33.400Z,42.996,-7.154,10,4.1,ml,,,,1.26,us,usp00082p5,2014-11-07T01:02:48.656Z,"12 km ENE of O Páramo, Spain",earthquake,,,,,reviewed,us,ldg
+1997-05-22T00:17:17.850Z,42.856,-7.16,16.5,5.1,mb,,,,1.1,us,usp00082nt,2020-04-16T18:32:02.427Z,"0 km E of Becerreá, Spain",earthquake,,,,27,reviewed,us,us
+1997-05-22T00:02:52.350Z,43.002,-7.123,10,4.5,mb,,,,1.23,us,usp00082nn,2014-11-07T01:02:48.600Z,"10 km WNW of Navia de Suarna, Spain",earthquake,,,,8,reviewed,us,us
+1997-05-21T23:50:43.500Z,42.881,-7.193,18.8,5.4,mwc,,,,1.08,us,usp00082nm,2022-04-29T16:54:49.681Z,"3 km NW of Becerreá, Spain",earthquake,,,,,reviewed,us,hrv
+1997-05-21T23:49:43.760Z,42.895,-7.128,18.7,5.3,mwc,,,,1.19,us,usp00082nk,2022-04-29T16:54:47.987Z,"5 km NE of Becerreá, Spain",earthquake,,,,,reviewed,us,hrv
+1997-05-09T04:26:35.870Z,37.245,-4.038,33,4,mblg,,,,1.41,us,usp00081yu,2014-11-07T01:02:45.435Z,"5 km N of Huétor-Tájar, Spain",earthquake,,,,,reviewed,us,mdd
+1997-02-24T07:09:49.780Z,37.076,-3.846,10,4.4,mb,,,,1.13,us,usp0007xr1,2014-11-07T01:02:11.144Z,"2 km WNW of Ventas de Huelma, Spain",earthquake,,,,8,reviewed,us,us
+1997-02-04T13:45:07.500Z,42.927,-7.202,21.6,4.2,ml,,,,1.3,us,usp0007ws1,2014-11-07T01:02:06.076Z,"5 km NE of Baralla, Spain",earthquake,,7.5,,,reviewed,us,ldg
+1997-02-03T22:09:55.480Z,42.924,-7.194,22.7,4.1,ml,,,,1.23,us,usp0007wr3,2014-11-07T01:02:05.648Z,"6 km NE of Baralla, Spain",earthquake,,8.6,,,reviewed,us,str
+1997-01-19T07:08:24.600Z,36.168,7.411,10,4.3,mb,,,,1.3,us,usp0007w29,2014-11-07T01:01:58.705Z,"11 km WNW of Sedrata, Algeria",earthquake,,,,3,reviewed,us,us
+1997-01-12T01:23:58.960Z,46.555,-1.019,10,4.3,ml,,,,1.35,us,usp0007vs6,2014-11-07T01:01:57.622Z,"2 km E of Sainte-Hermine, France",earthquake,,,,,reviewed,us,str
+1996-12-12T14:32:23.970Z,43.16,0.183,10,4.2,ml,,,,1.27,us,usp0007ub2,2014-11-07T01:01:46.627Z,"5 km WSW of Tournay, France",earthquake,,,,,reviewed,us,ldg
+1996-10-29T19:38:04.710Z,42.651,-7.43,10,4.4,ml,,,,1.37,us,usp0007s4b,2014-11-07T01:01:26.920Z,"6 km WNW of O Incio, Spain",earthquake,,,,,reviewed,us,ldg
+1996-10-12T23:26:31.760Z,43.104,-5.991,10,4.1,ml,,,,1.32,us,usp0007rb2,2014-11-07T01:01:22.390Z,"6 km SSW of Bárzana, Spain",earthquake,,,,,reviewed,us,ldg
+1996-10-03T06:06:19.620Z,43.114,-0.183,10,4.1,mb,,,,1.06,us,usp0007qw3,2014-11-07T01:01:19.104Z,"2 km WNW of Saint-Pé-de-Bigorre, France",earthquake,,,,1,reviewed,us,us
+1996-09-04T04:14:03.210Z,36.984,2.876,10,5.5,mwc,,,,1.2,us,usp0007pde,2022-04-29T20:31:04.118Z,"20 km NNW of ’Aïn Benian, Algeria",earthquake,,,,,reviewed,us,hrv
+1996-09-02T19:07:01.550Z,37.666,-1.645,20,4.6,mb,,,,1.21,us,usp0007pbw,2014-11-07T01:01:05.620Z,"2 km NE of Cazalla, Spain",earthquake,,,,11,reviewed,us,us
+1996-08-03T10:06:26.930Z,40.466,-1.475,10,4,mb,,,,1.1,us,usp0007n21,2014-11-07T01:00:55.146Z,"3 km SSE of Monterde de Albarracín, Spain",earthquake,,,,1,reviewed,us,us
+1996-07-23T04:08:40.900Z,45.996,6.007,10,4.4,mb,,,,0.8,us,usp0007mfd,2014-11-07T01:00:49.817Z,"4 km W of Choisy, France",earthquake,,,,2,reviewed,us,us
+1996-07-15T00:13:28.670Z,46.015,5.977,5,4.5,ms,,,,1.2,us,usp0007m27,2020-07-08T00:24:58.519Z,"3 km NE of Chilly, France",earthquake,,,,1,reviewed,us,us
+1996-07-13T09:08:02.530Z,34.803,-5.812,33,4.3,ms,,,,1.1,us,usp0007m0e,2014-11-07T01:00:47.600Z,"21 km W of Ouezzane, Morocco",earthquake,,,,1,reviewed,us,us
+1996-05-06T16:29:20.360Z,37.645,-4.616,10,4,mblg,,,,0.6,us,usp0007h1c,2014-11-07T01:00:25.687Z,"6 km SW of Espejo, Spain",earthquake,,,,,reviewed,us,mdd
+1996-04-29T20:03:23.370Z,36.313,2.943,33,4,mb,,,,1,us,usp0007gr0,2014-11-07T01:00:19.975Z,"17 km ENE of Médéa, Algeria",earthquake,,,,17,reviewed,us,us
+1996-04-24T16:29:25.360Z,36.601,-2.856,10,4,mblg,,,,0.9,us,usp0007gje,2014-11-07T01:00:18.927Z,"19 km S of El Ejido, Spain",earthquake,,,,,reviewed,us,mdd
+1996-04-18T21:58:29.340Z,36.224,4.666,10,4.8,mb,,,,1.2,us,usp0007gba,2022-04-29T20:17:28.600Z,"18 km WSW of Bordj Zemoura, Algeria",earthquake,,,,50,reviewed,us,us
+1996-04-17T18:07:57.290Z,37.648,-4.638,5.3,4.2,mblg,,,,0.7,us,usp0007g9w,2014-11-07T01:00:17.758Z,"5 km E of Montemayor, Spain",earthquake,,2.6,,,reviewed,us,mdd
+1996-04-16T22:43:34.670Z,37.644,-4.661,10,4,mb,,,,1.2,us,usp0007g93,2014-11-07T01:00:17.656Z,"3 km E of Montemayor, Spain",earthquake,,,,13,reviewed,us,us
+1996-03-31T06:08:01.740Z,45.935,7.397,5,4.3,mb,,,,1.2,us,usp0007fj7,2014-11-07T01:00:10.374Z,"7 km NNW of Bionaz, Italy",earthquake,,,,6,reviewed,us,us
+1996-02-18T04:16:32.980Z,44.779,6.744,5.3,4.1,ml,,,,0.9,us,usp0007d9p,2014-11-07T00:59:55.161Z,"13 km ESE of Saint-Martin-de-Queyrières, France",earthquake,,1.3,,,reviewed,us,str
+1996-02-18T02:27:00.740Z,42.848,2.584,10,4.6,mb,,,,1.3,us,usp0007d90,2014-11-07T00:59:55.110Z,"7 km ENE of Saint-Paul-de-Fenouillet, France",earthquake,,,,1,reviewed,us,us
+1996-02-18T01:45:43.230Z,42.828,2.533,10,4.7,mb,,,,1.2,us,usp0007d8q,2020-09-15T18:37:10.100Z,"3 km NE of Saint-Paul-de-Fenouillet, France",earthquake,,,,49,reviewed,us,us
+1996-01-06T02:36:50.760Z,43.189,-0.326,10,4.3,ml,,,,1,us,usp0007aen,2014-11-07T00:59:36.984Z,"3 km SE of Bosdarros, France",earthquake,,,,,reviewed,us,ldg
+1995-12-24T18:19:49.200Z,42.95,-7.265,10,4,mblg,,,,1.2,us,usp00079jb,2014-11-07T00:59:29.027Z,"2 km E of O Páramo, Spain",earthquake,,,,,reviewed,us,mdd
+1995-12-24T14:29:18.850Z,42.936,-7.213,10,5.1,ms,,,,1.3,us,usp00079hm,2022-04-29T19:51:01.613Z,"5 km NE of Baralla, Spain",earthquake,,,,1,reviewed,us,us
+1995-12-07T20:03:33.860Z,44.897,-5.876,10,4.4,mb,,,,1.2,us,usp00078j2,2014-11-07T00:59:23.914Z,"142 km N of Luanco, Spain",earthquake,,,,7,reviewed,us,us
+1995-11-29T23:56:27.570Z,42.928,-7.204,17.9,5,ms,,,,1.2,us,usp00077sc,2014-11-07T00:59:14.745Z,"5 km NE of Baralla, Spain",earthquake,,,,1,reviewed,us,us
+1995-11-21T04:04:34.660Z,45.069,7.549,21.7,4.4,ml,,,,0.9,us,usp000776e,2014-11-07T00:59:12.153Z,"1 km SW of Collegno, Italy",earthquake,,1.8,,,reviewed,us,grf
+1995-11-21T00:25:08.880Z,35.32,-0.738,10,4.1,mb,,,,1,us,usp000775y,2014-11-07T00:59:12.090Z,"17 km NW of Sidi Bel Abbès, Algeria",earthquake,,,,13,reviewed,us,us
+1995-11-18T00:24:46.360Z,36.941,-2.525,10,4,mblg,,,,1,us,usp000771c,2014-11-07T00:59:11.610Z,"3 km WSW of Gádor, Spain",earthquake,,,,,reviewed,us,mdd
+1995-11-17T18:20:08.840Z,36.436,-9.143,20,4.2,mb,,,,1,us,usp000770x,2014-11-07T00:59:11.564Z,"66 km SSW of Sagres, Portugal",earthquake,,,,7,reviewed,us,us
+1995-11-12T21:19:27.330Z,41.312,4.348,10,4.2,mb,,,,1,us,usp00076qu,2014-11-07T00:59:10.010Z,"117 km ESE of Palamós, Spain",earthquake,,,,1,reviewed,us,us
+1995-10-25T03:18:19.000Z,40.987,4.81,10,4.2,mb,,,,1.1,us,usp00075r0,2014-11-07T00:59:00.686Z,"126 km NNE of Mercadal, Spain",earthquake,,,,2,reviewed,us,us
+1995-10-15T01:43:11.610Z,35.21,-3.947,33,4,mb,,,,1.2,us,usp000755x,2014-11-07T00:58:57.650Z,"2 km SSE of Tirhanimîne, Morocco",earthquake,,,,2,reviewed,us,us
+1995-10-07T01:37:31.570Z,46.824,7.08,10,4.1,ml,,,,1,us,usp00074qb,2014-11-07T00:58:54.782Z,"1 km SSE of Grolley, Switzerland",earthquake,,,,,reviewed,us,grf
+1995-09-17T16:29:24.920Z,46.808,7.111,10,4.1,ml,,,,1,us,usp00073gx,2014-11-07T00:58:44.617Z,"0 km ESE of Corminboeuf, Switzerland",earthquake,,,,,reviewed,us,grf
+1995-08-11T11:28:19.900Z,42.844,-12.659,10,4.6,mb,,,,1.3,us,usp00071qd,2014-11-07T00:58:30.896Z,"277 km W of Fisterra, Spain",earthquake,,,,14,reviewed,us,us
+1995-06-07T16:20:34.060Z,36.968,-2.145,10,4.1,md,,,,0.8,us,usp0006yr7,2014-11-07T00:58:06.845Z,"5 km E of Níjar, Spain",earthquake,,,,,reviewed,us,pda
+1995-05-24T20:45:36.010Z,46.647,6.315,5.8,4.4,mb,,,,1,us,usp0006xz8,2014-11-07T00:57:59.605Z,"7 km NE of Le Chenit, Switzerland",earthquake,,1.4,,1,reviewed,us,us
+1995-05-23T22:42:22.040Z,40.858,1.596,10,4.4,mb,,,,1,us,usp0006xws,2014-11-07T00:57:59.272Z,"35 km SSE of Torredembarra, Spain",earthquake,,,,1,reviewed,us,us
+1995-05-15T15:41:20.070Z,40.848,1.626,10,4.3,ml,,,,1.3,us,usp0006xdw,2014-11-07T00:57:55.889Z,"37 km SSE of Coma-ruga, Spain",earthquake,,,,,reviewed,us,ldg
+1995-05-15T15:37:39.430Z,40.896,1.549,10,4.6,mb,,,,1.3,us,usp0006xdv,2014-11-07T00:57:55.876Z,"30 km SSE of Torredembarra, Spain",earthquake,,,,1,reviewed,us,us
+1995-04-24T08:02:53.920Z,43.592,7.458,10,4,ml,,,,0.7,us,usp0006w95,2014-11-07T00:57:45.766Z,"14 km SE of Saint-Jean-Cap-Ferrat, France",earthquake,,,,,reviewed,us,rom
+1995-04-21T08:02:56.620Z,43.767,7.555,25.7,4.4,mb,,,,0.9,us,usp0006w12,2014-11-07T00:57:44.358Z,"4 km ESE of Menton, France",earthquake,,1.7,,9,reviewed,us,us
+1995-03-17T13:36:55.380Z,36.919,-4.303,60,4,md,,,,1.1,us,usp0006uat,2014-11-07T00:57:31.618Z,"0 km WNW of Ríogordo, Spain",earthquake,,,,,reviewed,us,sfs
+1995-03-15T19:42:44.190Z,43.999,-7.653,10,4.4,mb,,,,1.2,us,usp0006u7v,2014-11-07T00:57:31.113Z,"33 km NNE of Cariño, Spain",earthquake,,,,26,reviewed,us,us
+1995-02-12T15:31:05.580Z,43.284,-0.193,5,4.1,ml,,,,1.2,us,usp0006stj,2014-11-07T00:57:19.117Z,"1 km N of Soumoulou, France",earthquake,,,,,reviewed,us,ldg
+1994-12-14T08:55:58.460Z,46.012,6.353,10,4.5,mb,,,,1.1,us,usp0006q1g,2020-09-15T17:33:36.414Z,"7 km SSE of Amancy, France",earthquake,,,,5,reviewed,us,us
+1994-11-25T05:33:17.370Z,34.651,-4.575,77.6,4.4,mb,,,,1.1,us,usp0006p6x,2014-11-07T00:56:50.488Z,"14 km NNE of Taounate, Morocco",earthquake,,6,,26,reviewed,us,us
+1994-10-07T08:52:43.550Z,35.268,-4.048,35.8,4.3,mb,,,,1.3,us,usp0006kqt,2014-11-07T00:56:28.916Z,"9 km WNW of Tirhanimîne, Morocco",earthquake,,9.4,,9,reviewed,us,us
+1994-10-03T03:08:00.660Z,35.64,5.736,10,4.2,mb,,,,1,us,usp0006kbe,2014-11-07T00:56:26.009Z,"9 km ESE of Râs el Aïoun, Algeria",earthquake,,,,2,reviewed,us,us
+1994-09-26T05:38:41.920Z,41.362,2.688,33,4.2,ml,,,,1.3,us,usp0006k0n,2014-11-07T00:56:20.357Z,"26 km SSE of Canet de Mar, Spain",earthquake,,,,,reviewed,us,ldg
+1994-09-24T17:55:01.160Z,40.973,4.67,33,5,mb,,,,1.3,us,usp0006jyk,2014-11-07T00:56:19.697Z,"119 km NNE of Mercadal, Spain",earthquake,,,,12,reviewed,us,us
+1994-09-24T10:50:39.240Z,36.65,-7.824,34.1,4.3,mb,,,,1,us,usp0006jxy,2014-11-07T00:56:19.633Z,"41 km SSE of Faro, Portugal",earthquake,,5.5,,8,reviewed,us,us
+1994-09-17T22:48:23.400Z,41.388,2.643,10,4,ml,,,,1.1,us,usp0006jmh,2014-11-07T00:56:18.490Z,"22 km SSE of Arenys de Mar, Spain",earthquake,,,,,reviewed,us,ldg
+1994-09-09T10:50:39.160Z,36.721,-7.824,33,4.1,md,,,,0.9,us,usp0006j5j,2014-11-07T00:56:14.808Z,"Strait of Gibraltar",earthquake,,,,,reviewed,us,mdd
+1994-08-28T04:08:09.500Z,36.065,4.249,10,4,mblg,,,,0.8,us,usp0006hk9,2014-11-07T00:56:07.828Z,"10 km NNE of Melouza, Algeria",earthquake,,,,,reviewed,us,mdd
+1994-08-23T14:18:18.030Z,36.375,-10.34,33,4.2,mb,,,,1.1,us,usp0006hct,2014-11-07T00:56:07.220Z,"143 km WSW of Sagres, Portugal",earthquake,,,,3,reviewed,us,us
+1994-08-20T04:55:27.380Z,35.446,-3.922,10,4.4,mb,,,,1.4,us,usp0006h76,2014-11-07T00:56:06.508Z,"21 km N of Al Hoceïma, Morocco",earthquake,,,,4,reviewed,us,us
+1994-08-18T01:42:48.610Z,35.536,-0.112,10,4.5,mb,,,,1.2,us,usp0006h35,2014-11-07T00:56:04.976Z,"7 km E of Sig, Algeria",earthquake,,,,14,reviewed,us,us
+1994-08-18T01:13:05.780Z,35.52,-0.106,8.7,5.9,mw,,,,1.2,us,usp0006h33,2022-04-28T17:34:14.085Z,"8 km E of Sig, Algeria",earthquake,,,,,reviewed,us,hrv
+1994-07-04T13:38:43.230Z,37.795,-6.806,10,4.3,mblg,,,,1.1,us,usp0006f64,2014-11-07T00:55:49.522Z,"13 km ENE of El Cerro de Andévalo, Spain",earthquake,,,,,reviewed,us,mdd
+1994-06-03T08:57:38.370Z,35.252,-4.036,14.9,4.6,mb,,,,1.2,us,usp0006dm7,2014-11-07T00:55:37.981Z,"7 km WNW of Tirhanimîne, Morocco",earthquake,,1.9,,40,reviewed,us,us
+1994-05-26T12:27:54.070Z,35.199,-4.024,35,4.4,mb,,,,1,us,usp0006d65,2014-11-07T00:55:31.976Z,"7 km WSW of Tirhanimîne, Morocco",earthquake,,7.7,,9,reviewed,us,us
+1994-05-26T08:31:18.610Z,35.41,-3.965,10,4.2,mblg,,,,0.5,us,usp0006d5r,2014-11-07T00:55:31.941Z,"17 km N of Al Hoceïma, Morocco",earthquake,,,,,reviewed,us,mdd
+1994-05-26T08:26:52.430Z,35.305,-4.103,9.7,6,mw,,,,1.2,us,usp0006d5q,2022-04-28T17:43:21.754Z,"15 km WNW of Tirhanimîne, Morocco",earthquake,,,,,reviewed,us,hrv
+1994-05-01T06:31:20.170Z,35.347,-4.056,10,4.2,mb,,,,1,us,usp0006bvb,2014-11-07T00:55:23.894Z,"15 km NW of Al Hoceïma, Morocco",earthquake,,,,1,reviewed,us,us
+1994-04-15T13:26:16.490Z,43.63,-7.336,29,4,mb,,,,1.1,us,usp0006b4w,2014-11-07T00:55:18.482Z,"5 km ESE of Burela de Cabo, Spain",earthquake,,7,,6,reviewed,us,us
+1994-04-13T03:33:00.430Z,41.661,-3.111,10,4.4,mb,,,,1.2,us,usp0006b0g,2014-11-07T00:55:17.895Z,"5 km WSW of Valdemaluque, Spain",earthquake,,,,1,reviewed,us,us
+1994-03-25T21:24:31.120Z,35.322,-2.757,28.3,4,md,,,,0.9,us,usp0006a67,2014-11-07T00:55:10.954Z,"16 km E of Melilla, Spain",earthquake,,4.2,,,reviewed,us,rba
+1994-02-13T10:28:10.270Z,43.144,-0.729,10,4,ml,,,,1.4,us,usp00068fc,2014-11-07T00:54:58.821Z,"5 km N of Arette, France",earthquake,,,,,reviewed,us,ldg
+1994-01-20T07:05:43.080Z,44.556,7.309,10,4.3,ml,,,,1,us,usp000671d,2014-11-07T00:54:49.145Z,"1 km SW of Melle, Italy",earthquake,,,,,reviewed,us,gen
+1994-01-20T06:59:14.200Z,44.57,7.334,10,4.6,md,,,,0.9,us,usp000671b,2014-11-07T00:54:49.123Z,"1 km NE of Melle, Italy",earthquake,,,,,reviewed,us,str
+1994-01-04T08:03:15.890Z,36.651,-2.822,22.2,4.9,mb,,,,1.3,us,usp00065zy,2014-11-07T00:54:43.142Z,"13 km S of El Ejido, Spain",earthquake,,,,56,reviewed,us,us
+1993-12-23T14:22:35.150Z,36.756,-2.937,27.4,5.3,mw,,,,1.1,us,usp00065gm,2022-04-28T17:55:06.669Z,"7 km E of Adra, Spain",earthquake,,2.2,,,reviewed,us,hrv
+1993-12-09T19:28:12.360Z,34.05,-4.882,5,4.1,md,,,,1.3,us,usp00064xb,2014-11-07T00:54:34.889Z,"7 km ESE of Fès al Bali, Morocco",earthquake,,,,,reviewed,us,rba
+1993-11-11T07:33:22.100Z,38.186,-0.022,10,4.1,mb,,,,1.1,us,usp00063gy,2014-11-07T00:54:24.055Z,"40 km SSE of Villajoyosa, Spain",earthquake,,,,2,reviewed,us,us
+1993-11-09T22:01:14.130Z,36.648,-7.695,28.9,4.3,mb,,,,1.1,us,usp00063ed,2014-11-07T00:54:23.467Z,"44 km SSE of Olhão, Portugal",earthquake,,4.1,,4,reviewed,us,us
+1993-06-22T21:52:00.380Z,36.4,-8.133,32.1,4.4,mb,,,,1,us,usp0005v15,2014-11-07T00:53:18.324Z,"71 km SSW of Faro, Portugal",earthquake,,2.8,,34,reviewed,us,us
+1993-05-27T06:12:08.660Z,43.125,0.151,19.7,4,ml,,,,0.8,us,usp0005tj3,2014-11-07T00:53:04.656Z,"4 km NNE of Pouzac, France",earthquake,,4.2,,,reviewed,us,ldg
+1993-05-23T07:40:56.940Z,35.357,-2.502,26.5,5.4,mb,,,,1.1,us,usp0005tat,2022-04-28T18:13:38.692Z,"39 km NW of Saidia, Morocco",earthquake,,2.9,,95,reviewed,us,us
+1993-05-01T00:22:21.120Z,35.294,-6.216,61.4,4.2,mb,,,,1.1,us,usp0005s0u,2014-11-07T00:52:54.125Z,"12 km NNW of Larache, Morocco",earthquake,,5.2,,4,reviewed,us,us
+1993-04-18T05:43:19.930Z,35.899,-3.734,10,4,mblg,,,,1.1,us,usp0005rc3,2014-11-07T00:52:50.185Z,"74 km NNE of Al Hoceïma, Morocco",earthquake,,,,,reviewed,us,mdd
+1993-03-23T07:40:31.810Z,33.604,-2.269,10,4.4,mblg,,,,1.1,us,usp0005pzj,2014-11-07T00:52:38.023Z,"50 km SSW of Aïn Beni Mathar, Morocco",earthquake,,,,,reviewed,us,mdd
+1993-03-06T11:33:56.540Z,36.107,-11.397,10,4.3,mb,,,,1.2,us,usp0005p2y,2014-11-07T00:52:32.939Z,"241 km WSW of Sagres, Portugal",earthquake,,,,2,reviewed,us,us
+1993-02-16T03:11:11.270Z,36.658,-8.575,34.1,4.2,mb,,,,1.4,us,usp0005n5m,2014-11-07T00:52:24.641Z,"49 km SSE of Senhora da Luz, Portugal",earthquake,,8.4,,14,reviewed,us,us
+1992-12-21T09:02:57.820Z,35.384,-2.519,12.8,4.4,mb,,,,1,us,usp0005jkh,2014-11-07T00:52:04.211Z,"39 km ENE of Melilla, Spain",earthquake,,2.5,,10,reviewed,us,us
+1992-10-25T23:15:25.040Z,41.416,-6.988,33,4.1,mblg,,,,0.6,us,usp0005fw8,2014-11-07T00:51:43.238Z,"13 km S of Macedo de Cavaleiros, Portugal",earthquake,,,,,reviewed,us,mdd
+1992-10-17T20:43:17.850Z,35.257,-1.435,10,4.2,mblg,,,,1.4,us,usp0005fg3,2020-08-29T01:52:17.878Z,"6 km SW of Beni Saf, Algeria",earthquake,,,,,reviewed,us,mdd
+1992-09-20T05:01:31.640Z,36.582,5.388,10,4,mb,,,,0.8,us,usp0005e7z,2014-11-07T00:51:29.733Z,"northern Algeria",earthquake,,,,1,reviewed,us,us
+1992-07-30T00:15:04.520Z,43.509,-0.609,12.8,4,ml,,,,1,us,usp0005bqf,2014-11-07T00:51:08.562Z,"4 km N of Arthez-de-Béarn, France",earthquake,,1.9,,,reviewed,us,ldg
+1992-06-20T02:32:08.980Z,43.563,-0.578,10,4.1,ml,,,,1.1,us,usp00059bp,2014-11-07T00:50:51.073Z,"10 km S of Hagetmau, France",earthquake,,,,,reviewed,us,ldg
+1992-03-19T18:53:19.910Z,42.205,2.134,10,4.5,mb,,,,1.2,us,usp00054h4,2014-11-07T00:50:17.483Z,"3 km SW of Campdevànol, Spain",earthquake,,,,1,reviewed,us,us
+1992-03-13T00:37:01.330Z,35.274,-2.44,16.6,4.3,mb,,,,0.8,us,usp000546g,2014-11-07T00:50:15.599Z,"28 km NW of Saidia, Morocco",earthquake,,3.2,,1,reviewed,us,us
+1992-03-12T13:05:55.250Z,35.308,-2.532,21.7,5.3,mb,,,,1.1,us,usp000545j,2022-04-28T18:51:58.756Z,"36 km E of Melilla, Spain",earthquake,,2.7,,59,reviewed,us,us
+1992-02-26T11:53:00.990Z,35.855,-0.397,10,4,mblg,,,,0.3,us,usp00053hd,2014-11-07T00:50:08.464Z,"10 km WNW of Aïn el Bya, Algeria",earthquake,,,,,reviewed,us,mdd
+1992-02-26T10:53:00.740Z,35.904,-0.319,10,4,mblg,,,,0.3,us,usp00053ha,2014-11-07T00:50:08.458Z,"11 km N of Aïn el Bya, Algeria",earthquake,,,,,reviewed,us,mdd
+1992-01-19T20:21:32.660Z,36.283,1.781,12.1,4.7,mb,,,,1.2,us,usp00051z6,2022-04-28T18:56:23.318Z,"8 km E of El Abadia, Algeria",earthquake,,,,21,reviewed,us,us
+1991-12-15T11:50:38.960Z,40.992,2.127,10,4.4,ml,,,,1,us,usp00050g9,2014-11-07T00:49:44.701Z,"34 km SSE of Castelldefels, Spain",earthquake,,,,,reviewed,us,str
+1991-12-06T19:34:02.890Z,47.262,0.172,10,4.2,ml,,,,1.1,us,usp0005041,2014-11-07T00:49:42.481Z,"2 km S of Bourgueil, France",earthquake,,,,,reviewed,us,ldg
+1991-08-14T10:32:06.930Z,38.806,-1.008,10,4.2,ml,,,,1.2,us,usp0004vbd,2014-11-07T00:49:05.109Z,"10 km SE of Almansa, Spain",earthquake,,,,,reviewed,us,ldg
+1991-06-15T17:27:19.770Z,35.837,-10.41,37.3,4.8,mb,,,,1,us,usp0004szm,2014-11-07T00:48:45.161Z,"184 km SW of Sagres, Portugal",earthquake,,4.3,,31,reviewed,us,us
+1991-05-07T00:36:20.230Z,37.562,-2.329,10,4,mblg,,,,1.3,us,usp0004rbf,2014-11-07T00:48:33.330Z,"6 km SW of Chirivel, Spain",earthquake,,,,,reviewed,us,mdd
+1991-04-01T23:47:46.320Z,43.2,-0.891,25.4,4.2,ml,,,,0.9,us,usp0004puu,2014-11-07T00:48:18.222Z,"2 km S of Mauléon-Licharre, France",earthquake,,2.6,,,reviewed,us,ldg
+1991-03-28T22:53:28.260Z,36.568,-12.181,33,4.3,mb,,,,0.8,us,usp0004ppf,2014-11-07T00:48:15.000Z,"293 km W of Sagres, Portugal",earthquake,,,,3,reviewed,us,us
+1991-03-08T17:40:46.590Z,35.662,0.417,10,4,mb,,,,0.8,us,usp0004nu6,2014-11-07T00:48:10.726Z,"15 km WSW of Relizane, Algeria",earthquake,,,,1,reviewed,us,us
+1991-03-04T11:44:14.780Z,34.812,-5.622,10,4.1,md,,,,0.7,us,usp0004np6,2014-11-07T00:48:09.577Z,"4 km WNW of Ouezzane, Morocco",earthquake,,,,,reviewed,us,rba
+1991-02-11T15:43:43.600Z,44.871,6.704,14,4.6,mb,,,,1.1,us,usp0004mtz,2014-11-07T00:47:59.421Z,"5 km ESE of Briançon, France",earthquake,,1.4,,6,reviewed,us,us
+1990-11-07T07:25:02.170Z,37.068,-3.65,22.5,4,mblg,,,,1.5,us,usp0004gky,2014-11-07T00:47:25.276Z,"2 km SSW of Otura, Spain",earthquake,,4.8,,,reviewed,us,mdd
+1990-11-02T21:25:25.390Z,43.187,-0.532,10,4.1,ml,,,,1,us,usp0004gfd,2014-11-07T00:47:23.018Z,"4 km NNW of Ogeu-les-Bains, France",earthquake,,,,,reviewed,us,ldg
+1990-10-31T06:46:45.890Z,43.491,-0.55,10,4.1,ml,,,,0.8,us,usp0004gck,2014-11-07T00:47:19.724Z,"6 km ENE of Arthez-de-Béarn, France",earthquake,,,,,reviewed,us,ldg
+1990-10-16T14:25:30.720Z,43.149,-0.006,28.3,4.1,ml,,,,1.3,us,usp0004ftv,2014-11-07T00:47:17.113Z,"4 km SSE of Ossun, France",earthquake,,4.4,,,reviewed,us,ldg
+1990-09-28T02:07:58.510Z,35.932,-4.478,110.8,4,mb,,,,0.7,us,usp0004f4q,2014-11-07T00:47:08.494Z,"68 km S of Fuengirola, Spain",earthquake,,4,,2,reviewed,us,us
+1990-08-15T16:56:44.710Z,36.323,-2.922,10,4,mblg,,,,1.2,us,usp0004des,2014-11-07T00:46:56.884Z,"48 km S of Adra, Spain",earthquake,,,,,reviewed,us,mdd
+1990-06-12T18:48:56.070Z,43.23,-0.367,11.9,4.2,ml,,,,1.4,us,usp0004aef,2014-11-07T00:46:31.070Z,"1 km E of Gan, France",earthquake,,3.1,,,reviewed,us,ldg
+1990-05-26T09:21:05.660Z,38.306,-11.626,13.6,4.7,mb,,,,1,us,usp00049t2,2014-11-07T00:46:24.376Z,"197 km WSW of Cascais, Portugal",earthquake,,2.9,,14,reviewed,us,us
+1990-05-02T16:40:25.720Z,36.469,-4.483,101.6,4,mb,,,,0.7,us,usp00048ru,2014-11-07T00:46:16.249Z,"14 km ESE of Fuengirola, Spain",earthquake,,6,,2,reviewed,us,us
+1990-04-23T05:50:38.680Z,36.637,-12.557,33,4.2,md,,,,0.5,us,usp00048bp,2014-11-07T00:46:11.428Z,"Azores-Cape St. Vincent Ridge",earthquake,,,,,reviewed,us,rba
+1990-04-18T09:44:29.220Z,35.389,-4.031,10,4.1,mb,,,,1.2,us,usp000482n,2014-11-07T00:46:10.065Z,"17 km NNW of Al Hoceïma, Morocco",earthquake,,,,1,reviewed,us,us
+1990-04-13T22:17:13.460Z,35.624,-4.792,86.3,4.2,mb,,,,1,us,usp00047wb,2014-11-07T00:46:09.423Z,"43 km E of Martil, Morocco",earthquake,,4.4,,7,reviewed,us,us
+1990-04-12T22:47:52.760Z,36.768,2.492,13.5,4.7,mb,,,,1.1,us,usp00047v2,2014-11-07T00:46:09.280Z,"20 km NNE of Tipasa, Algeria",earthquake,,3.9,,16,reviewed,us,us
+1990-03-11T08:28:27.310Z,36.578,2.585,33,4.6,mb,,,,1.2,us,usp00046ey,2014-11-07T00:45:54.854Z,"11 km SW of Bou Ismaïl, Algeria",earthquake,,,,1,reviewed,us,us
+1990-03-08T01:37:15.360Z,36.885,-3.691,625.4,4.1,mb,,,,0.8,us,usp00046ah,2014-11-07T00:45:54.292Z,"5 km NNW of Lentegí, Spain",earthquake,,3.5,,31,reviewed,us,us
+1990-02-28T13:23:42.170Z,42.99,-1.016,28.5,4.2,ml,,,,1,us,usp0004606,2014-11-07T00:45:48.411Z,"15 km NNE of Oronz, Spain",earthquake,,2.9,,,reviewed,us,ldg
+1990-02-17T15:23:20.650Z,36.739,2.528,10,4.1,mb,,,,0.6,us,usp00045jk,2014-11-07T00:45:45.575Z,"18 km NW of Bou Ismaïl, Algeria",earthquake,,,,1,reviewed,us,us
+1990-02-14T15:55:54.040Z,46.356,6.665,10,4,ml,,,,1,us,usp00045f0,2014-11-07T00:45:43.388Z,"4 km SE of Saint-Paul-en-Chablais, France",earthquake,,,,,reviewed,us,ldg
+1990-02-11T07:00:35.910Z,45.008,7.609,10,4.3,mb,,,,1.3,us,usp00045aw,2014-11-07T00:45:42.225Z,"northern Italy",earthquake,,,,2,reviewed,us,us
+1990-02-09T13:19:30.210Z,36.794,2.5,10,4.2,mb,,,,1.1,us,usp0004586,2014-11-07T00:45:41.228Z,"23 km NNE of Tipasa, Algeria",earthquake,,,,2,reviewed,us,us
+1990-02-09T13:09:53.880Z,36.713,2.477,10,4.1,mb,,,,1.1,us,usp0004585,2014-11-07T00:45:41.222Z,"13 km N of Tipasa, Algeria",earthquake,,,,2,reviewed,us,us
+1990-02-09T11:16:54.540Z,36.699,2.5,10,4.3,mb,,,,1,us,usp0004582,2014-11-07T00:45:41.179Z,"13 km NNE of Tipasa, Algeria",earthquake,,,,1,reviewed,us,us
+1990-02-09T09:31:47.630Z,36.775,2.477,12.4,5.2,mw,,,,1.1,us,usp0004581,2022-04-28T19:57:50.153Z,"20 km N of Tipasa, Algeria",earthquake,,,,,reviewed,us,hrv
+1990-02-08T15:47:31.440Z,36.259,-12.1,10,5,mb,,,,1.2,us,usp000457a,2014-11-07T00:45:41.008Z,"294 km WSW of Sagres, Portugal",earthquake,,,,18,reviewed,us,us
+1990-02-05T07:17:44.530Z,36.749,2.534,10,4.3,mb,,,,1.1,us,usp000453p,2014-11-07T00:45:40.153Z,"18 km NW of Bou Ismaïl, Algeria",earthquake,,,,1,reviewed,us,us
